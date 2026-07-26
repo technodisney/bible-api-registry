@@ -125,10 +125,11 @@
     ],
     "caveats": [
       "Official API is non-commercial and limits caching/display/query size",
-      "API.Bible: current public catalogue does not disclose ESV availability. The checked account returned no copyrighted English editions and no ESV, so it cannot establish whether ESV can be selected on Starter or licensed on Pro. Confirm in the logged-in Bibles catalogue or with API.Bible support before planning on it."
+      "API.Bible officially states that ESV is not currently available through API.Bible; use Crossway's official ESV API instead."
     ],
     "sources": [
-      "https://api.esv.org/"
+      "https://api.esv.org/",
+      "https://care.api.bible/article/405-express-licensing-faqs"
     ],
     "access_links": [
       {
