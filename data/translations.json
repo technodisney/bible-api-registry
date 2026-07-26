@@ -29,6 +29,11 @@
         "kind": "api",
         "name": "API.Bible",
         "url": "https://api.bible/sign-up/starter"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/111-niv-new-international-version"
       }
     ]
   },
@@ -58,6 +63,11 @@
         "kind": "api",
         "name": "API.Bible",
         "url": "https://api.bible/sign-up/starter"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/110-nirv-new-international-readers-version"
       }
     ]
   },
@@ -94,6 +104,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/116-nlt-new-living-translation"
       }
     ]
   },
@@ -106,11 +121,11 @@
     "publisher_or_rights_holder": "Crossway / Good News Publishers",
     "access": [
       "Official ESV API",
-      "API.Bible where authorised",
       "Bible Gateway web"
     ],
     "caveats": [
-      "Official API is non-commercial and limits caching/display/query size"
+      "Official API is non-commercial and limits caching/display/query size",
+      "API.Bible: not present in the checked account catalogue on 2026-07-26; use the official ESV API or obtain an API.Bible licence/catalogue confirmation."
     ],
     "sources": [
       "https://api.esv.org/"
@@ -122,14 +137,14 @@
         "url": "https://api.esv.org/"
       },
       {
-        "kind": "api",
-        "name": "API.Bible",
-        "url": "https://api.bible/sign-up/starter"
-      },
-      {
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/59-esv-english-standard-version-2025"
       }
     ]
   },
@@ -166,6 +181,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/107-net-new-english-translation"
       }
     ]
   },
@@ -197,6 +217,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2692-nasb2020-new-american-standard-bible-nasb"
       }
     ]
   },
@@ -228,6 +253,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1588-amp-amplified-bible"
       }
     ]
   },
@@ -260,6 +290,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1713-csb-christian-standard-bible"
       }
     ]
   },
@@ -290,6 +325,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/114-nkjv-new-king-james-version"
       }
     ]
   },
@@ -334,6 +374,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1-kjv-king-james-version"
       }
     ]
   },
@@ -371,6 +416,11 @@
         "kind": "web",
         "name": "eBible.org",
         "url": "https://ebible.org/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/12-asv-american-standard-version"
       }
     ]
   },
@@ -417,6 +467,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/206-webus-world-english-bible-american-english-edition-without-strongs-numbers"
       }
     ]
   },
@@ -453,6 +508,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/478-darby-darbys-translation-1890"
       }
     ]
   },
@@ -490,6 +550,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/55-drc1752-douay-rheims-challoner-revision-1752"
       }
     ]
   },
@@ -520,6 +585,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2163-gnv-geneva-bible"
       }
     ]
   },
@@ -545,6 +615,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2020-rsv-revised-standard-version"
       }
     ]
   },
@@ -572,6 +647,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3523-nrsvue-new-revised-standard-version-updated-edition-2021"
       }
     ]
   },
@@ -602,6 +682,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/463-nabre-new-american-bible-revised-edition"
       }
     ]
   },
@@ -632,6 +717,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/37-ceb-common-english-bible"
       }
     ]
   },
@@ -663,6 +753,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/68-gnt-good-news-translation"
       }
     ]
   },
@@ -693,6 +788,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/392-cev-contemporary-english-version"
       }
     ]
   },
@@ -722,6 +822,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version"
       }
     ]
   },
@@ -752,6 +857,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/97-msg-the-message"
       }
     ]
   },
@@ -781,6 +891,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/90-leb-lexham-english-bible"
       }
     ]
   },
@@ -805,6 +920,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1275-cjb-complete-jewish-bible"
       }
     ]
   },
@@ -829,6 +949,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/314-tlv-tree-of-life-version"
       }
     ]
   },
@@ -853,6 +978,11 @@
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1932-fbv-free-bible-version"
       }
     ]
   },
@@ -882,6 +1012,11 @@
         "kind": "web",
         "name": "Berean Bible",
         "url": "https://berean.bible/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3034-bsb-berean-standard-bible"
       }
     ]
   },
@@ -941,6 +1076,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/821-ylt98-youngs-literal-translation-1898"
       }
     ]
   }
