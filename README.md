@@ -6,36 +6,36 @@ Machine-readable data and a concise reference for Bible translation access and B
 
 | Translation | Publisher / rights holder | Places it can be accessed |
 |---|---|---|
-| New International Version (NIV, NIVUK) | Biblica; Zondervan/Hodder & Stoughton distribution | [Bible Gateway web](https://www.biblegateway.com/)<br>API.Bible where authorised<br>direct Biblica/HarperCollins licence |
-| New International Reader's Version (NIrV) | Biblica / Zondervan | [Bible Gateway web](https://www.biblegateway.com/)<br>API.Bible where authorised |
-| New Living Translation (NLT) | Tyndale House Foundation / Tyndale House Publishers | [Official NLT API](https://api.nlt.to/)<br>[API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/) |
-| English Standard Version (ESV, ESVUK) | Crossway / Good News Publishers | [Official ESV API](https://api.esv.org/)<br>API.Bible where authorised<br>[Bible Gateway web](https://www.biblegateway.com/) |
-| New English Translation (NET) | Biblical Studies Press | [Official NET API](https://labs.bible.org/api_web_service)<br>[Free Use Bible API](https://bible.helloao.org/)<br>[Bible Gateway web](https://www.biblegateway.com/) |
-| New American Standard Bible (NASB, NASB1995) | The Lockman Foundation | API.Bible where authorised<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
-| Amplified Bible (AMP, AMPC) | The Lockman Foundation | API.Bible where authorised<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
-| Christian Standard Bible (CSB, CSBA, HCSB) | Holman Bible Publishers / Lifeway | API.Bible where authorised<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
-| New King James Version (NKJV) | Thomas Nelson / HarperCollins Christian Publishing | API.Bible where authorised<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
-| King James Version (KJV, AV) | Original public-domain text; Crown rights affect UK publication | [Free Use Bible API](https://bible.helloao.org/)<br>[DailyBible API](https://dailybible.ca/api-docs)<br>[API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host verified source |
-| American Standard Version (ASV) | Original Thomas Nelson edition; public domain in the US | [Free Use Bible API](https://bible.helloao.org/)<br>[DailyBible API](https://dailybible.ca/api-docs)<br>[eBible.org](https://ebible.org/)<br>self-host verified source |
-| World English Bible (WEB, WEBP, WEBBE, WEBC) | Rainbow Missions / eBible.org contributors | [Free Use Bible API](https://bible.helloao.org/)<br>[eBible.org](https://ebible.org/)<br>[API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host |
-| Darby Translation (DARBY) | John Nelson Darby original text | [Free Use Bible API](https://bible.helloao.org/)<br>[DailyBible API](https://dailybible.ca/api-docs)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host |
-| Douay-Rheims (DRA, DRC) | English College at Douay / Challoner revision | [Free Use Bible API](https://bible.helloao.org/)<br>[DailyBible API](https://dailybible.ca/api-docs)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host |
-| Geneva Bible (GNV) | Original 1560/1599 text public domain | [Free Use Bible API](https://bible.helloao.org/)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host historical source |
+| New International Version (NIV, NIVUK) | Biblica; Zondervan/Hodder & Stoughton distribution | [Bible Gateway web](https://www.biblegateway.com/)<br>[API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>direct Biblica/HarperCollins licence |
+| New International Reader's Version (NIrV) | Biblica / Zondervan | [Bible Gateway web](https://www.biblegateway.com/)<br>[API — API.Bible where authorised](https://api.bible/sign-up/starter) |
+| New Living Translation (NLT) | Tyndale House Foundation / Tyndale House Publishers | [API — Official NLT API](https://api.nlt.to/)<br>[API — API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/) |
+| English Standard Version (ESV, ESVUK) | Crossway / Good News Publishers | [API — Official ESV API](https://api.esv.org/)<br>[API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/) |
+| New English Translation (NET) | Biblical Studies Press | [API — Official NET API](https://labs.bible.org/api_web_service)<br>[API — Free Use Bible API](https://bible.helloao.org/)<br>[Bible Gateway web](https://www.biblegateway.com/) |
+| New American Standard Bible (NASB, NASB1995) | The Lockman Foundation | [API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
+| Amplified Bible (AMP, AMPC) | The Lockman Foundation | [API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
+| Christian Standard Bible (CSB, CSBA, HCSB) | Holman Bible Publishers / Lifeway | [API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
+| New King James Version (NKJV) | Thomas Nelson / HarperCollins Christian Publishing | [API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
+| King James Version (KJV, AV) | Original public-domain text; Crown rights affect UK publication | [API — Free Use Bible API](https://bible.helloao.org/)<br>[API — DailyBible API](https://dailybible.ca/api-docs)<br>[API — API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host verified source |
+| American Standard Version (ASV) | Original Thomas Nelson edition; public domain in the US | [API — Free Use Bible API](https://bible.helloao.org/)<br>[API — DailyBible API](https://dailybible.ca/api-docs)<br>[eBible.org](https://ebible.org/)<br>self-host verified source |
+| World English Bible (WEB, WEBP, WEBBE, WEBC) | Rainbow Missions / eBible.org contributors | [API — Free Use Bible API](https://bible.helloao.org/)<br>[eBible.org](https://ebible.org/)<br>[API — API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host |
+| Darby Translation (DARBY) | John Nelson Darby original text | [API — Free Use Bible API](https://bible.helloao.org/)<br>[API — DailyBible API](https://dailybible.ca/api-docs)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host |
+| Douay-Rheims (DRA, DRC) | English College at Douay / Challoner revision | [API — Free Use Bible API](https://bible.helloao.org/)<br>[API — DailyBible API](https://dailybible.ca/api-docs)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host |
+| Geneva Bible (GNV) | Original 1560/1599 text public domain | [API — Free Use Bible API](https://bible.helloao.org/)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host historical source |
 | Revised Standard Version (RSV, RSVCE) | National Council of Churches / Friendship Press | [Bible Gateway web](https://www.biblegateway.com/)<br>direct licensing |
 | New Revised Standard Version (NRSV, NRSVA, NRSVCE, NRSVue) | National Council of Churches; NRSVue developed with SBL | [Bible Gateway web](https://www.biblegateway.com/)<br>direct NCC/Friendship Press licensing |
 | New American Bible Revised Edition (NABRE) | Confraternity of Christian Doctrine / USCCB | [USCCB reading site](https://bible.usccb.org/bible)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licensing |
-| Common English Bible (CEB) | United Methodist Publishing House / Abingdon Press | API.Bible where authorised<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct permission |
-| Good News Translation (GNT, TEV) | American Bible Society | [API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct ABS licensing |
-| Contemporary English Version (CEV) | American Bible Society | [API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct ABS licensing |
-| Easy-to-Read Version (ERV) | Bible League International | API.Bible where authorised<br>[Bible Gateway web](https://www.biblegateway.com/) |
-| The Message (MSG) | NavPress / The Navigators | API.Bible where authorised<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
+| Common English Bible (CEB) | United Methodist Publishing House / Abingdon Press | [API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct permission |
+| Good News Translation (GNT, TEV) | American Bible Society | [API — API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct ABS licensing |
+| Contemporary English Version (CEV) | American Bible Society | [API — API.Bible](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct ABS licensing |
+| Easy-to-Read Version (ERV) | Bible League International | [API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/) |
+| The Message (MSG) | NavPress / The Navigators | [API — API.Bible where authorised](https://api.bible/sign-up/starter)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>direct licence |
 | Lexham English Bible (LEB) | Logos / Faithlife | [Logos/Lexham channels](https://lexhamenglishbible.com/)<br>[Bible Gateway web](https://www.biblegateway.com/) |
 | Complete Jewish Bible (CJB) | David H. Stern / Messianic Jewish Publishers | [Bible Gateway web](https://www.biblegateway.com/)<br>direct publisher permission |
 | Tree of Life Version (TLV) | Messianic Jewish Family Bible Society | [Bible Gateway web](https://www.biblegateway.com/)<br>direct publisher permission |
-| Free Bible Version (FBV) | Free Bible Ministry | [Free Use Bible API](https://bible.helloao.org/)<br>source/licence metadata |
-| Berean Standard Bible (BSB) | Berean Bible / Bible Hub | [Free Use Bible API](https://bible.helloao.org/)<br>[Bible Hub/Berean sources](https://berean.bible/) |
-| Unlocked Literal Bible (ULB) | unfoldingWord | [Free Use Bible API](https://bible.helloao.org/)<br>[unfoldingWord resources](https://www.unfoldingword.org/) |
-| Young's Literal Translation (YLT) | Robert Young original text | [Free Use Bible API](https://bible.helloao.org/)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host historical source |
+| Free Bible Version (FBV) | Free Bible Ministry | [API — Free Use Bible API](https://bible.helloao.org/)<br>source/licence metadata |
+| Berean Standard Bible (BSB) | Berean Bible / Bible Hub | [API — Free Use Bible API](https://bible.helloao.org/)<br>[Bible Hub/Berean sources](https://berean.bible/) |
+| Unlocked Literal Bible (ULB) | unfoldingWord | [API — Free Use Bible API](https://bible.helloao.org/)<br>[unfoldingWord resources](https://www.unfoldingword.org/) |
+| Young's Literal Translation (YLT) | Robert Young original text | [API — Free Use Bible API](https://bible.helloao.org/)<br>[Bible Gateway web](https://www.biblegateway.com/)<br>self-host historical source |
 
 ## Bible API providers
 
