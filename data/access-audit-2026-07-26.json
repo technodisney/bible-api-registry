@@ -1,6 +1,6 @@
 {
-  "scope": "Current 30 registry records; consumer links and public API-route claims checked against cited provider/rights-holder sources.",
-  "limitations": "A consumer Bible App listing does not establish API entitlement. API.Bible edition access is per-app and per-licence.",
+  "scope": "Current registry records; consumer links and public API-route claims checked against cited provider/rights-holder sources.",
+  "limitations": "A consumer Bible App listing does not establish API entitlement. API.Bible and YouVersion Platform edition access is per-app and per-licence.",
   "records": [
     {
       "translation": "New International Version",
@@ -13,7 +13,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -29,7 +29,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -45,12 +45,12 @@
         {
           "name": "NLT API",
           "url": "https://api.nlt.to/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         },
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -66,7 +66,7 @@
         {
           "name": "ESV API",
           "url": "https://api.esv.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -82,12 +82,12 @@
         {
           "name": "NET API",
           "url": "https://labs.bible.org/api_web_service",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         },
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -103,7 +103,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -119,7 +119,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -135,7 +135,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -151,7 +151,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -167,17 +167,17 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         },
         {
           "name": "DailyBible API",
           "url": "https://dailybible.ca/api-docs",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         },
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -193,12 +193,12 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         },
         {
           "name": "DailyBible API",
           "url": "https://dailybible.ca/api-docs",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -214,12 +214,12 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         },
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -235,12 +235,12 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         },
         {
           "name": "DailyBible API",
           "url": "https://dailybible.ca/api-docs",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -256,12 +256,12 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         },
         {
           "name": "DailyBible API",
           "url": "https://dailybible.ca/api-docs",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -277,7 +277,7 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -323,7 +323,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -339,7 +339,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -355,7 +355,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -381,7 +381,7 @@
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -427,7 +427,7 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -443,7 +443,7 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -458,7 +458,7 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -474,7 +474,179 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "verified route; edition entitlement remains licence/key-specific"
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New Century Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/105-ncv-new-century-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "International Children's Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1359-icb-international-childrens-bible"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "GOD'S WORD Translation",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/70-gw-gods-word"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "Digital Bible Library",
+          "url": "https://thedigitalbiblelibrary.org/",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Legacy Standard Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3345-lsb-legacy-standard-bible"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Modern English Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1171-mev-modern-english-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "The Voice",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "not verified in current official English catalogue"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Expanded Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "not verified in current official English catalogue"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Names of God Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "not verified in current official English catalogue"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Orthodox Jewish Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/130-tojb2011-the-orthodox-jewish-bible"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "YouVersion Platform",
+          "url": "https://platform.youversion.com/",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "The New Testament for Everyone",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4732-ntfe-the-new-testament-for-everyone"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "YouVersion Platform",
+          "url": "https://platform.youversion.com/",
+          "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"

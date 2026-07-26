@@ -27,7 +27,7 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | Common English Bible (CEB) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/37-ceb-common-english-bible) |
 | Good News Translation (GNT, TEV) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/68-gnt-good-news-translation) |
 | Contemporary English Version (CEV) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/392-cev-contemporary-english-version) |
-| Easy-to-Read Version (ERV) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version) |
+| Easy-to-Read Version (ERV) | — | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version) |
 | The Message (MSG) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/97-msg-the-message) |
 | Lexham English Bible (LEB) | — | [Lexham](https://lexhamenglishbible.com/)<br>[Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/90-leb-lexham-english-bible) |
 | Complete Jewish Bible (CJB) | — | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/1275-cjb-complete-jewish-bible) |
@@ -36,11 +36,21 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | Berean Standard Bible (BSB) | [Free Use Bible API](https://bible.helloao.org/) | [Berean Bible](https://berean.bible/)<br>[Bible App](https://www.bible.com/versions/3034-bsb-berean-standard-bible) |
 | Unlocked Literal Bible (ULB) | [Free Use Bible API](https://bible.helloao.org/) | [unfoldingWord](https://www.unfoldingword.org/) |
 | Young's Literal Translation (YLT) | [Free Use Bible API](https://bible.helloao.org/) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/821-ylt98-youngs-literal-translation-1898) |
+| New Century Version (NCV) | [Bible Gateway API](https://www.biblegateway.com/api/documentation) | [Bible Gateway](https://www.biblegateway.com/versions/New-Century-Version-NCV-Bible/)<br>[Bible App](https://www.bible.com/versions/105-ncv-new-century-version) |
+| International Children's Bible (ICB) | [Bible Gateway API](https://www.biblegateway.com/api/documentation) | [Bible Gateway](https://www.biblegateway.com/versions/International-Childrens-Bible-ICB/)<br>[Bible App](https://www.bible.com/versions/1359-icb-international-childrens-bible) |
+| GOD'S WORD Translation (GW) | [Bible Gateway API](https://www.biblegateway.com/api/documentation)<br>[Digital Bible Library](https://thedigitalbiblelibrary.org/) | [Bible Gateway](https://www.biblegateway.com/versions/Gods-Word-Translation-GW-Bible/)<br>[Bible App](https://www.bible.com/versions/70-gw-gods-word)<br>[God's Word Mission Society](https://godsword.org/) |
+| Legacy Standard Bible (LSB) | [Bible Gateway API](https://www.biblegateway.com/api/documentation) | [Bible Gateway](https://www.biblegateway.com/versions/Legacy-Standard-Bible-LSB-Bible/)<br>[Bible App](https://www.bible.com/versions/3345-lsb-legacy-standard-bible)<br>[LSBible.org](https://lsbible.org/) |
+| Modern English Version (MEV) | [Bible Gateway API](https://www.biblegateway.com/api/documentation) | [Bible Gateway](https://www.biblegateway.com/versions/Modern-English-Version-MEV-Bible/)<br>[Bible App](https://www.bible.com/versions/1171-mev-modern-english-version) |
+| The Voice (VOICE) | [Bible Gateway API](https://www.biblegateway.com/api/documentation) | [Bible Gateway](https://www.biblegateway.com/versions/The-Voice-VOICE-Bible/) |
+| Expanded Bible (EXB) | [Bible Gateway API](https://www.biblegateway.com/api/documentation) | [Bible Gateway](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) |
+| Names of God Bible (NOG) | [Bible Gateway API](https://www.biblegateway.com/api/documentation) | [Bible Gateway](https://www.biblegateway.com/versions/Names-of-God-NOG-Bible/) |
+| Orthodox Jewish Bible (OJB, TOJB2011) | [Bible Gateway API](https://www.biblegateway.com/api/documentation)<br>[YouVersion Platform](https://platform.youversion.com/) | [Bible Gateway](https://www.biblegateway.com/versions/Orthodox-Jewish-Bible-OJB/)<br>[Bible App](https://www.bible.com/versions/130-tojb2011-the-orthodox-jewish-bible)<br>[Official publisher PDF](https://www.afii.org/OJB.pdf) |
+| The New Testament for Everyone (NTFE) | [Bible Gateway API](https://www.biblegateway.com/api/documentation)<br>[YouVersion Platform](https://platform.youversion.com/) | [Bible Gateway](https://www.biblegateway.com/versions/New-Testament-for-Everyone-NTFE/)<br>[Bible App](https://www.bible.com/versions/4732-ntfe-the-new-testament-for-everyone)<br>[Zondervan](https://www.zondervan.com/p/new-testament-for-everyone/) |
 
 ## Need the details?
 
 - [`data/translations.json`](data/translations.json) — rights holder, every known access route, caveats, source URLs, and machine-readable `access_links`.
-- [`data/access-audit-2026-07-26.json`](data/access-audit-2026-07-26.json) — dated evidence ledger for the current 30 translation records; separates verified consumer availability from licence/key-specific API entitlement.
+- [`data/access-audit-2026-07-26.json`](data/access-audit-2026-07-26.json) — dated evidence ledger; separates verified consumer availability from licence/key-specific API entitlement.
 - [`data/providers.json`](data/providers.json) — API provider sign-up, free plan, premium cost, commercial-use threshold, restrictions, and sources.
 - [`schema/translation.schema.json`](schema/translation.schema.json) and [`schema/provider.schema.json`](schema/provider.schema.json) — field definitions for tools and agents.
 

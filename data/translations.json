@@ -1108,5 +1108,425 @@
         "url": "https://www.bible.com/versions/821-ylt98-youngs-literal-translation-1898"
       }
     ]
+  },
+  {
+    "name": "New Century Version",
+    "abbreviations": [
+      "NCV"
+    ],
+    "publisher_or_rights_holder": "Thomas Nelson, Inc. (HarperCollins Christian Publishing)",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "direct HarperCollins Christian Publishing licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/New-Century-Version-NCV-Bible/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/105-ncv-new-century-version"
+      }
+    ],
+    "caveats": [
+      "Copyrighted Thomas Nelson edition; standard Thomas Nelson quotation policy applies.",
+      "No standalone public API identified; Bible Gateway API access is account/licence-specific.",
+      "API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/105-ncv-new-century-version",
+      "https://www.biblegateway.com/versions/New-Century-Version-NCV-Bible/",
+      "https://www.harpercollinschristian.com/sales-and-rights/permissions/",
+      "https://www.biblegateway.com/api/documentation"
+    ]
+  },
+  {
+    "name": "International Children's Bible",
+    "abbreviations": [
+      "ICB"
+    ],
+    "publisher_or_rights_holder": "Tommy Nelson / Thomas Nelson, Inc. (HarperCollins Christian Publishing)",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "direct HarperCollins Christian Publishing licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/International-Childrens-Bible-ICB/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1359-icb-international-childrens-bible"
+      }
+    ],
+    "caveats": [
+      "Copyrighted Tommy Nelson edition; standard Thomas Nelson quotation policy applies.",
+      "No standalone public API identified; Bible Gateway API access is account/licence-specific.",
+      "API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1359-icb-international-childrens-bible",
+      "https://www.biblegateway.com/versions/International-Childrens-Bible-ICB/",
+      "https://www.harpercollinschristian.com/sales-and-rights/permissions/",
+      "https://www.biblegateway.com/api/documentation"
+    ]
+  },
+  {
+    "name": "GOD'S WORD Translation",
+    "abbreviations": [
+      "GW"
+    ],
+    "publisher_or_rights_holder": "God's Word to the Nations Mission Society; Baker Publishing Group commercial publishing rights",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "Digital Bible Library where licensed",
+      "direct rights-holder licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "api",
+        "name": "Digital Bible Library",
+        "url": "https://thedigitalbiblelibrary.org/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Gods-Word-Translation-GW-Bible/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/70-gw-gods-word"
+      },
+      {
+        "kind": "web",
+        "name": "God's Word Mission Society",
+        "url": "https://godsword.org/"
+      }
+    ],
+    "caveats": [
+      "Copyrighted; published quotation policy has a 250-verse threshold.",
+      "DBL availability is organisation- and licence-specific.",
+      "API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://godsword.org/pages/copyright-notices",
+      "https://www.bible.com/versions/70-gw-gods-word",
+      "https://www.biblegateway.com/versions/Gods-Word-Translation-GW-Bible/",
+      "https://www.biblegateway.com/api/documentation",
+      "https://godsword.org/blogs/news/reflecting-on-gods-blessings-from-2020"
+    ]
+  },
+  {
+    "name": "Legacy Standard Bible",
+    "abbreviations": [
+      "LSB"
+    ],
+    "publisher_or_rights_holder": "The Lockman Foundation; managed in partnership with Three Sixteen Publishing, Inc.",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "direct Lockman Foundation / Three Sixteen Publishing licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Legacy-Standard-Bible-LSB-Bible/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3345-lsb-legacy-standard-bible"
+      },
+      {
+        "kind": "web",
+        "name": "LSBible.org",
+        "url": "https://lsbible.org/"
+      }
+    ],
+    "caveats": [
+      "Copyrighted; published policy permits quotation up to 1,000 verses subject to conditions and attribution.",
+      "The rights holder has a specific AI quotation/attribution policy; it does not authorise bulk scraping or dataset creation.",
+      "API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://lsbible.org/permission-to-quote-the-lsb/",
+      "https://www.bible.com/versions/3345-lsb-legacy-standard-bible",
+      "https://www.biblegateway.com/versions/Legacy-Standard-Bible-LSB-Bible/",
+      "https://www.biblegateway.com/api/documentation"
+    ]
+  },
+  {
+    "name": "Modern English Version",
+    "abbreviations": [
+      "MEV"
+    ],
+    "publisher_or_rights_holder": "Military Bible Association (copyright holder); published by Passio / Charisma House",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "direct rights-holder licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Modern-English-Version-MEV-Bible/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1171-mev-modern-english-version"
+      }
+    ],
+    "caveats": [
+      "Copyrighted; publisher identity is presented differently by consumer services, while Military Bible Association is the copyright holder.",
+      "No standalone public API identified; API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1171-mev-modern-english-version",
+      "https://www.biblegateway.com/versions/Modern-English-Version-MEV-Bible/",
+      "https://www.biblegateway.com/api/documentation"
+    ]
+  },
+  {
+    "name": "The Voice",
+    "abbreviations": [
+      "VOICE"
+    ],
+    "publisher_or_rights_holder": "Ecclesia Bible Society; published by Thomas Nelson, Inc. (HarperCollins Christian Publishing)",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "direct HarperCollins Christian Publishing licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/The-Voice-VOICE-Bible/"
+      }
+    ],
+    "caveats": [
+      "No current Bible App version page was verified in the official English catalogue.",
+      "Copyrighted Thomas Nelson edition; direct rights-holder permission is required beyond its published quotation policy.",
+      "API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://www.biblegateway.com/versions/The-Voice-VOICE-Bible/",
+      "https://www.harpercollinschristian.com/sales-and-rights/permissions/",
+      "https://www.biblegateway.com/api/documentation"
+    ]
+  },
+  {
+    "name": "Expanded Bible",
+    "abbreviations": [
+      "EXB"
+    ],
+    "publisher_or_rights_holder": "Thomas Nelson, Inc. (HarperCollins Christian Publishing)",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "direct HarperCollins Christian Publishing licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Expanded-Bible-EXB/"
+      }
+    ],
+    "caveats": [
+      "No current Bible App version page was verified in the official English catalogue.",
+      "Copyrighted Thomas Nelson edition; direct rights-holder permission is required beyond its published quotation policy.",
+      "API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://www.biblegateway.com/versions/Expanded-Bible-EXB/",
+      "https://www.harpercollinschristian.com/sales-and-rights/permissions/",
+      "https://www.biblegateway.com/api/documentation"
+    ]
+  },
+  {
+    "name": "Names of God Bible",
+    "abbreviations": [
+      "NOG"
+    ],
+    "publisher_or_rights_holder": "Baker Publishing Group (copyright); published by Tree of Life Bible Society",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "direct Baker Publishing Group licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Names-of-God-NOG-Bible/"
+      }
+    ],
+    "caveats": [
+      "No current Bible App version page was verified in the official English catalogue.",
+      "The edition is derived from GOD'S WORD Translation with separate copyright layers; direct licence is needed for full-text, commercial, or AI/RAG use.",
+      "API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://www.biblegateway.com/versions/Names-of-God-NOG-Bible/",
+      "https://www.biblegateway.com/api/documentation"
+    ]
+  },
+  {
+    "name": "Orthodox Jewish Bible",
+    "abbreviations": [
+      "OJB",
+      "TOJB2011"
+    ],
+    "publisher_or_rights_holder": "Artists for Israel International (AFII)",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "YouVersion Platform where licensed",
+      "direct AFII licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "api",
+        "name": "YouVersion Platform",
+        "url": "https://platform.youversion.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Orthodox-Jewish-Bible-OJB/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/130-tojb2011-the-orthodox-jewish-bible"
+      },
+      {
+        "kind": "web",
+        "name": "Official publisher PDF",
+        "url": "https://www.afii.org/OJB.pdf"
+      }
+    ],
+    "caveats": [
+      "The Bible App edition is TOJB2011 (version 130); consumer listing does not establish platform API entitlement.",
+      "This is a Messianic Jewish translation, not an Orthodox Jewish publication per se.",
+      "Full-text, commercial, and AI/RAG use require direct rights-holder permission."
+    ],
+    "sources": [
+      "https://www.biblegateway.com/versions/Orthodox-Jewish-Bible-OJB/",
+      "https://www.bible.com/versions/130-tojb2011-the-orthodox-jewish-bible",
+      "https://www.afii.org/OJB.pdf",
+      "https://www.biblegateway.com/api/documentation"
+    ]
+  },
+  {
+    "name": "The New Testament for Everyone",
+    "abbreviations": [
+      "NTFE"
+    ],
+    "publisher_or_rights_holder": "Nicholas Thomas Wright; published by Zondervan (HarperCollins Christian Publishing) in North America and SPCK in the UK",
+    "access": [
+      "Bible Gateway web",
+      "Bible Gateway API where authorised",
+      "YouVersion Platform where licensed",
+      "direct Zondervan / HarperCollins Christian Publishing licence"
+    ],
+    "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
+      {
+        "kind": "api",
+        "name": "YouVersion Platform",
+        "url": "https://platform.youversion.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/New-Testament-for-Everyone-NTFE/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4732-ntfe-the-new-testament-for-everyone"
+      },
+      {
+        "kind": "web",
+        "name": "Zondervan",
+        "url": "https://www.zondervan.com/p/new-testament-for-everyone/"
+      }
+    ],
+    "caveats": [
+      "New Testament only.",
+      "Consumer Bible App availability does not establish YouVersion Platform API entitlement.",
+      "Full-text, commercial, and AI/RAG use require a direct licence.",
+      "API.Bible availability was not confirmed in public sources."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4732-ntfe-the-new-testament-for-everyone",
+      "https://www.biblegateway.com/versions/New-Testament-for-Everyone-NTFE/",
+      "https://www.zondervan.com/p/new-testament-for-everyone/",
+      "https://www.biblegateway.com/api/documentation"
+    ]
   }
 ]
