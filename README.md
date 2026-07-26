@@ -44,6 +44,10 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 - [`data/providers.json`](data/providers.json) — API provider sign-up, free plan, premium cost, commercial-use threshold, restrictions, and sources.
 - [`schema/translation.schema.json`](schema/translation.schema.json) and [`schema/provider.schema.json`](schema/provider.schema.json) — field definitions for tools and agents.
 
+## Research template
+
+- [`templates/translation-research-prompt.md`](templates/translation-research-prompt.md) — paste-ready prompt for a sub-agent to research one translation without collapsing consumer availability, API entitlement, and reuse rights into one muddle.
+
 ## Licence
 
 Registry structure and original summaries: [CC0-1.0](LICENSE). Bible translation text, names, logos, publisher metadata, trademarks, and upstream terms remain owned by their respective rights holders.
