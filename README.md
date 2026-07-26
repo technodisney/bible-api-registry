@@ -1,4 +1,4 @@
-# English Bible Translation Access Registry
+# Bible API Registry
 
 A **human- and machine-readable** registry of English Bible translations and Bible-content API providers.
 
