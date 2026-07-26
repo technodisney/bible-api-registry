@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bible Translation Registry Record",
+  "type": "object",
+  "required": ["name", "abbreviations", "publisher_or_rights_holder", "access", "caveats", "sources"],
+  "properties": {
+    "name": {"type": "string", "minLength": 1},
+    "abbreviations": {"type": "array", "items": {"type": "string"}},
+    "publisher_or_rights_holder": {"type": "string", "minLength": 1},
+    "access": {"type": "array", "items": {"type": "string"}},
+    "caveats": {"type": "array", "items": {"type": "string"}},
+    "sources": {"type": "array", "minItems": 1, "items": {"type": "string", "format": "uri"}}
+  },
+  "additionalProperties": false
+}

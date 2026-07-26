@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bible API Provider Registry Record",
+  "type": "object",
+  "required": ["name", "operator", "signup", "free_tier", "premium_cost", "premium_required_when", "caveats", "sources"],
+  "properties": {
+    "name": {"type": "string", "minLength": 1},
+    "operator": {"type": "string", "minLength": 1},
+    "signup": {"type": "string"},
+    "free_tier": {"type": "string"},
+    "premium_cost": {"type": "string"},
+    "premium_required_when": {"type": "string"},
+    "caveats": {"type": "array", "items": {"type": "string"}},
+    "sources": {"type": "array", "minItems": 1, "items": {"type": "string", "format": "uri"}}
+  },
+  "additionalProperties": false
+}
