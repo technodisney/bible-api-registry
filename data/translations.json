@@ -125,7 +125,7 @@
     ],
     "caveats": [
       "Official API is non-commercial and limits caching/display/query size",
-      "API.Bible: not present in the checked account catalogue on 2026-07-26; use the official ESV API or obtain an API.Bible licence/catalogue confirmation."
+      "API.Bible: current public catalogue does not disclose ESV availability. The checked account returned no copyrighted English editions and no ESV, so it cannot establish whether ESV can be selected on Starter or licensed on Pro. Confirm in the logged-in Bibles catalogue or with API.Bible support before planning on it."
     ],
     "sources": [
       "https://api.esv.org/"
