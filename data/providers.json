@@ -92,17 +92,22 @@
   {
     "name": "Digital Bible Library",
     "operator": "Digital Bible Library",
-    "signup": "Free account; organisation workflow for controlled content",
+    "signup": "DBL account; organisation Account Manager generates an organisation-scoped DBL API key",
     "free_tier": "Open-access/public-domain/Creative Commons content",
     "premium_cost": "No public standard price; rights-holder agreements vary",
     "premium_required_when": "Controlled/copyrighted source content or organisation workflows",
     "caveats": [
       "licensing and content-management platform, not merely a passage API",
-      "access depends on identity, organisation permissions, and per-edition licences"
+      "a DBL key proves the permissions of its organisation; it does not grant blanket access to the DBL catalogue",
+      "open-access content is available to DBL members under its published terms; controlled content requires an active, rights-holder-approved agreement",
+      "adding the DBL key to an API.Bible app exposes only DBL content items that the DBL organisation is permitted to use",
+      "DBL key is a credential: do not expose it in a client app, repository, or chat"
     ],
     "sources": [
       "https://library.bible/",
-      "https://care.library.bible/article/196-api-bible"
+      "https://care.library.bible/article/196-api-bible",
+      "https://care.library.bible/article/208-controlled-access",
+      "https://care.library.bible/article/198-exploring-our-public-api"
     ]
   },
   {
