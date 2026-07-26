@@ -2134,5 +2134,780 @@
       "https://www.bible.com/versions/4249-nltce-new-living-translation-catholic-edition",
       "https://www.newlivingtranslation.com/"
     ]
+  },
+  {
+    "name": "African International New Testament: Explanatory Paraphrase (American English Edition)",
+    "abbreviations": [
+      "AFINTEXP"
+    ],
+    "publisher_or_rights_holder": "Word Biblical Ministries",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition"
+      }
+    ],
+    "caveats": [
+      "New Testament only; CC BY-SA stated on the Bible App page.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition"
+    ]
+  },
+  {
+    "name": "African International New Testament: Literal Translation (British English Edition)",
+    "abbreviations": [
+      "AFINTLIT"
+    ],
+    "publisher_or_rights_holder": "Word Biblical Ministries",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition"
+      }
+    ],
+    "caveats": [
+      "New Testament only; CC BY-SA stated on the Bible App page.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition"
+    ]
+  },
+  {
+    "name": "Amplified Bible, Classic Edition",
+    "abbreviations": [
+      "AMPC"
+    ],
+    "publisher_or_rights_holder": "The Lockman Foundation",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition"
+      }
+    ],
+    "caveats": [
+      "Copyrighted/trademarked classic edition; separate from AMP.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition"
+    ]
+  },
+  {
+    "name": "Anglicised English Standard Version 2025",
+    "abbreviations": [
+      "ESVUK25"
+    ],
+    "publisher_or_rights_holder": "Crossway / Good News Publishers",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025"
+      }
+    ],
+    "caveats": [
+      "Anglicised ESV edition; use Crossway licensing and official ESV API terms.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025"
+    ]
+  },
+  {
+    "name": "Christian Standard Bible Anglicised",
+    "abbreviations": [
+      "CSBA"
+    ],
+    "publisher_or_rights_holder": "LifeWay Christian Resources",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised"
+      }
+    ],
+    "caveats": [
+      "Anglicised CSB edition; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised"
+    ]
+  },
+  {
+    "name": "Contemporary English Version (Anglicised) 2012",
+    "abbreviations": [
+      "CEVUK"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/294-cevuk-contemporary-english-version-anglicised-2012"
+      }
+    ],
+    "caveats": [
+      "Anglicised CEV edition; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/294-cevuk-contemporary-english-version-anglicised-2012"
+    ]
+  },
+  {
+    "name": "Contemporary English Version Interconfessional Edition",
+    "abbreviations": [
+      "CEVDCI"
+    ],
+    "publisher_or_rights_holder": "American Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/303-cevdci-contemporary-english-version-interconfessional-edition"
+      }
+    ],
+    "caveats": [
+      "CEV interconfessional edition; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/303-cevdci-contemporary-english-version-interconfessional-edition"
+    ]
+  },
+  {
+    "name": "English word-for-word translation of Orthodox Yiddish Tanakh",
+    "abbreviations": [
+      "OYTNKHEG"
+    ],
+    "publisher_or_rights_holder": "Artists for Israel International",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4557-oytnkheg-english-word-for-word-translation-of-orthodox-yiddish-tanakh-oytanakh"
+      }
+    ],
+    "caveats": [
+      "Tanakh-only work; direct rights-holder permission required for reuse.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4557-oytnkheg-english-word-for-word-translation-of-orthodox-yiddish-tanakh-oytanakh"
+    ]
+  },
+  {
+    "name": "Good News Bible (British Version) 2017",
+    "abbreviations": [
+      "GNBUK"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/296-gnbuk-good-news-bible-british-version-2017"
+      }
+    ],
+    "caveats": [
+      "British GNT/GNB edition; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/296-gnbuk-good-news-bible-british-version-2017"
+    ]
+  },
+  {
+    "name": "Good News Bible (British) Catholic Edition 2017",
+    "abbreviations": [
+      "GNBDK"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/431-gnbdk-good-news-bible-british-catholic-edition-2017"
+      }
+    ],
+    "caveats": [
+      "Catholic edition with deuterocanonical content; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/431-gnbdk-good-news-bible-british-catholic-edition-2017"
+    ]
+  },
+  {
+    "name": "Good News Bible (British) with DC section 2017",
+    "abbreviations": [
+      "GNBDC"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/416-gnbdc-good-news-bible-british-with-dc-section-2017"
+      }
+    ],
+    "caveats": [
+      "British edition with deuterocanonical section; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/416-gnbdc-good-news-bible-british-with-dc-section-2017"
+    ]
+  },
+  {
+    "name": "Good News Translation (US Version)",
+    "abbreviations": [
+      "GNTD"
+    ],
+    "publisher_or_rights_holder": "American Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/69-gntd-good-news-translation-us-version"
+      }
+    ],
+    "caveats": [
+      "US edition of GNT; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/69-gntd-good-news-translation-us-version"
+    ]
+  },
+  {
+    "name": "Isaiah 1830, 1842 (John Jones alias Ioan Tegid)",
+    "abbreviations": [
+      "TEG"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3010-teg-isaiah-1830-1842-john-jones-alias-ioan-tegid"
+      }
+    ],
+    "caveats": [
+      "Isaiah only; historical partial work.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/3010-teg-isaiah-1830-1842-john-jones-alias-ioan-tegid"
+    ]
+  },
+  {
+    "name": "King James Version with Apocrypha, American Edition",
+    "abbreviations": [
+      "KJVAAE"
+    ],
+    "publisher_or_rights_holder": "American Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition"
+      }
+    ],
+    "caveats": [
+      "KJV American edition with Apocrypha; distinguish edition/digital rights from underlying KJV text.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition"
+    ]
+  },
+  {
+    "name": "King James Version, American Edition",
+    "abbreviations": [
+      "KJVAE"
+    ],
+    "publisher_or_rights_holder": "American Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/547-kjvae-king-james-version-american-edition"
+      }
+    ],
+    "caveats": [
+      "American KJV edition; distinguish edition/digital rights from underlying KJV text.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/547-kjvae-king-james-version-american-edition"
+    ]
+  },
+  {
+    "name": "Metrical Psalms and Scripture Selections 1562 (Sternhold and Hopkins)",
+    "abbreviations": [
+      "MP1562"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4540-mp1562-metrical-psalms-and-scripture-selections-1562-sternhold-and-hopkins"
+      }
+    ],
+    "caveats": [
+      "Partial metrical/singing text; not a full Bible.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4540-mp1562-metrical-psalms-and-scripture-selections-1562-sternhold-and-hopkins"
+    ]
+  },
+  {
+    "name": "Metrical Psalms and Scripture Selections 1698 (Brady & Tate)",
+    "abbreviations": [
+      "MP1696"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2593-mp1696-metrical-psalms-and-scripture-selections-1698-brady-tate"
+      }
+    ],
+    "caveats": [
+      "Partial metrical/singing text; not a full Bible.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2593-mp1696-metrical-psalms-and-scripture-selections-1698-brady-tate"
+    ]
+  },
+  {
+    "name": "New American Standard Bible 1995",
+    "abbreviations": [
+      "NASB1995"
+    ],
+    "publisher_or_rights_holder": "The Lockman Foundation",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/100-nasb1995-new-american-standard-bible-nasb-1995"
+      }
+    ],
+    "caveats": [
+      "1995 NASB edition; copyrighted/trademarked.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/100-nasb1995-new-american-standard-bible-nasb-1995"
+    ]
+  },
+  {
+    "name": "New International Version (Anglicised)",
+    "abbreviations": [
+      "NIVUK"
+    ],
+    "publisher_or_rights_holder": "Biblica, Inc.",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/113-nivuk-new-international-version-anglicised"
+      }
+    ],
+    "caveats": [
+      "Anglicised NIV edition; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/113-nivuk-new-international-version-anglicised"
+    ]
+  },
+  {
+    "name": "New Revised Standard Version Catholic Interconfessional",
+    "abbreviations": [
+      "NRSV-CI"
+    ],
+    "publisher_or_rights_holder": "National Council of the Churches of Christ",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2015-nrsv-ci-new-revised-standard-version-catholic-interconfessional"
+      }
+    ],
+    "caveats": [
+      "Catholic/interconfessional NRSV edition; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2015-nrsv-ci-new-revised-standard-version-catholic-interconfessional"
+    ]
+  },
+  {
+    "name": "Psalms of David in Metre 1650 (Scottish Psalter)",
+    "abbreviations": [
+      "MP1650"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1365-mp1650-psalms-of-david-in-metre-1650-scottish-psalter"
+      }
+    ],
+    "caveats": [
+      "Psalms only; metrical/singing text, not a full Bible.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1365-mp1650-psalms-of-david-in-metre-1650-scottish-psalter"
+    ]
+  },
+  {
+    "name": "Revised Standard Version Catholic Interconfessional",
+    "abbreviations": [
+      "RSVCI"
+    ],
+    "publisher_or_rights_holder": "National Council of the Churches of Christ",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3548-rsvci-revised-standard-version"
+      }
+    ],
+    "caveats": [
+      "RSV Catholic/interconfessional edition; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/3548-rsvci-revised-standard-version"
+    ]
+  },
+  {
+    "name": "Revised Standard Version Old Tradition 1952",
+    "abbreviations": [
+      "RSV-C"
+    ],
+    "publisher_or_rights_holder": "National Council of the Churches of Christ",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2017-rsv-c-revised-standard-version-old-tradition-1952"
+      }
+    ],
+    "caveats": [
+      "1952 RSV tradition edition; copyrighted.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2017-rsv-c-revised-standard-version-old-tradition-1952"
+    ]
+  },
+  {
+    "name": "Revised Version with Apocrypha 1885, 1895",
+    "abbreviations": [
+      "RV1895"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895"
+      }
+    ],
+    "caveats": [
+      "Historical edition with Apocrypha; distinguish digitisation rights from underlying historical text.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895"
+    ]
+  },
+  {
+    "name": "Scottish Metrical Paraphrases 1781",
+    "abbreviations": [
+      "MP1781"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3051-mp1781-scottish-metrical-paraphrases-1781"
+      }
+    ],
+    "caveats": [
+      "Partial metrical/singing text; not a full Bible.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/3051-mp1781-scottish-metrical-paraphrases-1781"
+    ]
+  },
+  {
+    "name": "St Paul from the Trenches 1916",
+    "abbreviations": [
+      "GWC"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1047-gwc-st-paul-from-the-trenches-1916"
+      }
+    ],
+    "caveats": [
+      "Historical New Testament-related partial work; not a full Bible.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1047-gwc-st-paul-from-the-trenches-1916"
+    ]
+  },
+  {
+    "name": "The Books of the Bible NT",
+    "abbreviations": [
+      "BOOKS"
+    ],
+    "publisher_or_rights_holder": "Biblica, Inc.",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/31-books-the-books-of-the-bible-nt"
+      }
+    ],
+    "caveats": [
+      "New Testament only; copyrighted Biblica edition.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/31-books-the-books-of-the-bible-nt"
+    ]
+  },
+  {
+    "name": "The third line (in English) translating the meaning of each word in the Orthodox Yiddish Brit Chadashah",
+    "abbreviations": [
+      "OYBCENGL"
+    ],
+    "publisher_or_rights_holder": "Artists for Israel International",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3915-oybcengl-the-third-line-in-english-translating-the-meaning-of-each-word-in-the-orthodox-yiddish-brit-chadashah-new-testament"
+      }
+    ],
+    "caveats": [
+      "New Testament-only supporting translation; direct rights-holder permission required.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/3915-oybcengl-the-third-line-in-english-translating-the-meaning-of-each-word-in-the-orthodox-yiddish-brit-chadashah-new-testament"
+    ]
+  },
+  {
+    "name": "Translation into English of Orthodox Yiddish Torah",
+    "abbreviations": [
+      "OYTORHEG"
+    ],
+    "publisher_or_rights_holder": "Artists for Israel International",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4070-oytorheg-translation-into-english-of-orthodox-yiddish-torah-oytorah"
+      }
+    ],
+    "caveats": [
+      "Torah only; direct rights-holder permission required.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4070-oytorheg-translation-into-english-of-orthodox-yiddish-torah-oytorah"
+    ]
+  },
+  {
+    "name": "World English Bible British Edition",
+    "abbreviations": [
+      "WEBBE"
+    ],
+    "publisher_or_rights_holder": "eBible.org",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition"
+      }
+    ],
+    "caveats": [
+      "Public-domain WEB British edition; distinguish edition naming from WEB.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition"
+    ]
+  },
+  {
+    "name": "World Messianic Bible British Edition",
+    "abbreviations": [
+      "WMBBE"
+    ],
+    "publisher_or_rights_holder": "eBible.org",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition"
+      }
+    ],
+    "caveats": [
+      "Public-domain WMB British edition; name is trademarked for unchanged text.",
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition"
+    ]
   }
 ]

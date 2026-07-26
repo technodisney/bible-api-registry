@@ -66,6 +66,37 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | Wycliffe's Bible with Modern Spelling (WBMS, WYCms) | — | [Bible App](https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling)<br>[eBible.org](https://ebible.org/) |
 | Y'all Version Bible (YALL) | — | [Bible App](https://www.bible.com/versions/4108-yall-yall-version-bible)<br>[Y’all Version](https://yallversion.com/) |
 | New Living Translation Catholic Edition (NLTCE) | — | [Bible App](https://www.bible.com/versions/4249-nltce-new-living-translation-catholic-edition)<br>[New Living Translation](https://www.newlivingtranslation.com/) |
+| African International New Testament: Explanatory Paraphrase (American English Edition) (AFINTEXP) | — | [Bible App](https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition) |
+| African International New Testament: Literal Translation (British English Edition) (AFINTLIT) | — | [Bible App](https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition) |
+| Amplified Bible, Classic Edition (AMPC) | — | [Bible App](https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition) |
+| Anglicised English Standard Version 2025 (ESVUK25) | — | [Bible App](https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025) |
+| Christian Standard Bible Anglicised (CSBA) | — | [Bible App](https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised) |
+| Contemporary English Version (Anglicised) 2012 (CEVUK) | — | [Bible App](https://www.bible.com/versions/294-cevuk-contemporary-english-version-anglicised-2012) |
+| Contemporary English Version Interconfessional Edition (CEVDCI) | — | [Bible App](https://www.bible.com/versions/303-cevdci-contemporary-english-version-interconfessional-edition) |
+| English word-for-word translation of Orthodox Yiddish Tanakh (OYTNKHEG) | — | [Bible App](https://www.bible.com/versions/4557-oytnkheg-english-word-for-word-translation-of-orthodox-yiddish-tanakh-oytanakh) |
+| Good News Bible (British Version) 2017 (GNBUK) | — | [Bible App](https://www.bible.com/versions/296-gnbuk-good-news-bible-british-version-2017) |
+| Good News Bible (British) Catholic Edition 2017 (GNBDK) | — | [Bible App](https://www.bible.com/versions/431-gnbdk-good-news-bible-british-catholic-edition-2017) |
+| Good News Bible (British) with DC section 2017 (GNBDC) | — | [Bible App](https://www.bible.com/versions/416-gnbdc-good-news-bible-british-with-dc-section-2017) |
+| Good News Translation (US Version) (GNTD) | — | [Bible App](https://www.bible.com/versions/69-gntd-good-news-translation-us-version) |
+| Isaiah 1830, 1842 (John Jones alias Ioan Tegid) (TEG) | — | [Bible App](https://www.bible.com/versions/3010-teg-isaiah-1830-1842-john-jones-alias-ioan-tegid) |
+| King James Version with Apocrypha, American Edition (KJVAAE) | — | [Bible App](https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition) |
+| King James Version, American Edition (KJVAE) | — | [Bible App](https://www.bible.com/versions/547-kjvae-king-james-version-american-edition) |
+| Metrical Psalms and Scripture Selections 1562 (Sternhold and Hopkins) (MP1562) | — | [Bible App](https://www.bible.com/versions/4540-mp1562-metrical-psalms-and-scripture-selections-1562-sternhold-and-hopkins) |
+| Metrical Psalms and Scripture Selections 1698 (Brady & Tate) (MP1696) | — | [Bible App](https://www.bible.com/versions/2593-mp1696-metrical-psalms-and-scripture-selections-1698-brady-tate) |
+| New American Standard Bible 1995 (NASB1995) | — | [Bible App](https://www.bible.com/versions/100-nasb1995-new-american-standard-bible-nasb-1995) |
+| New International Version (Anglicised) (NIVUK) | — | [Bible App](https://www.bible.com/versions/113-nivuk-new-international-version-anglicised) |
+| New Revised Standard Version Catholic Interconfessional (NRSV-CI) | — | [Bible App](https://www.bible.com/versions/2015-nrsv-ci-new-revised-standard-version-catholic-interconfessional) |
+| Psalms of David in Metre 1650 (Scottish Psalter) (MP1650) | — | [Bible App](https://www.bible.com/versions/1365-mp1650-psalms-of-david-in-metre-1650-scottish-psalter) |
+| Revised Standard Version Catholic Interconfessional (RSVCI) | — | [Bible App](https://www.bible.com/versions/3548-rsvci-revised-standard-version) |
+| Revised Standard Version Old Tradition 1952 (RSV-C) | — | [Bible App](https://www.bible.com/versions/2017-rsv-c-revised-standard-version-old-tradition-1952) |
+| Revised Version with Apocrypha 1885, 1895 (RV1895) | — | [Bible App](https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895) |
+| Scottish Metrical Paraphrases 1781 (MP1781) | — | [Bible App](https://www.bible.com/versions/3051-mp1781-scottish-metrical-paraphrases-1781) |
+| St Paul from the Trenches 1916 (GWC) | — | [Bible App](https://www.bible.com/versions/1047-gwc-st-paul-from-the-trenches-1916) |
+| The Books of the Bible NT (BOOKS) | — | [Bible App](https://www.bible.com/versions/31-books-the-books-of-the-bible-nt) |
+| The third line (in English) translating the meaning of each word in the Orthodox Yiddish Brit Chadashah (OYBCENGL) | — | [Bible App](https://www.bible.com/versions/3915-oybcengl-the-third-line-in-english-translating-the-meaning-of-each-word-in-the-orthodox-yiddish-brit-chadashah-new-testament) |
+| Translation into English of Orthodox Yiddish Torah (OYTORHEG) | — | [Bible App](https://www.bible.com/versions/4070-oytorheg-translation-into-english-of-orthodox-yiddish-torah-oytorah) |
+| World English Bible British Edition (WEBBE) | — | [Bible App](https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition) |
+| World Messianic Bible British Edition (WMBBE) | — | [Bible App](https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition) |
 
 ## Need the details?
 

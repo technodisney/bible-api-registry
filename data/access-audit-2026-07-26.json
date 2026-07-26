@@ -850,6 +850,316 @@
       },
       "api_routes_checked": [],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "African International New Testament: Explanatory Paraphrase (American English Edition)",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "African International New Testament: Literal Translation (British English Edition)",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Amplified Bible, Classic Edition",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Anglicised English Standard Version 2025",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Christian Standard Bible Anglicised",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Contemporary English Version (Anglicised) 2012",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/294-cevuk-contemporary-english-version-anglicised-2012"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Contemporary English Version Interconfessional Edition",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/303-cevdci-contemporary-english-version-interconfessional-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "English word-for-word translation of Orthodox Yiddish Tanakh",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4557-oytnkheg-english-word-for-word-translation-of-orthodox-yiddish-tanakh-oytanakh"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Good News Bible (British Version) 2017",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/296-gnbuk-good-news-bible-british-version-2017"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Good News Bible (British) Catholic Edition 2017",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/431-gnbdk-good-news-bible-british-catholic-edition-2017"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Good News Bible (British) with DC section 2017",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/416-gnbdc-good-news-bible-british-with-dc-section-2017"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Good News Translation (US Version)",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/69-gntd-good-news-translation-us-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Isaiah 1830, 1842 (John Jones alias Ioan Tegid)",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3010-teg-isaiah-1830-1842-john-jones-alias-ioan-tegid"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "King James Version with Apocrypha, American Edition",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "King James Version, American Edition",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/547-kjvae-king-james-version-american-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Metrical Psalms and Scripture Selections 1562 (Sternhold and Hopkins)",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4540-mp1562-metrical-psalms-and-scripture-selections-1562-sternhold-and-hopkins"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Metrical Psalms and Scripture Selections 1698 (Brady & Tate)",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2593-mp1696-metrical-psalms-and-scripture-selections-1698-brady-tate"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New American Standard Bible 1995",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/100-nasb1995-new-american-standard-bible-nasb-1995"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New International Version (Anglicised)",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/113-nivuk-new-international-version-anglicised"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New Revised Standard Version Catholic Interconfessional",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2015-nrsv-ci-new-revised-standard-version-catholic-interconfessional"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Psalms of David in Metre 1650 (Scottish Psalter)",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1365-mp1650-psalms-of-david-in-metre-1650-scottish-psalter"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Revised Standard Version Catholic Interconfessional",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3548-rsvci-revised-standard-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Revised Standard Version Old Tradition 1952",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2017-rsv-c-revised-standard-version-old-tradition-1952"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Revised Version with Apocrypha 1885, 1895",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Scottish Metrical Paraphrases 1781",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3051-mp1781-scottish-metrical-paraphrases-1781"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "St Paul from the Trenches 1916",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1047-gwc-st-paul-from-the-trenches-1916"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "The Books of the Bible NT",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/31-books-the-books-of-the-bible-nt"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "The third line (in English) translating the meaning of each word in the Orthodox Yiddish Brit Chadashah",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3915-oybcengl-the-third-line-in-english-translating-the-meaning-of-each-word-in-the-orthodox-yiddish-brit-chadashah-new-testament"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Translation into English of Orthodox Yiddish Torah",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4070-oytorheg-translation-into-english-of-orthodox-yiddish-torah-oytorah"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "World English Bible British Edition",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "World Messianic Bible British Edition",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
     }
   ]
 }
