@@ -1537,13 +1537,19 @@
     "publisher_or_rights_holder": "Christian Biblical Truth of God / York Publishing Company",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/4253-afv-a-faithful-version"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/A-Faithful-Version-AFV/"
       }
     ],
     "caveats": [
@@ -1551,7 +1557,8 @@
       "No API route found within the direct-source research budget; direct licence required for reuse."
     ],
     "sources": [
-      "https://www.bible.com/versions/4253-afv-a-faithful-version"
+      "https://www.bible.com/versions/4253-afv-a-faithful-version",
+      "https://www.biblegateway.com/versions/A-Faithful-Version-AFV/"
     ]
   },
   {
@@ -1562,7 +1569,8 @@
     "publisher_or_rights_holder": "Ronald L. Conte Jr.",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1574,6 +1582,11 @@
         "kind": "web",
         "name": "Sacred Bible",
         "url": "https://sacredbible.org/catholic/version.htm"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Catholic-Public-Domain-Version-CPDV/"
       }
     ],
     "caveats": [
@@ -1582,7 +1595,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/42-cpdv-catholic-public-domain-version",
-      "https://sacredbible.org/catholic/version.htm"
+      "https://sacredbible.org/catholic/version.htm",
+      "https://www.biblegateway.com/versions/Catholic-Public-Domain-Version-CPDV/"
     ]
   },
   {
@@ -1593,7 +1607,8 @@
     "publisher_or_rights_holder": "MissionAssist",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1605,6 +1620,11 @@
         "kind": "web",
         "name": "EasyEnglish",
         "url": "https://www.easyenglish.bible/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/EasyEnglish-Bible-EASY/"
       }
     ],
     "caveats": [
@@ -1613,7 +1633,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/2079-easy-easyenglish-bible-2024",
-      "https://www.easyenglish.bible/"
+      "https://www.easyenglish.bible/",
+      "https://www.biblegateway.com/versions/EasyEnglish-Bible-EASY/"
     ]
   },
   {
@@ -1624,7 +1645,8 @@
     "publisher_or_rights_holder": "The Wartburg Project, Inc.",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1636,6 +1658,11 @@
         "kind": "web",
         "name": "Wartburg Project",
         "url": "https://wartburgproject.org/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Evangelical-Heritage-Version-EHV-Bible/"
       }
     ],
     "caveats": [
@@ -1644,7 +1671,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/4224-ehv-evangelical-heritage-version-2021",
-      "https://wartburgproject.org/"
+      "https://wartburgproject.org/",
+      "https://www.biblegateway.com/versions/Evangelical-Heritage-Version-EHV-Bible/"
     ]
   },
   {
@@ -1655,7 +1683,8 @@
     "publisher_or_rights_holder": "Rain Ministries, Inc.; InterVarsity Press publisher",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1667,6 +1696,11 @@
         "kind": "web",
         "name": "InterVarsity Press",
         "url": "https://www.ivpress.com/first-nations-version"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/First-Nations-Version-FNVNT/"
       }
     ],
     "caveats": [
@@ -1675,7 +1709,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/3633-fnvnt-first-nations-version",
-      "https://www.ivpress.com/first-nations-version"
+      "https://www.ivpress.com/first-nations-version",
+      "https://www.biblegateway.com/versions/First-Nations-Version-FNVNT/"
     ]
   },
   {
@@ -1686,13 +1721,19 @@
     "publisher_or_rights_holder": "Holman Bible Publishers / LifeWay Christian Resources",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Holman-Christian-Standard-Bible-HCSB-Bible/"
       }
     ],
     "caveats": [
@@ -1700,7 +1741,8 @@
       "Copyrighted; no standalone API confirmed."
     ],
     "sources": [
-      "https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible"
+      "https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible",
+      "https://www.biblegateway.com/versions/Holman-Christian-Standard-Bible-HCSB-Bible/"
     ]
   },
   {
@@ -1711,13 +1753,19 @@
     "publisher_or_rights_holder": "Ransom Press International, Inc.; Russell M. Stendal",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/1077-jub-jubilee-bible"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Jubilee-Bible-2000-JUB-Bible/"
       }
     ],
     "caveats": [
@@ -1725,7 +1773,8 @@
       "No API route confirmed within the direct-source research budget."
     ],
     "sources": [
-      "https://www.bible.com/versions/1077-jub-jubilee-bible"
+      "https://www.bible.com/versions/1077-jub-jubilee-bible",
+      "https://www.biblegateway.com/versions/Jubilee-Bible-2000-JUB-Bible/"
     ]
   },
   {
@@ -1736,7 +1785,9 @@
     "publisher_or_rights_holder": "Covenant Press / Covenant Christian Coalition",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1748,6 +1799,16 @@
         "kind": "web",
         "name": "LSV Bible",
         "url": "https://lsvbible.com/"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_lsv/GEN/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Literal-Standard-Version-LSV-Bible/"
       }
     ],
     "caveats": [
@@ -1756,7 +1817,10 @@
     ],
     "sources": [
       "https://www.bible.com/versions/2660-lsv-literal-standard-version",
-      "https://lsvbible.com/"
+      "https://lsvbible.com/",
+      "https://bible.helloao.org/api/eng_lsv/books.json",
+      "https://www.biblegateway.com/versions/Literal-Standard-Version-LSV-Bible/",
+      "https://ebible.org/details.php?id=englsv"
     ]
   },
   {
@@ -1767,7 +1831,9 @@
     "publisher_or_rights_holder": "BSB Publishing, LLC",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1784,6 +1850,16 @@
         "kind": "web",
         "name": "Licensing",
         "url": "https://berean.bible/licensing.htm"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_msb/GEN/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Majority-Standard-Bible-MSB-Bible/"
       }
     ],
     "caveats": [
@@ -1793,7 +1869,10 @@
     "sources": [
       "https://www.bible.com/versions/4754-msb-majority-standard-bible",
       "https://majoritybible.com/",
-      "https://berean.bible/licensing.htm"
+      "https://berean.bible/licensing.htm",
+      "https://bible.helloao.org/api/eng_msb/books.json",
+      "https://www.biblegateway.com/versions/Majority-Standard-Bible-MSB-Bible/",
+      "https://ebible.org/details.php?id=engmsb"
     ]
   },
   {
@@ -1804,7 +1883,8 @@
     "publisher_or_rights_holder": "TovRose",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1816,6 +1896,11 @@
         "kind": "web",
         "name": "TovRose",
         "url": "https://tovrose.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/New-Messianic-Version-NMV/"
       }
     ],
     "caveats": [
@@ -1824,7 +1909,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/2135-nmv-new-messianic-version-bible",
-      "https://tovrose.com/"
+      "https://tovrose.com/",
+      "https://www.biblegateway.com/versions/New-Messianic-Version-NMV/"
     ]
   },
   {
@@ -1835,7 +1921,9 @@
     "publisher_or_rights_holder": "Wycliffe Bible Translators, Inc.",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1847,6 +1935,16 @@
         "kind": "web",
         "name": "Wycliffe",
         "url": "https://www.wycliffe.org/"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_pev/MAT/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Plain-English-Version-PEV/"
       }
     ],
     "caveats": [
@@ -1855,7 +1953,10 @@
     ],
     "sources": [
       "https://www.bible.com/versions/2530-pev-plain-english-version",
-      "https://www.wycliffe.org/"
+      "https://www.wycliffe.org/",
+      "https://bible.helloao.org/api/eng_pev/books.json",
+      "https://www.biblegateway.com/versions/Plain-English-Version-PEV/",
+      "https://ebible.org/details.php?id=engPEV"
     ]
   },
   {
@@ -1866,7 +1967,8 @@
     "publisher_or_rights_holder": "Biblica, Inc.",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1878,6 +1980,11 @@
         "kind": "web",
         "name": "Biblica",
         "url": "https://www.biblica.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Radiate-New-Testament-RAD/"
       }
     ],
     "caveats": [
@@ -1886,7 +1993,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/2753-rad-radiate-new-testament",
-      "https://www.biblica.com/"
+      "https://www.biblica.com/",
+      "https://www.biblegateway.com/versions/Radiate-New-Testament-RAD/"
     ]
   },
   {
@@ -1898,20 +2006,27 @@
     "publisher_or_rights_holder": "British & Foreign Bible Society digital edition",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/477-rv1885-revised-version-1885"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Revised-Version-1885-RV1885/"
       }
     ],
     "caveats": [
       "Underlying 1885 text is public domain by age; digitisation/typographical rights may be separate."
     ],
     "sources": [
-      "https://www.bible.com/versions/477-rv1885-revised-version-1885"
+      "https://www.bible.com/versions/477-rv1885-revised-version-1885",
+      "https://www.biblegateway.com/versions/Revised-Version-1885-RV1885/"
     ]
   },
   {
@@ -1922,7 +2037,8 @@
     "publisher_or_rights_holder": "Passion & Fire Ministries, Inc.; BroadStreet Publishing Group licensee",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1934,6 +2050,11 @@
         "kind": "web",
         "name": "The Passion Translation",
         "url": "https://www.thepassiontranslation.com/FAQs"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/The-Passion-Translation-TPT/"
       }
     ],
     "caveats": [
@@ -1942,7 +2063,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/1849-tpt-the-passion-translation",
-      "https://www.thepassiontranslation.com/FAQs"
+      "https://www.thepassiontranslation.com/FAQs",
+      "https://www.biblegateway.com/versions/The-Passion-Translation-TPT/"
     ]
   },
   {
@@ -1953,7 +2075,8 @@
     "publisher_or_rights_holder": "Institute for Scripture Research",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -1965,6 +2088,11 @@
         "kind": "web",
         "name": "Institute for Scripture Research",
         "url": "https://instituteforscriptureresearch.org/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/The-Scriptures-2009-TS2009/"
       }
     ],
     "caveats": [
@@ -1973,7 +2101,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/316-ts2009-the-scriptures-2009",
-      "https://instituteforscriptureresearch.org/"
+      "https://instituteforscriptureresearch.org/",
+      "https://www.biblegateway.com/versions/The-Scriptures-2009-TS2009/"
     ]
   },
   {
@@ -1984,7 +2113,9 @@
     "publisher_or_rights_holder": "Robert Adam Boyd; eBible.org distributor",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -2001,6 +2132,16 @@
         "kind": "web",
         "name": "CC BY 4.0",
         "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_tce/MAT/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Text-Critical-English-New-Testament-TCENT/"
       }
     ],
     "caveats": [
@@ -2010,7 +2151,9 @@
     "sources": [
       "https://www.bible.com/versions/3427-tcent-the-text-critical-english-new-testament",
       "https://ebible.org/engtcent/",
-      "https://creativecommons.org/licenses/by/4.0/"
+      "https://creativecommons.org/licenses/by/4.0/",
+      "https://bible.helloao.org/api/eng_tce/books.json",
+      "https://www.biblegateway.com/versions/Text-Critical-English-New-Testament-TCENT/"
     ]
   },
   {
@@ -2021,7 +2164,9 @@
     "publisher_or_rights_holder": "eBible.org / Michael Paul Johnson",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
@@ -2033,6 +2178,16 @@
         "kind": "web",
         "name": "eBible.org",
         "url": "https://ebible.org/engwmb/"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_wmb/GEN/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/World-Messianic-Bible-WMB/"
       }
     ],
     "caveats": [
@@ -2040,7 +2195,9 @@
     ],
     "sources": [
       "https://www.bible.com/versions/1209-wmb-world-messianic-bible",
-      "https://ebible.org/engwmb/"
+      "https://ebible.org/engwmb/",
+      "https://bible.helloao.org/api/eng_wmb/books.json",
+      "https://www.biblegateway.com/versions/World-Messianic-Bible-WMB/"
     ]
   },
   {
@@ -2052,7 +2209,9 @@
     "publisher_or_rights_holder": "Terence P. Noble",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API",
+      "eBible.org downloads"
     ],
     "access_links": [
       {
@@ -2064,6 +2223,16 @@
         "kind": "web",
         "name": "eBible.org",
         "url": "https://ebible.org/"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_wyc2017/GEN/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/details.php?id=engwyc2017"
       }
     ],
     "caveats": [
@@ -2071,7 +2240,9 @@
     ],
     "sources": [
       "https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling",
-      "https://ebible.org/"
+      "https://ebible.org/",
+      "https://bible.helloao.org/api/eng_wyc2017/books.json",
+      "https://ebible.org/details.php?id=engwyc2017"
     ]
   },
   {
@@ -2112,7 +2283,8 @@
     "publisher_or_rights_holder": "Tyndale House Publishers, Inc.",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "NLT API — edition confirmation required"
     ],
     "access_links": [
       {
@@ -2124,15 +2296,22 @@
         "kind": "web",
         "name": "New Living Translation",
         "url": "https://www.newlivingtranslation.com/"
+      },
+      {
+        "kind": "api",
+        "name": "NLT API",
+        "url": "https://api.nlt.to/"
       }
     ],
     "caveats": [
       "Catholic edition of NLT; copyrighted.",
-      "API and reuse rights require direct Tyndale confirmation."
+      "API and reuse rights require direct Tyndale confirmation.",
+      "NLT API does not publicly distinguish the Catholic edition; confirm edition entitlement before relying on it."
     ],
     "sources": [
       "https://www.bible.com/versions/4249-nltce-new-living-translation-catholic-edition",
-      "https://www.newlivingtranslation.com/"
+      "https://www.newlivingtranslation.com/",
+      "https://api.nlt.to/"
     ]
   },
   {
@@ -2143,21 +2322,29 @@
     "publisher_or_rights_holder": "Word Biblical Ministries",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Open.Bible downloads"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition"
+      },
+      {
+        "kind": "web",
+        "name": "Open.Bible",
+        "url": "https://open.bible/"
       }
     ],
     "caveats": [
       "New Testament only; CC BY-SA stated on the Bible App page.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission.",
+      "CC BY-SA confirmed by the bounded API-access audit."
     ],
     "sources": [
-      "https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition"
+      "https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition",
+      "https://open.bible/"
     ]
   },
   {
@@ -2193,13 +2380,19 @@
     "publisher_or_rights_holder": "The Lockman Foundation",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Amplified-Bible-Classic-Edition-AMPC-Bible/"
       }
     ],
     "caveats": [
@@ -2207,7 +2400,8 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition"
+      "https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition",
+      "https://www.biblegateway.com/versions/Amplified-Bible-Classic-Edition-AMPC-Bible/"
     ]
   },
   {
@@ -2218,21 +2412,36 @@
     "publisher_or_rights_holder": "Crossway / Good News Publishers",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web",
+      "ESV API where edition authorised"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/English-Standard-Version-Anglicised-ESVUK-Bible/"
+      },
+      {
+        "kind": "api",
+        "name": "ESV API",
+        "url": "https://api.esv.org/"
       }
     ],
     "caveats": [
       "Anglicised ESV edition; use Crossway licensing and official ESV API terms.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission.",
+      "Confirm the exact Anglicised 2025 edition in the ESV API entitlement before relying on it."
     ],
     "sources": [
-      "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025"
+      "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025",
+      "https://www.biblegateway.com/versions/English-Standard-Version-Anglicised-ESVUK-Bible/",
+      "https://api.esv.org/"
     ]
   },
   {
@@ -2243,13 +2452,19 @@
     "publisher_or_rights_holder": "LifeWay Christian Resources",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Christian-Standard-Bible-Anglicised-CSBA-Bible/"
       }
     ],
     "caveats": [
@@ -2257,7 +2472,8 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised"
+      "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised",
+      "https://www.biblegateway.com/versions/Christian-Standard-Bible-Anglicised-CSBA-Bible/"
     ]
   },
   {
@@ -2418,13 +2634,19 @@
     "publisher_or_rights_holder": "American Bible Society",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/69-gntd-good-news-translation-us-version"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Good-News-Translation-GNT-Bible/"
       }
     ],
     "caveats": [
@@ -2432,7 +2654,8 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/69-gntd-good-news-translation-us-version"
+      "https://www.bible.com/versions/69-gntd-good-news-translation-us-version",
+      "https://www.biblegateway.com/versions/Good-News-Translation-GNT-Bible/"
     ]
   },
   {
@@ -2468,13 +2691,19 @@
     "publisher_or_rights_holder": "American Bible Society",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_kja/GEN/1.json"
       }
     ],
     "caveats": [
@@ -2482,7 +2711,8 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition"
+      "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition",
+      "https://bible.helloao.org/api/eng_kja/books.json"
     ]
   },
   {
@@ -2568,13 +2798,25 @@
     "publisher_or_rights_holder": "The Lockman Foundation",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web",
+      "API.Bible where authorised"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/100-nasb1995-new-american-standard-bible-nasb-1995"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/New-American-Standard-Bible-NASB1995/"
+      },
+      {
+        "kind": "api",
+        "name": "API.Bible",
+        "url": "https://api.bible/sign-up/starter"
       }
     ],
     "caveats": [
@@ -2582,7 +2824,9 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/100-nasb1995-new-american-standard-bible-nasb-1995"
+      "https://www.bible.com/versions/100-nasb1995-new-american-standard-bible-nasb-1995",
+      "https://www.biblegateway.com/versions/New-American-Standard-Bible-NASB1995/",
+      "https://api.bible/terms-and-conditions"
     ]
   },
   {
@@ -2593,13 +2837,19 @@
     "publisher_or_rights_holder": "Biblica, Inc.",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Bible Gateway web"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/113-nivuk-new-international-version-anglicised"
+      },
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/New-International-Version-UK-NIVUK-Bible/"
       }
     ],
     "caveats": [
@@ -2607,7 +2857,8 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/113-nivuk-new-international-version-anglicised"
+      "https://www.bible.com/versions/113-nivuk-new-international-version-anglicised",
+      "https://www.biblegateway.com/versions/New-International-Version-UK-NIVUK-Bible/"
     ]
   },
   {
@@ -2718,13 +2969,19 @@
     "publisher_or_rights_holder": "British & Foreign Bible Society",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_rv5/GEN/1.json"
       }
     ],
     "caveats": [
@@ -2732,7 +2989,8 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895"
+      "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895",
+      "https://bible.helloao.org/api/eng_rv5/books.json"
     ]
   },
   {
@@ -2868,13 +3126,25 @@
     "publisher_or_rights_holder": "eBible.org",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API",
+      "eBible.org downloads"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_webpb/GEN/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/engwebbe/"
       }
     ],
     "caveats": [
@@ -2882,7 +3152,9 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition"
+      "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition",
+      "https://bible.helloao.org/api/eng_webpb/books.json",
+      "https://ebible.org/engwebbe/"
     ]
   },
   {
@@ -2893,13 +3165,19 @@
     "publisher_or_rights_holder": "eBible.org",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Free Use Bible API"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition"
+      },
+      {
+        "kind": "api",
+        "name": "Free Use Bible API",
+        "url": "https://bible.helloao.org/api/eng_wmu/GEN/1.json"
       }
     ],
     "caveats": [
@@ -2907,7 +3185,8 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition"
+      "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition",
+      "https://bible.helloao.org/api/eng_wmu/books.json"
     ]
   }
 ]

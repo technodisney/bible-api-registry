@@ -728,7 +728,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/2660-lsv-literal-standard-version"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_lsv/GEN/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -738,7 +744,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/4754-msb-majority-standard-bible"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_msb/GEN/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -758,7 +770,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/2530-pev-plain-english-version"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_pev/MAT/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -808,7 +826,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/3427-tcent-the-text-critical-english-new-testament"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_tce/MAT/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -818,7 +842,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/1209-wmb-world-messianic-bible"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_wmb/GEN/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -828,7 +858,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_wyc2017/GEN/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -848,7 +884,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/4249-nltce-new-living-translation-catholic-edition"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "NLT API",
+          "url": "https://api.nlt.to/",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -888,7 +930,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "ESV API",
+          "url": "https://api.esv.org/",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -988,7 +1036,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_kja/GEN/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -1028,7 +1082,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/100-nasb1995-new-american-standard-bible-nasb-1995"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -1088,7 +1148,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_rv5/GEN/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -1148,7 +1214,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_webpb/GEN/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     },
     {
@@ -1158,7 +1230,13 @@
         "status": "verified",
         "url": "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition"
       },
-      "api_routes_checked": [],
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/api/eng_wmu/GEN/1.json",
+          "status": "route verified; edition entitlement remains licence/key-specific"
+        }
+      ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
     }
   ]
