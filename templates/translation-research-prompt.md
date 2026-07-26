@@ -8,6 +8,11 @@ Research the Bible translation: [TRANSLATION NAME] ([ABBREVIATIONS]).
 Goal
 Produce evidence suitable for one record in the Bible API Registry. Do not edit repository files. Return only a concise structured report plus source URLs.
 
+Research budget
+- Use direct URLs only. Do not run catalogue-wide crawls, broad site searches, or automated pagination.
+- Default maximum: 5 direct source requests per translation (Bible App version page, rights-holder/licence page, official API or provider documentation, and at most two corroborating pages).
+- If a fact cannot be confirmed within that budget, report it as `not found in checked primary sources`; do not keep searching.
+
 Rules
 1. Use current primary sources first: the rights holder/publisher, official API documentation, official Bible App/YouVersion version page, API.Bible, Digital Bible Library, and the translation's own official site.
 2. Treat consumer reading availability, API availability, download/offline access, commercial rights, caching, redistribution, and AI/RAG/training rights as separate questions.
