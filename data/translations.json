@@ -17,7 +17,8 @@
     ],
     "sources": [
       "https://www.biblica.com/permissions/",
-      "https://api.bible/"
+      "https://api.bible/",
+      "https://www.bible.com/versions/111-niv-new-international-version"
     ],
     "access_links": [
       {
@@ -51,7 +52,8 @@
       "Copyrighted; written permission beyond standard quotation terms"
     ],
     "sources": [
-      "https://www.harpercollinschristian.com/sales-and-rights/permissions/"
+      "https://www.harpercollinschristian.com/sales-and-rights/permissions/",
+      "https://www.bible.com/versions/110-nirv-new-international-readers-version"
     ],
     "access_links": [
       {
@@ -87,7 +89,8 @@
     ],
     "sources": [
       "https://api.nlt.to/",
-      "https://sites.tyndale.com/nlt/"
+      "https://sites.tyndale.com/nlt/",
+      "https://www.bible.com/versions/116-nlt-new-living-translation"
     ],
     "access_links": [
       {
@@ -129,7 +132,8 @@
     ],
     "sources": [
       "https://api.esv.org/",
-      "https://care.api.bible/article/405-express-licensing-faqs"
+      "https://care.api.bible/article/405-express-licensing-faqs",
+      "https://www.bible.com/versions/59-esv-english-standard-version-2025"
     ],
     "access_links": [
       {
@@ -165,7 +169,8 @@
     ],
     "sources": [
       "https://labs.bible.org/api_web_service",
-      "https://netbible.com/copyright/"
+      "https://netbible.com/copyright/",
+      "https://www.bible.com/versions/107-net-new-english-translation"
     ],
     "access_links": [
       {
@@ -206,7 +211,8 @@
       "Copyrighted; no standalone public API identified"
     ],
     "sources": [
-      "https://www.lockman.org/permission-to-quote-copyright-trademark-information/"
+      "https://www.lockman.org/permission-to-quote-copyright-trademark-information/",
+      "https://www.bible.com/versions/2692-nasb2020-new-american-standard-bible-nasb"
     ],
     "access_links": [
       {
@@ -242,7 +248,8 @@
       "Copyrighted; attribution and permission requirements apply"
     ],
     "sources": [
-      "https://www.lockman.org/permission-to-quote-copyright-trademark-information/"
+      "https://www.lockman.org/permission-to-quote-copyright-trademark-information/",
+      "https://www.bible.com/versions/1588-amp-amplified-bible"
     ],
     "access_links": [
       {
@@ -279,7 +286,8 @@
       "CSB has a 1,000-verse basic quotation allowance subject to conditions; HCSB is superseded"
     ],
     "sources": [
-      "https://csbible.com/permissions/"
+      "https://csbible.com/permissions/",
+      "https://www.bible.com/versions/1713-csb-christian-standard-bible"
     ],
     "access_links": [
       {
@@ -314,7 +322,8 @@
       "Copyrighted; permission beyond standard quotation limits"
     ],
     "sources": [
-      "https://www.harpercollinschristian.com/sales-and-rights/permissions/"
+      "https://www.harpercollinschristian.com/sales-and-rights/permissions/",
+      "https://www.bible.com/versions/114-nkjv-new-king-james-version"
     ],
     "access_links": [
       {
@@ -353,7 +362,8 @@
     ],
     "sources": [
       "https://dailybible.ca/api-docs",
-      "https://bible.helloao.org/"
+      "https://bible.helloao.org/",
+      "https://www.bible.com/versions/1-kjv-king-james-version"
     ],
     "access_links": [
       {
@@ -400,7 +410,8 @@
     ],
     "sources": [
       "https://dailybible.ca/api-docs",
-      "https://bible.helloao.org/"
+      "https://bible.helloao.org/",
+      "https://www.bible.com/versions/12-asv-american-standard-version"
     ],
     "access_links": [
       {
@@ -446,7 +457,8 @@
     ],
     "sources": [
       "https://bible.helloao.org/",
-      "https://ebible.org/"
+      "https://ebible.org/",
+      "https://www.bible.com/versions/206-webus-world-english-bible-american-english-edition-without-strongs-numbers"
     ],
     "access_links": [
       {
@@ -492,7 +504,8 @@
       "Historical text; modern notes/typesetting may be copyrighted"
     ],
     "sources": [
-      "https://dailybible.ca/api-docs"
+      "https://dailybible.ca/api-docs",
+      "https://www.bible.com/versions/478-darby-darbys-translation-1890"
     ],
     "access_links": [
       {
@@ -534,7 +547,8 @@
       "Original text is historical/public domain; modern editions may be copyrighted"
     ],
     "sources": [
-      "https://dailybible.ca/api-docs"
+      "https://dailybible.ca/api-docs",
+      "https://www.bible.com/versions/55-drc1752-douay-rheims-challoner-revision-1752"
     ],
     "access_links": [
       {
@@ -574,7 +588,8 @@
       "Modern editions' notes, typesetting and spelling updates may be copyrighted"
     ],
     "sources": [
-      "https://bible.helloao.org/"
+      "https://bible.helloao.org/",
+      "https://www.bible.com/versions/2163-gnv-geneva-bible"
     ],
     "access_links": [
       {
@@ -609,7 +624,8 @@
       "Copyrighted; basic quotation limits do not grant full-text redistribution rights"
     ],
     "sources": [
-      "https://friendshippress.org/"
+      "https://friendshippress.org/",
+      "https://www.bible.com/versions/2020-rsv-revised-standard-version"
     ],
     "access_links": [
       {
@@ -641,7 +657,8 @@
       "Copyrighted; NRSVue is the current revision"
     ],
     "sources": [
-      "https://friendshippress.org/"
+      "https://friendshippress.org/",
+      "https://www.bible.com/versions/3523-nrsvue-new-revised-standard-version-updated-edition-2021"
     ],
     "access_links": [
       {
@@ -671,7 +688,8 @@
       "Copyrighted US Catholic translation"
     ],
     "sources": [
-      "https://www.usccb.org/offices/new-american-bible"
+      "https://www.usccb.org/offices/new-american-bible",
+      "https://www.bible.com/versions/463-nabre-new-american-bible-revised-edition"
     ],
     "access_links": [
       {
@@ -706,7 +724,8 @@
       "Larger use may incur fees"
     ],
     "sources": [
-      "https://www.commonenglishbible.com/permissions"
+      "https://www.commonenglishbible.com/permissions",
+      "https://www.bible.com/versions/37-ceb-common-english-bible"
     ],
     "access_links": [
       {
@@ -734,7 +753,7 @@
     ],
     "publisher_or_rights_holder": "American Bible Society",
     "access": [
-      "API.Bible",
+      "API.Bible where authorised",
       "Bible Gateway web",
       "direct ABS licensing"
     ],
@@ -742,7 +761,8 @@
       "Copyrighted; standard quotation rules apply"
     ],
     "sources": [
-      "https://api.bible/"
+      "https://api.bible/",
+      "https://www.bible.com/versions/68-gnt-good-news-translation"
     ],
     "access_links": [
       {
@@ -769,7 +789,7 @@
     ],
     "publisher_or_rights_holder": "American Bible Society",
     "access": [
-      "API.Bible",
+      "API.Bible where authorised",
       "Bible Gateway web",
       "direct ABS licensing"
     ],
@@ -777,7 +797,8 @@
       "Commercial/full-text use requires ABS permission"
     ],
     "sources": [
-      "https://cev.bible/licensing/"
+      "https://cev.bible/licensing/",
+      "https://www.bible.com/versions/392-cev-contemporary-english-version"
     ],
     "access_links": [
       {
@@ -804,21 +825,17 @@
     ],
     "publisher_or_rights_holder": "Bible League International",
     "access": [
-      "API.Bible where authorised",
       "Bible Gateway web"
     ],
     "caveats": [
-      "Copyrighted; hosting restrictions apply"
+      "Copyrighted; hosting restrictions apply",
+      "API.Bible access was not confirmed in the public catalogue audit on 2026-07-26; do not assume it is available."
     ],
     "sources": [
-      "https://www.bibleleague.org/license-agreement/"
+      "https://www.bibleleague.org/license-agreement/",
+      "https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version"
     ],
     "access_links": [
-      {
-        "kind": "api",
-        "name": "API.Bible",
-        "url": "https://api.bible/sign-up/starter"
-      },
       {
         "kind": "web",
         "name": "Bible Gateway",
@@ -846,7 +863,8 @@
       "Paraphrase; treat substantial/commercial use as permission-required"
     ],
     "sources": [
-      "https://www.biblegateway.com/versions/Message-MSG-Bible/"
+      "https://www.biblegateway.com/versions/Message-MSG-Bible/",
+      "https://www.bible.com/versions/97-msg-the-message"
     ],
     "access_links": [
       {
@@ -880,7 +898,8 @@
       "Free electronic access does not imply unrestricted commercial republication"
     ],
     "sources": [
-      "https://lexhamenglishbible.com/"
+      "https://lexhamenglishbible.com/",
+      "https://www.bible.com/versions/90-leb-lexham-english-bible"
     ],
     "access_links": [
       {
@@ -914,7 +933,8 @@
       "Copyrighted; uses Jewish ordering and Hebrew names"
     ],
     "sources": [
-      "https://www.messianicjewish.net/"
+      "https://www.messianicjewish.net/",
+      "https://www.bible.com/versions/1275-cjb-complete-jewish-bible"
     ],
     "access_links": [
       {
@@ -943,7 +963,8 @@
       "Copyrighted; Hebrew names and Jewish framing"
     ],
     "sources": [
-      "https://tlvbiblesociety.org/"
+      "https://tlvbiblesociety.org/",
+      "https://www.bible.com/versions/314-tlv-tree-of-life-version"
     ],
     "access_links": [
       {
@@ -972,7 +993,8 @@
       "Read exact licence metadata before redistribution"
     ],
     "sources": [
-      "https://bible.helloao.org/"
+      "https://bible.helloao.org/",
+      "https://www.bible.com/versions/1932-fbv-free-bible-version"
     ],
     "access_links": [
       {
@@ -1001,7 +1023,8 @@
       "Retain verified version/licence metadata"
     ],
     "sources": [
-      "https://bible.helloao.org/"
+      "https://bible.helloao.org/",
+      "https://www.bible.com/versions/3034-bsb-berean-standard-bible"
     ],
     "access_links": [
       {
@@ -1065,7 +1088,8 @@
       "Historical/public-domain text; unusual literal word order"
     ],
     "sources": [
-      "https://bible.helloao.org/"
+      "https://bible.helloao.org/",
+      "https://www.bible.com/versions/821-ylt98-youngs-literal-translation-1898"
     ],
     "access_links": [
       {

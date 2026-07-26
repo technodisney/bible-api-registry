@@ -1,0 +1,483 @@
+{
+  "scope": "Current 30 registry records; consumer links and public API-route claims checked against cited provider/rights-holder sources.",
+  "limitations": "A consumer Bible App listing does not establish API entitlement. API.Bible edition access is per-app and per-licence.",
+  "records": [
+    {
+      "translation": "New International Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/111-niv-new-international-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New International Reader's Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/110-nirv-new-international-readers-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New Living Translation",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/116-nlt-new-living-translation"
+      },
+      "api_routes_checked": [
+        {
+          "name": "NLT API",
+          "url": "https://api.nlt.to/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "English Standard Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/59-esv-english-standard-version-2025"
+      },
+      "api_routes_checked": [
+        {
+          "name": "ESV API",
+          "url": "https://api.esv.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New English Translation",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/107-net-new-english-translation"
+      },
+      "api_routes_checked": [
+        {
+          "name": "NET API",
+          "url": "https://labs.bible.org/api_web_service",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New American Standard Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2692-nasb2020-new-american-standard-bible-nasb"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Amplified Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1588-amp-amplified-bible"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Christian Standard Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1713-csb-christian-standard-bible"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New King James Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/114-nkjv-new-king-james-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "King James Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1-kjv-king-james-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "DailyBible API",
+          "url": "https://dailybible.ca/api-docs",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "American Standard Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/12-asv-american-standard-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "DailyBible API",
+          "url": "https://dailybible.ca/api-docs",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "World English Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/206-webus-world-english-bible-american-english-edition-without-strongs-numbers"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Darby Translation",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/478-darby-darbys-translation-1890"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "DailyBible API",
+          "url": "https://dailybible.ca/api-docs",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Douay-Rheims",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/55-drc1752-douay-rheims-challoner-revision-1752"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "DailyBible API",
+          "url": "https://dailybible.ca/api-docs",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Geneva Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2163-gnv-geneva-bible"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Revised Standard Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2020-rsv-revised-standard-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New Revised Standard Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3523-nrsvue-new-revised-standard-version-updated-edition-2021"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New American Bible Revised Edition",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/463-nabre-new-american-bible-revised-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Common English Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/37-ceb-common-english-bible"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Good News Translation",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/68-gnt-good-news-translation"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Contemporary English Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/392-cev-contemporary-english-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Easy-to-Read Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "The Message",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/97-msg-the-message"
+      },
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Lexham English Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/90-leb-lexham-english-bible"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Complete Jewish Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1275-cjb-complete-jewish-bible"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Tree of Life Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/314-tlv-tree-of-life-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Free Bible Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1932-fbv-free-bible-version"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Berean Standard Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3034-bsb-berean-standard-bible"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Unlocked Literal Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "not verified in current official English catalogue"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Young's Literal Translation",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/821-ylt98-youngs-literal-translation-1898"
+      },
+      "api_routes_checked": [
+        {
+          "name": "Free Use Bible API",
+          "url": "https://bible.helloao.org/",
+          "status": "verified route; edition entitlement remains licence/key-specific"
+        }
+      ],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    }
+  ]
+}

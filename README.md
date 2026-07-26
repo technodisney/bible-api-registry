@@ -40,6 +40,7 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 ## Need the details?
 
 - [`data/translations.json`](data/translations.json) — rights holder, every known access route, caveats, source URLs, and machine-readable `access_links`.
+- [`data/access-audit-2026-07-26.json`](data/access-audit-2026-07-26.json) — dated evidence ledger for the current 30 translation records; separates verified consumer availability from licence/key-specific API entitlement.
 - [`data/providers.json`](data/providers.json) — API provider sign-up, free plan, premium cost, commercial-use threshold, restrictions, and sources.
 - [`schema/translation.schema.json`](schema/translation.schema.json) and [`schema/provider.schema.json`](schema/provider.schema.json) — field definitions for tools and agents.
 
