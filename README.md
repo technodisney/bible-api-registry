@@ -98,6 +98,25 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | World English Bible British Edition (WEBBE) | — | [Bible App](https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition) |
 | World Messianic Bible British Edition (WMBBE) | — | [Bible App](https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition) |
 
+## How access works
+
+These are **provider-level summaries**. A translation appearing in the Bible App or a reader does not itself grant API, scraping, caching, redistribution, commercial, or AI rights. Check the linked translation record and provider terms before building anything.
+
+| Source | How to get access | Free / paid | Important limits |
+|---|---|---|---|
+| [API.Bible](https://api.bible/) | Create an account, register/approve an app, then use its API key. Select licensed editions per app. | **Starter $0:** open-access Bibles + up to 3 selected copyrighted Bibles, non-commercial. **Pro:** from **US$29/month**; commercial licensing is edition-specific. | 500 consecutive verses/request; refresh cached copyrighted text at least every 30 days. Starter forbids ads, subscriptions, freemium, and in-app purchases. Catalogue is key/licence-specific; ESV is not available. |
+| [ESV API](https://api.esv.org/) | Create a Crossway account and API key. | Free for qualifying non-commercial use; no public self-service commercial price. | 500 verses/query; 5,000/day, 1,000/hour, 60/minute. Attribution/link required; no text modification. |
+| [NLT API](https://api.nlt.to/) | Request an API key from Tyndale. | Non-commercial access; commercial/expanded use requires direct licensing. | 500 verses/request; 5,000 requests/day for authenticated access. Copyright limits still apply. |
+| [NET Bible API](https://labs.bible.org/api_web_service) | Public passage endpoint; no signup. | Free endpoint; no public paid tier. | NET text remains copyrighted—commercial product/publication use needs permission. |
+| [Bible Brain](https://www.faithcomesbyhearing.com/bible-brain/developer-documentation) | Apply for an API key with intended-use details. | Free for qualifying non-commercial access; commercial/restricted content is negotiated. | End users normally receive content free; no proxy distribution network; offline download generally not allowed. |
+| [Digital Bible Library](https://library.bible/) | Join/use a DBL organisation; its Account Manager creates an organisation-scoped DBL API key. | Open-access content is available under DBL terms; controlled editions require rights-holder approval. No standard public price. | A DBL key carries only that organisation’s existing permissions. Adding it to API.Bible exposes only licensed DBL items—not the whole catalogue. |
+| [Bible Gateway API](https://www.biblegateway.com/api/documentation) | Technical access-token documentation exists, but public production signup/pricing is not advertised. | Treat as partnership/licence-gated. | Confirm authorisation in writing; do not scrape Bible Gateway pages. |
+| [Free Use Bible API](https://bible.helloao.org/) | No signup or key. | No published paid tier or usage limit. | Inspect each edition’s metadata/licence and provenance before production use. |
+| [DailyBible API](https://dailybible.ca/api-docs) | No signup or key. | Free; no published paid tier. | Small public-domain catalogue; be respectful with request volume. |
+| [YouVersion Platform](https://developers.youversion.com/) | Register a developer app and use an `X-YVP-App-Key`; accept any relevant collection licences. | Platform tools are described as free; no public paid tier. Collection access is licence-specific. | Do not replicate/compete with YouVersion. AI user output needs prior written approval; do not train/develop/refine AI with its tools/content. |
+
+> Pricing and provider rules change. The structured [`data/providers.json`](data/providers.json) file carries the source URLs and fuller caveats; confirm current terms before launch.
+
 ## Need the details?
 
 - [`data/translations.json`](data/translations.json) — rights holder, every known access route, caveats, source URLs, and machine-readable `access_links`.
