@@ -10,7 +10,7 @@ Produce evidence suitable for one record in the Bible API Registry. Do not edit 
 
 Research budget
 - Use direct URLs only. Do not run catalogue-wide crawls, broad site searches, or automated pagination.
-- Default maximum: 5 direct source requests per translation (Bible App version page, rights-holder/licence page, official API or provider documentation, and at most two corroborating pages).
+- Default maximum: 10 direct source requests per translation (Bible App version page, rights-holder/licence page, official API/provider documentation, a public API.Bible catalogue check, and corroborating pages).
 - If a fact cannot be confirmed within that budget, report it as `not found in checked primary sources`; do not keep searching.
 
 Rules
