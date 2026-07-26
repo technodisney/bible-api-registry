@@ -650,6 +650,206 @@
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "A Faithful Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4253-afv-a-faithful-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Catholic Public Domain Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/42-cpdv-catholic-public-domain-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "EasyEnglish Bible 2024",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2079-easy-easyenglish-bible-2024"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Evangelical Heritage Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4224-ehv-evangelical-heritage-version-2021"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "First Nations Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3633-fnvnt-first-nations-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Holman Christian Standard Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Jubilee Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1077-jub-jubilee-bible"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Literal Standard Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2660-lsv-literal-standard-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Majority Standard Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4754-msb-majority-standard-bible"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New Messianic Version Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2135-nmv-new-messianic-version-bible"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Plain English Version",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2530-pev-plain-english-version"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Radiate New Testament",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2753-rad-radiate-new-testament"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Revised Version 1885",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/477-rv1885-revised-version-1885"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "The Passion Translation",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1849-tpt-the-passion-translation"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "The Scriptures 2009",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/316-ts2009-the-scriptures-2009"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Text-Critical English New Testament",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/3427-tcent-the-text-critical-english-new-testament"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "World Messianic Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/1209-wmb-world-messianic-bible"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Wycliffe's Bible with Modern Spelling",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "Y'all Version Bible",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4108-yall-yall-version-bible"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+    },
+    {
+      "translation": "New Living Translation Catholic Edition",
+      "checked_at": "2026-07-26",
+      "bible_app": {
+        "status": "verified",
+        "url": "https://www.bible.com/versions/4249-nltce-new-living-translation-catholic-edition"
+      },
+      "api_routes_checked": [],
+      "record_status": "verified access routes; licensing remains governed by linked primary sources"
     }
   ]
 }

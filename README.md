@@ -46,6 +46,26 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | Names of God Bible (NOG) | [Bible Gateway API](https://www.biblegateway.com/api/documentation) | [Bible Gateway](https://www.biblegateway.com/versions/Names-of-God-NOG-Bible/) |
 | Orthodox Jewish Bible (OJB, TOJB2011) | [Bible Gateway API](https://www.biblegateway.com/api/documentation)<br>[YouVersion Platform](https://platform.youversion.com/) | [Bible Gateway](https://www.biblegateway.com/versions/Orthodox-Jewish-Bible-OJB/)<br>[Bible App](https://www.bible.com/versions/130-tojb2011-the-orthodox-jewish-bible)<br>[Official publisher PDF](https://www.afii.org/OJB.pdf) |
 | The New Testament for Everyone (NTFE) | [Bible Gateway API](https://www.biblegateway.com/api/documentation)<br>[YouVersion Platform](https://platform.youversion.com/) | [Bible Gateway](https://www.biblegateway.com/versions/New-Testament-for-Everyone-NTFE/)<br>[Bible App](https://www.bible.com/versions/4732-ntfe-the-new-testament-for-everyone)<br>[Zondervan](https://www.zondervan.com/p/new-testament-for-everyone/) |
+| A Faithful Version (AFV) | — | [Bible App](https://www.bible.com/versions/4253-afv-a-faithful-version) |
+| Catholic Public Domain Version (CPDV) | — | [Bible App](https://www.bible.com/versions/42-cpdv-catholic-public-domain-version)<br>[Sacred Bible](https://sacredbible.org/catholic/version.htm) |
+| EasyEnglish Bible 2024 (EASY) | — | [Bible App](https://www.bible.com/versions/2079-easy-easyenglish-bible-2024)<br>[EasyEnglish](https://www.easyenglish.bible/) |
+| Evangelical Heritage Version (EHV) | — | [Bible App](https://www.bible.com/versions/4224-ehv-evangelical-heritage-version-2021)<br>[Wartburg Project](https://wartburgproject.org/) |
+| First Nations Version (FNVNT) | — | [Bible App](https://www.bible.com/versions/3633-fnvnt-first-nations-version)<br>[InterVarsity Press](https://www.ivpress.com/first-nations-version) |
+| Holman Christian Standard Bible (HCSB) | — | [Bible App](https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible) |
+| Jubilee Bible (JUB) | — | [Bible App](https://www.bible.com/versions/1077-jub-jubilee-bible) |
+| Literal Standard Version (LSV) | — | [Bible App](https://www.bible.com/versions/2660-lsv-literal-standard-version)<br>[LSV Bible](https://lsvbible.com/) |
+| Majority Standard Bible (MSB) | — | [Bible App](https://www.bible.com/versions/4754-msb-majority-standard-bible)<br>[Majority Bible](https://majoritybible.com/)<br>[Licensing](https://berean.bible/licensing.htm) |
+| New Messianic Version Bible (NMV) | — | [Bible App](https://www.bible.com/versions/2135-nmv-new-messianic-version-bible)<br>[TovRose](https://tovrose.com/) |
+| Plain English Version (PEV) | — | [Bible App](https://www.bible.com/versions/2530-pev-plain-english-version)<br>[Wycliffe](https://www.wycliffe.org/) |
+| Radiate New Testament (RAD) | — | [Bible App](https://www.bible.com/versions/2753-rad-radiate-new-testament)<br>[Biblica](https://www.biblica.com/) |
+| Revised Version 1885 (RV1885, ERV) | — | [Bible App](https://www.bible.com/versions/477-rv1885-revised-version-1885) |
+| The Passion Translation (TPT) | — | [Bible App](https://www.bible.com/versions/1849-tpt-the-passion-translation)<br>[The Passion Translation](https://www.thepassiontranslation.com/FAQs) |
+| The Scriptures 2009 (TS2009) | — | [Bible App](https://www.bible.com/versions/316-ts2009-the-scriptures-2009)<br>[Institute for Scripture Research](https://instituteforscriptureresearch.org/) |
+| Text-Critical English New Testament (TCENT) | — | [Bible App](https://www.bible.com/versions/3427-tcent-the-text-critical-english-new-testament)<br>[eBible.org](https://ebible.org/engtcent/)<br>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| World Messianic Bible (WMB) | — | [Bible App](https://www.bible.com/versions/1209-wmb-world-messianic-bible)<br>[eBible.org](https://ebible.org/engwmb/) |
+| Wycliffe's Bible with Modern Spelling (WBMS, WYCms) | — | [Bible App](https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling)<br>[eBible.org](https://ebible.org/) |
+| Y'all Version Bible (YALL) | — | [Bible App](https://www.bible.com/versions/4108-yall-yall-version-bible)<br>[Y’all Version](https://yallversion.com/) |
+| New Living Translation Catholic Edition (NLTCE) | — | [Bible App](https://www.bible.com/versions/4249-nltce-new-living-translation-catholic-edition)<br>[New Living Translation](https://www.newlivingtranslation.com/) |
 
 ## Need the details?
 

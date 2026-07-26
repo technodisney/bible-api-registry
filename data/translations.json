@@ -1528,5 +1528,611 @@
       "https://www.zondervan.com/p/new-testament-for-everyone/",
       "https://www.biblegateway.com/api/documentation"
     ]
+  },
+  {
+    "name": "A Faithful Version",
+    "abbreviations": [
+      "AFV"
+    ],
+    "publisher_or_rights_holder": "Christian Biblical Truth of God / York Publishing Company",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4253-afv-a-faithful-version"
+      }
+    ],
+    "caveats": [
+      "Copyrighted York Publishing edition; restrictive reuse statement.",
+      "No API route found within the direct-source research budget; direct licence required for reuse."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4253-afv-a-faithful-version"
+    ]
+  },
+  {
+    "name": "Catholic Public Domain Version",
+    "abbreviations": [
+      "CPDV"
+    ],
+    "publisher_or_rights_holder": "Ronald L. Conte Jr.",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/42-cpdv-catholic-public-domain-version"
+      },
+      {
+        "kind": "web",
+        "name": "Sacred Bible",
+        "url": "https://sacredbible.org/catholic/version.htm"
+      }
+    ],
+    "caveats": [
+      "Explicitly dedicated to the public domain in perpetuity.",
+      "JSON source is published by the translator; verify deployment provenance before production use."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/42-cpdv-catholic-public-domain-version",
+      "https://sacredbible.org/catholic/version.htm"
+    ]
+  },
+  {
+    "name": "EasyEnglish Bible 2024",
+    "abbreviations": [
+      "EASY"
+    ],
+    "publisher_or_rights_holder": "MissionAssist",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2079-easy-easyenglish-bible-2024"
+      },
+      {
+        "kind": "web",
+        "name": "EasyEnglish",
+        "url": "https://www.easyenglish.bible/"
+      }
+    ],
+    "caveats": [
+      "Copyrighted MissionAssist edition; published quotation allowance is limited.",
+      "Electronic-platform publication, commercial use, and AI/RAG use require direct permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2079-easy-easyenglish-bible-2024",
+      "https://www.easyenglish.bible/"
+    ]
+  },
+  {
+    "name": "Evangelical Heritage Version",
+    "abbreviations": [
+      "EHV"
+    ],
+    "publisher_or_rights_holder": "The Wartburg Project, Inc.",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4224-ehv-evangelical-heritage-version-2021"
+      },
+      {
+        "kind": "web",
+        "name": "Wartburg Project",
+        "url": "https://wartburgproject.org/"
+      }
+    ],
+    "caveats": [
+      "Copyrighted and trademarked; published quotation allowance is limited.",
+      "No API route confirmed within the direct-source research budget."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4224-ehv-evangelical-heritage-version-2021",
+      "https://wartburgproject.org/"
+    ]
+  },
+  {
+    "name": "First Nations Version",
+    "abbreviations": [
+      "FNVNT"
+    ],
+    "publisher_or_rights_holder": "Rain Ministries, Inc.; InterVarsity Press publisher",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3633-fnvnt-first-nations-version"
+      },
+      {
+        "kind": "web",
+        "name": "InterVarsity Press",
+        "url": "https://www.ivpress.com/first-nations-version"
+      }
+    ],
+    "caveats": [
+      "New Testament only.",
+      "Copyrighted; full-text, commercial, and AI/RAG use require direct publisher permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/3633-fnvnt-first-nations-version",
+      "https://www.ivpress.com/first-nations-version"
+    ]
+  },
+  {
+    "name": "Holman Christian Standard Bible",
+    "abbreviations": [
+      "HCSB"
+    ],
+    "publisher_or_rights_holder": "Holman Bible Publishers / LifeWay Christian Resources",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible"
+      }
+    ],
+    "caveats": [
+      "Superseded by CSB in 2017; treat as legacy edition.",
+      "Copyrighted; no standalone API confirmed."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible"
+    ]
+  },
+  {
+    "name": "Jubilee Bible",
+    "abbreviations": [
+      "JUB"
+    ],
+    "publisher_or_rights_holder": "Ransom Press International, Inc.; Russell M. Stendal",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1077-jub-jubilee-bible"
+      }
+    ],
+    "caveats": [
+      "Permissive for unaltered non-commercial Bible distribution; commercial use needs written permission.",
+      "No API route confirmed within the direct-source research budget."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1077-jub-jubilee-bible"
+    ]
+  },
+  {
+    "name": "Literal Standard Version",
+    "abbreviations": [
+      "LSV"
+    ],
+    "publisher_or_rights_holder": "Covenant Press / Covenant Christian Coalition",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2660-lsv-literal-standard-version"
+      },
+      {
+        "kind": "web",
+        "name": "LSV Bible",
+        "url": "https://lsvbible.com/"
+      }
+    ],
+    "caveats": [
+      "CC BY-SA 4.0; attribution and share-alike apply.",
+      "API.Bible availability was not confirmed."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2660-lsv-literal-standard-version",
+      "https://lsvbible.com/"
+    ]
+  },
+  {
+    "name": "Majority Standard Bible",
+    "abbreviations": [
+      "MSB"
+    ],
+    "publisher_or_rights_holder": "BSB Publishing, LLC",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4754-msb-majority-standard-bible"
+      },
+      {
+        "kind": "web",
+        "name": "Majority Bible",
+        "url": "https://majoritybible.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Licensing",
+        "url": "https://berean.bible/licensing.htm"
+      }
+    ],
+    "caveats": [
+      "Public domain according to the official licensing page.",
+      "API.Bible availability was not confirmed."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4754-msb-majority-standard-bible",
+      "https://majoritybible.com/",
+      "https://berean.bible/licensing.htm"
+    ]
+  },
+  {
+    "name": "New Messianic Version Bible",
+    "abbreviations": [
+      "NMV"
+    ],
+    "publisher_or_rights_holder": "TovRose",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2135-nmv-new-messianic-version-bible"
+      },
+      {
+        "kind": "web",
+        "name": "TovRose",
+        "url": "https://tovrose.com/"
+      }
+    ],
+    "caveats": [
+      "No licence statement found within the direct-source research budget.",
+      "Direct rights-holder confirmation is needed for API, commercial, redistribution, and AI/RAG use."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2135-nmv-new-messianic-version-bible",
+      "https://tovrose.com/"
+    ]
+  },
+  {
+    "name": "Plain English Version",
+    "abbreviations": [
+      "PEV"
+    ],
+    "publisher_or_rights_holder": "Wycliffe Bible Translators, Inc.",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2530-pev-plain-english-version"
+      },
+      {
+        "kind": "web",
+        "name": "Wycliffe",
+        "url": "https://www.wycliffe.org/"
+      }
+    ],
+    "caveats": [
+      "Produced for Australian Indigenous-language speakers.",
+      "No translation-specific licence statement found within the direct-source research budget."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2530-pev-plain-english-version",
+      "https://www.wycliffe.org/"
+    ]
+  },
+  {
+    "name": "Radiate New Testament",
+    "abbreviations": [
+      "RAD"
+    ],
+    "publisher_or_rights_holder": "Biblica, Inc.",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2753-rad-radiate-new-testament"
+      },
+      {
+        "kind": "web",
+        "name": "Biblica",
+        "url": "https://www.biblica.com/"
+      }
+    ],
+    "caveats": [
+      "New Testament only.",
+      "No rights policy found within the research budget; direct Biblica licence required for reuse."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2753-rad-radiate-new-testament",
+      "https://www.biblica.com/"
+    ]
+  },
+  {
+    "name": "Revised Version 1885",
+    "abbreviations": [
+      "RV1885",
+      "ERV"
+    ],
+    "publisher_or_rights_holder": "British & Foreign Bible Society digital edition",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/477-rv1885-revised-version-1885"
+      }
+    ],
+    "caveats": [
+      "Underlying 1885 text is public domain by age; digitisation/typographical rights may be separate."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/477-rv1885-revised-version-1885"
+    ]
+  },
+  {
+    "name": "The Passion Translation",
+    "abbreviations": [
+      "TPT"
+    ],
+    "publisher_or_rights_holder": "Passion & Fire Ministries, Inc.; BroadStreet Publishing Group licensee",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1849-tpt-the-passion-translation"
+      },
+      {
+        "kind": "web",
+        "name": "The Passion Translation",
+        "url": "https://www.thepassiontranslation.com/FAQs"
+      }
+    ],
+    "caveats": [
+      "All rights reserved; Bible App currently labels the edition “In Review”.",
+      "Direct licence required for any reuse beyond authorised quotation."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1849-tpt-the-passion-translation",
+      "https://www.thepassiontranslation.com/FAQs"
+    ]
+  },
+  {
+    "name": "The Scriptures 2009",
+    "abbreviations": [
+      "TS2009"
+    ],
+    "publisher_or_rights_holder": "Institute for Scripture Research",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/316-ts2009-the-scriptures-2009"
+      },
+      {
+        "kind": "web",
+        "name": "Institute for Scripture Research",
+        "url": "https://instituteforscriptureresearch.org/"
+      }
+    ],
+    "caveats": [
+      "Copyrighted ISR edition; no text changes permitted.",
+      "Platform/API entitlement and commercial or AI/RAG use require direct permission."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/316-ts2009-the-scriptures-2009",
+      "https://instituteforscriptureresearch.org/"
+    ]
+  },
+  {
+    "name": "Text-Critical English New Testament",
+    "abbreviations": [
+      "TCENT"
+    ],
+    "publisher_or_rights_holder": "Robert Adam Boyd; eBible.org distributor",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/3427-tcent-the-text-critical-english-new-testament"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/engtcent/"
+      },
+      {
+        "kind": "web",
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "caveats": [
+      "CC BY 4.0; attribution and indication of changes are required.",
+      "Translation name is trademarked; derivatives must use a different name."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/3427-tcent-the-text-critical-english-new-testament",
+      "https://ebible.org/engtcent/",
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  {
+    "name": "World Messianic Bible",
+    "abbreviations": [
+      "WMB"
+    ],
+    "publisher_or_rights_holder": "eBible.org / Michael Paul Johnson",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/1209-wmb-world-messianic-bible"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/engwmb/"
+      }
+    ],
+    "caveats": [
+      "Public-domain text; the World Messianic Bible name is trademarked for unchanged text."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/1209-wmb-world-messianic-bible",
+      "https://ebible.org/engwmb/"
+    ]
+  },
+  {
+    "name": "Wycliffe's Bible with Modern Spelling",
+    "abbreviations": [
+      "WBMS",
+      "WYCms"
+    ],
+    "publisher_or_rights_holder": "Terence P. Noble",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/"
+      }
+    ],
+    "caveats": [
+      "CC BY-NC-ND according to eBible.org distribution metadata; no commercial derivatives."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling",
+      "https://ebible.org/"
+    ]
+  },
+  {
+    "name": "Y'all Version Bible",
+    "abbreviations": [
+      "YALL"
+    ],
+    "publisher_or_rights_holder": "Y'all Version Bible Society",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4108-yall-yall-version-bible"
+      },
+      {
+        "kind": "web",
+        "name": "Y’all Version",
+        "url": "https://yallversion.com/"
+      }
+    ],
+    "caveats": [
+      "Licence/reuse terms require direct rights-holder confirmation."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4108-yall-yall-version-bible",
+      "https://yallversion.com/"
+    ]
+  },
+  {
+    "name": "New Living Translation Catholic Edition",
+    "abbreviations": [
+      "NLTCE"
+    ],
+    "publisher_or_rights_holder": "Tyndale House Publishers, Inc.",
+    "access": [
+      "Bible App consumer reading",
+      "direct rights-holder licence where required"
+    ],
+    "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible App",
+        "url": "https://www.bible.com/versions/4249-nltce-new-living-translation-catholic-edition"
+      },
+      {
+        "kind": "web",
+        "name": "New Living Translation",
+        "url": "https://www.newlivingtranslation.com/"
+      }
+    ],
+    "caveats": [
+      "Catholic edition of NLT; copyrighted.",
+      "API and reuse rights require direct Tyndale confirmation."
+    ],
+    "sources": [
+      "https://www.bible.com/versions/4249-nltce-new-living-translation-catholic-edition",
+      "https://www.newlivingtranslation.com/"
+    ]
   }
 ]
