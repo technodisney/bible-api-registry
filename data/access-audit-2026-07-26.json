@@ -36,7 +36,7 @@
     },
     {
       "translation": "New Living Translation",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-27",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/116-nlt-new-living-translation"
@@ -45,7 +45,7 @@
         {
           "name": "NLT API",
           "url": "https://api.nlt.to/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official route verified: anonymous non-commercial access is limited to 50 verses/request and 500 requests/day; key-based use is limited to 500 verses/request and 5,000 requests/day, with commercial use requested at registration"
         },
         {
           "name": "API.Bible",

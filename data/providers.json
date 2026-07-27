@@ -41,12 +41,13 @@
   {
     "name": "NLT API",
     "operator": "Tyndale House Publishers",
-    "signup": "API key",
-    "free_tier": "Non-commercial access",
+    "signup": "No key for limited anonymous access; API key for higher limits or to request commercial use",
+    "free_tier": "Non-commercial anonymous access: 50 verses/request and 500 requests/day; key-based non-commercial access: 500 verses/request and 5,000 requests/day",
     "premium_cost": "No public self-service commercial price",
     "premium_required_when": "Commercial or expanded use",
     "caveats": [
-      "500 verses/request and 5,000 requests/day documented for authenticated access",
+      "Anonymous access is limited to 50 verses/request and 500 requests/day",
+      "500 verses/request and 5,000 requests/day documented for key-based access",
       "copyright quotation limits still apply"
     ],
     "sources": [

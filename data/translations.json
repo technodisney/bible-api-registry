@@ -85,7 +85,8 @@
       "Bible Gateway web"
     ],
     "caveats": [
-      "Non-commercial API use; commercial rights require permission"
+      "Anonymous API access is non-commercial and limited to 50 verses/request and 500 requests/day",
+      "Key-based access is non-commercial and limited to 500 verses/request and 5,000 requests/day; explain commercial use when registering"
     ],
     "sources": [
       "https://api.nlt.to/",
