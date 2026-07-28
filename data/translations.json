@@ -1538,19 +1538,13 @@
     "publisher_or_rights_holder": "Christian Biblical Truth of God / York Publishing Company",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/4253-afv-a-faithful-version"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/A-Faithful-Version-AFV/"
       }
     ],
     "caveats": [
@@ -1558,8 +1552,7 @@
       "No API route found within the direct-source research budget; direct licence required for reuse."
     ],
     "sources": [
-      "https://www.bible.com/versions/4253-afv-a-faithful-version",
-      "https://www.biblegateway.com/versions/A-Faithful-Version-AFV/"
+      "https://www.bible.com/versions/4253-afv-a-faithful-version"
     ]
   },
   {
@@ -2335,7 +2328,7 @@
       {
         "kind": "web",
         "name": "Open.Bible",
-        "url": "https://open.bible/"
+        "url": "https://www.open.bible/bibles/69a307e295245b14e244c7a0"
       }
     ],
     "caveats": [
@@ -2345,7 +2338,7 @@
     ],
     "sources": [
       "https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition",
-      "https://open.bible/"
+      "https://www.open.bible/bibles/69a307e295245b14e244c7a0"
     ]
   },
   {
@@ -2356,21 +2349,29 @@
     "publisher_or_rights_holder": "Word Biblical Ministries",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Open.Bible downloads"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition"
+      },
+      {
+        "kind": "web",
+        "name": "Open.Bible",
+        "url": "https://www.open.bible/bibles/69a307e695245b14e244c7a8"
       }
     ],
     "caveats": [
       "New Testament only; CC BY-SA stated on the Bible App page.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission.",
+      "CC BY-SA confirmed by the bounded API-access audit."
     ],
     "sources": [
-      "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition"
+      "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition",
+      "https://www.open.bible/bibles/69a307e695245b14e244c7a8"
     ]
   },
   {

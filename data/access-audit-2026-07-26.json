@@ -653,13 +653,19 @@
     },
     {
       "translation": "A Faithful Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-28",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4253-afv-a-faithful-version"
       },
-      "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [
+        {
+          "name": "YouVersion Platform",
+          "url": "https://developers.youversion.com/api-usage",
+          "status": "route verified; App Key and accepted edition licence agreement are required, so AFV entitlement is credential/licence-specific"
+        }
+      ],
+      "record_status": "Bible App reading verified; Bible Gateway's cited AFV version page now reports version not found; no standalone public API was confirmed"
     },
     {
       "translation": "Catholic Public Domain Version",
@@ -895,23 +901,35 @@
     },
     {
       "translation": "African International New Testament: Explanatory Paraphrase (American English Edition)",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-28",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4670-afintexp-african-international-new-testament-explanatory-paraphrase-american-english-edition"
       },
-      "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [
+        {
+          "name": "YouVersion Platform",
+          "url": "https://developers.youversion.com/api-usage",
+          "status": "route verified; App Key and accepted edition licence agreement are required, so AFINTEXP entitlement is credential/licence-specific"
+        }
+      ],
+      "record_status": "Bible App and exact Open.Bible CC BY-SA download record verified; no standalone public API was confirmed"
     },
     {
       "translation": "African International New Testament: Literal Translation (British English Edition)",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-28",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition"
       },
-      "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [
+        {
+          "name": "YouVersion Platform",
+          "url": "https://developers.youversion.com/api-usage",
+          "status": "route verified; App Key and accepted edition licence agreement are required, so AFINTLIT entitlement is credential/licence-specific"
+        }
+      ],
+      "record_status": "Bible App and exact Open.Bible CC BY-SA download record verified; no standalone public API was confirmed"
     },
     {
       "translation": "Amplified Bible, Classic Edition",
