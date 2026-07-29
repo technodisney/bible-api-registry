@@ -2382,8 +2382,7 @@
     "publisher_or_rights_holder": "The Lockman Foundation",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
@@ -2393,17 +2392,18 @@
       },
       {
         "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Amplified-Bible-Classic-Edition-AMPC-Bible/"
+        "name": "Lockman Foundation permissions",
+        "url": "https://www.lockman.org/permission-to-quote-copyright-trademark-information/"
       }
     ],
     "caveats": [
       "Copyrighted/trademarked classic edition; separate from AMP.",
+      "Lockman permits quotations up to 1,000 verses subject to its conditions; bulk downloading, scraping, and standalone-dataset redistribution are not authorised.",
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
       "https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition",
-      "https://www.biblegateway.com/versions/Amplified-Bible-Classic-Edition-AMPC-Bible/"
+      "https://www.lockman.org/permission-to-quote-copyright-trademark-information/"
     ]
   },
   {

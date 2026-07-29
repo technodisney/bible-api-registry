@@ -933,13 +933,19 @@
     },
     {
       "translation": "Amplified Bible, Classic Edition",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-29",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/8-ampc-amplified-bible-classic-edition"
       },
-      "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/sign-up/starter",
+          "status": "route verified; API.Bible shows Amplified among featured versions, but exact AMPC edition entitlement remains key/licence-specific"
+        }
+      ],
+      "record_status": "Bible App reading and Lockman permissions verified; cited Bible Gateway AMPC version page currently reports version not found, so it is not retained as an access route; no standalone public API was confirmed"
     },
     {
       "translation": "Anglicised English Standard Version 2025",
