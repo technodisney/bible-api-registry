@@ -434,7 +434,7 @@
     },
     {
       "translation": "Berean Standard Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-30",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/3034-bsb-berean-standard-bible"
@@ -443,7 +443,7 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "route and exact BSB catalogue entry verified; provider publishes no-key access, while its catalogue points to Berean Bible for edition licence metadata"
         }
       ],
       "record_status": "verified access routes; licensing remains governed by linked primary sources"
@@ -669,13 +669,13 @@
     },
     {
       "translation": "Catholic Public Domain Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-30",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/42-cpdv-catholic-public-domain-version"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "rights-holder source verifies a perpetual public-domain dedication; consumer availability does not establish an API route"
     },
     {
       "translation": "EasyEnglish Bible 2024",
@@ -949,7 +949,7 @@
     },
     {
       "translation": "Anglicised English Standard Version 2025",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-30",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025"
@@ -958,10 +958,10 @@
         {
           "name": "ESV API",
           "url": "https://api.esv.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official ESV API route and key requirement verified; exact Anglicised 2025 edition entitlement remains unconfirmed and key/licence-specific"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Crossway rights/API routes verified; the prior Bible Gateway version URL now reports the edition unavailable, so it is not retained as an access route"
     },
     {
       "translation": "Christian Standard Bible Anglicised",

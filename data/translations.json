@@ -1015,13 +1015,13 @@
     "abbreviations": [
       "BSB"
     ],
-    "publisher_or_rights_holder": "Berean Bible / Bible Hub",
+    "publisher_or_rights_holder": "BSB Publishing, LLC / Berean Bible",
     "access": [
       "Free Use Bible API",
       "Bible Hub/Berean sources"
     ],
     "caveats": [
-      "Retain verified version/licence metadata"
+      "The current Free Use Bible API catalogue identifies this edition as BSB and links its licence metadata to Berean Bible; retain that metadata with any deployment."
     ],
     "sources": [
       "https://bible.helloao.org/",
@@ -1563,8 +1563,7 @@
     "publisher_or_rights_holder": "Ronald L. Conte Jr.",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct public-domain source and reuse"
     ],
     "access_links": [
       {
@@ -1576,11 +1575,6 @@
         "kind": "web",
         "name": "Sacred Bible",
         "url": "https://sacredbible.org/catholic/version.htm"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Catholic-Public-Domain-Version-CPDV/"
       }
     ],
     "caveats": [
@@ -1589,8 +1583,7 @@
     ],
     "sources": [
       "https://www.bible.com/versions/42-cpdv-catholic-public-domain-version",
-      "https://sacredbible.org/catholic/version.htm",
-      "https://www.biblegateway.com/versions/Catholic-Public-Domain-Version-CPDV/"
+      "https://sacredbible.org/catholic/version.htm"
     ]
   },
   {
@@ -2415,7 +2408,6 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Bible Gateway web",
       "ESV API where edition authorised"
     ],
     "access_links": [
@@ -2423,11 +2415,6 @@
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/English-Standard-Version-Anglicised-ESVUK-Bible/"
       },
       {
         "kind": "api",
@@ -2442,8 +2429,8 @@
     ],
     "sources": [
       "https://www.bible.com/versions/4765-esvuk25-anglicised-english-standard-version-2025",
-      "https://www.biblegateway.com/versions/English-Standard-Version-Anglicised-ESVUK-Bible/",
-      "https://api.esv.org/"
+      "https://api.esv.org/",
+      "https://www.crossway.org/permissions/"
     ]
   },
   {
