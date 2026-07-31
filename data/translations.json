@@ -722,7 +722,8 @@
       "direct permission"
     ],
     "caveats": [
-      "Larger use may incur fees"
+      "Up to 500 verses without express written permission requires proper attribution and must not be a complete Bible book or 25% or more of the work/live event",
+      "Use beyond those terms requires permission; fees are assessed by amount used, quantity, and whether the item is sold"
     ],
     "sources": [
       "https://www.commonenglishbible.com/permissions",
@@ -2438,7 +2439,7 @@
     "abbreviations": [
       "CSBA"
     ],
-    "publisher_or_rights_holder": "LifeWay Christian Resources",
+    "publisher_or_rights_holder": "Holman Bible Publishers / LifeWay Christian Resources",
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
@@ -2457,7 +2458,7 @@
       }
     ],
     "caveats": [
-      "Anglicised CSB edition; copyrighted.",
+      "Anglicised CSB edition; Bible App identifies it as © 2024 Holman Bible Publishers.",
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [

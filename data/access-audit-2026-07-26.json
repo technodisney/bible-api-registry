@@ -314,7 +314,7 @@
     },
     {
       "translation": "Common English Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-31",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/37-ceb-common-english-bible"
@@ -326,7 +326,7 @@
           "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "verified consumer and API access routes; official permissions source confirms the 500-verse / no-complete-book / under-25%-of-work allowance, with permission and possible fees beyond it"
     },
     {
       "translation": "Good News Translation",
@@ -965,13 +965,13 @@
     },
     {
       "translation": "Christian Standard Bible Anglicised",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-07-31",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "verified consumer access routes; Bible App identifies © 2024 Holman Bible Publishers. No standalone API entitlement was confirmed without a provider key/licence."
     },
     {
       "translation": "Contemporary English Version (Anglicised) 2012",
