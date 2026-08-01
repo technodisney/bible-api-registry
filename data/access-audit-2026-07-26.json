@@ -346,7 +346,7 @@
     },
     {
       "translation": "Contemporary English Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-01",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/392-cev-contemporary-english-version"
@@ -358,7 +358,7 @@
           "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "official ABS licensing page verified: the no-permission allowance is up to 500 verses only under its attribution, non-commercial, under-25%-of-work, and no-50%-of-a-book conditions; websites and mobile applications require written permission. API.Bible remains key/licence-specific."
     },
     {
       "translation": "Easy-to-Read Version",
@@ -398,13 +398,13 @@
     },
     {
       "translation": "Complete Jewish Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-01",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1275-cjb-complete-jewish-bible"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading and the publisher's copyright policy verified. The policy requires written permission for web reprinting and sets a no-fee allowance only for quotes up to 500 words; the existing Bible Gateway version URL reports the edition unavailable, so it is not retained as an access route. No public standalone API entitlement was confirmed."
     },
     {
       "translation": "Tree of Life Version",
@@ -975,13 +975,13 @@
     },
     {
       "translation": "Contemporary English Version (Anglicised) 2012",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-01",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/294-cevuk-contemporary-english-version-anglicised-2012"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading and attribution verified: British and Foreign Bible Society anglicised the ABS CEV for the UK/Commonwealth; the edition is © BFBS 1997, 2012. No standalone API entitlement was confirmed without a provider key/licence."
     },
     {
       "translation": "Contemporary English Version Interconfessional Edition",

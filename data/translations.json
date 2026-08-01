@@ -796,7 +796,8 @@
       "direct ABS licensing"
     ],
     "caveats": [
-      "Commercial/full-text use requires ABS permission"
+      "The official ABS policy permits up to 500 verses only when its no-50%-of-a-book, under-25%-of-the-new-work, attribution, and non-commercial conditions are all met.",
+      "Written ABS permission is required for websites, mobile applications, commercial use, or use beyond the published quotation allowance."
     ],
     "sources": [
       "https://cev.bible/licensing/",
@@ -928,22 +929,17 @@
     ],
     "publisher_or_rights_holder": "David H. Stern / Messianic Jewish Publishers",
     "access": [
-      "Bible Gateway web",
       "direct publisher permission"
     ],
     "caveats": [
-      "Copyrighted; uses Jewish ordering and Hebrew names"
+      "Copyright © 1998 David H. Stern; the publisher's policy requires written permission for web reprinting, and charges fees for quotations over 500 words."
     ],
     "sources": [
       "https://www.messianicjewish.net/",
+      "https://www.messianicjewish.net/pages/copyright",
       "https://www.bible.com/versions/1275-cjb-complete-jewish-bible"
     ],
     "access_links": [
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/"
-      },
       {
         "kind": "web",
         "name": "Bible App",
@@ -2488,7 +2484,8 @@
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/294-cevuk-contemporary-english-version-anglicised-2012"
+      "https://www.bible.com/versions/294-cevuk-contemporary-english-version-anglicised-2012",
+      "https://www.biblesociety.org.uk/products/bibles/english-bibles/cev/"
     ]
   },
   {
