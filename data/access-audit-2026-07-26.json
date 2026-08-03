@@ -57,7 +57,7 @@
     },
     {
       "translation": "English Standard Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-03",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/59-esv-english-standard-version-2025"
@@ -66,10 +66,15 @@
         {
           "name": "ESV API",
           "url": "https://api.esv.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official route verified: an application/API key is required; Crossway permits qualifying non-commercial website/app use subject to 500-verse, caching, display, attribution, and rate-limit conditions"
+        },
+        {
+          "name": "API.Bible",
+          "url": "https://care.api.bible/article/405-express-licensing-faqs",
+          "status": "officially unavailable: API.Bible states that ESV is not currently available and directs developers to Crossway’s ESV API"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Crossway’s 2025 permissions and official API route verified; API access is key-based and restricted to qualifying non-commercial use. Bible App and Bible Gateway are consumer-reading routes, not API entitlement."
     },
     {
       "translation": "New English Translation",
@@ -362,13 +367,13 @@
     },
     {
       "translation": "Easy-to-Read Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-03",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App, Bible Gateway, and eBible.org consumer reading verified. Bible League’s published licence permits non-commercial distribution without modification but forbids server hosting without written permission; no public standalone API or API.Bible entitlement was confirmed."
     },
     {
       "translation": "The Message",
@@ -679,13 +684,13 @@
     },
     {
       "translation": "EasyEnglish Bible 2024",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-03",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2079-easy-easyenglish-bible-2024"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App, EasyEnglish, and Bible Gateway consumer reading verified. MissionAssist’s June 2026 copyright policy permits up to 100 verses with stated conditions; any other use, including electronic-platform publication, requires prior written permission. No public standalone API or API.Bible entitlement was confirmed."
     },
     {
       "translation": "Evangelical Heritage Version",

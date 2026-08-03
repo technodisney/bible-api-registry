@@ -128,11 +128,13 @@
       "Bible Gateway web"
     ],
     "caveats": [
-      "Official API is non-commercial and limits caching/display/query size",
-      "API.Bible officially states that ESV is not currently available through API.Bible; use Crossway's official ESV API instead."
+      "Official ESV API is free only for qualifying non-commercial website/app use and limits caching, display, and query size.",
+      "API.Bible officially states that ESV is not currently available through API.Bible; use Crossway’s official ESV API instead.",
+      "Crossway’s 2025 standard-use guidance permits up to 500 verses subject to per-book and 25%-of-work limits; formal licensing is required beyond those limits."
     ],
     "sources": [
       "https://api.esv.org/",
+      "https://www.crossway.org/permissions/",
       "https://care.api.bible/article/405-express-licensing-faqs",
       "https://www.bible.com/versions/59-esv-english-standard-version-2025"
     ],
@@ -828,14 +830,17 @@
     ],
     "publisher_or_rights_holder": "Bible League International",
     "access": [
-      "Bible Gateway web"
+      "Bible Gateway web",
+      "eBible.org consumer reading"
     ],
     "caveats": [
-      "Copyrighted; hosting restrictions apply",
-      "API.Bible access was not confirmed in the public catalogue audit on 2026-07-26; do not assume it is available."
+      "Copyrighted; Bible League permits up to 1,000 verses subject to no-complete-book, under-50%-of-work, attribution, non-modification, and non-commercial conditions.",
+      "Hosting the text on a server or any commercial use requires written permission from Bible League International.",
+      "API.Bible access was not confirmed in the public catalogue audit on 2026-08-03; do not assume it is available."
     ],
     "sources": [
       "https://www.bibleleague.org/license-agreement/",
+      "https://ebible.org/find/show.php?id=engerv",
       "https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version"
     ],
     "access_links": [
@@ -843,6 +848,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/find/show.php?id=engerv"
       },
       {
         "kind": "web",
@@ -1612,10 +1622,11 @@
       }
     ],
     "caveats": [
-      "Copyrighted MissionAssist edition; published quotation allowance is limited.",
-      "Electronic-platform publication, commercial use, and AI/RAG use require direct permission."
+      "Copyrighted MissionAssist edition; without written permission, quotations are limited to 100 verses and must not comprise a complete book or more than 25% of the work.",
+      "Any other use, including publication on an electronic platform, requires MissionAssist’s prior written permission."
     ],
     "sources": [
+      "https://www.easyenglish.bible/copyright/",
       "https://www.bible.com/versions/2079-easy-easyenglish-bible-2024",
       "https://www.easyenglish.bible/",
       "https://www.biblegateway.com/versions/EasyEnglish-Bible-EASY/"

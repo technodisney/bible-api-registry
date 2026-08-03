@@ -27,7 +27,7 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | Common English Bible (CEB) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/37-ceb-common-english-bible) |
 | Good News Translation (GNT, TEV) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/68-gnt-good-news-translation) |
 | Contemporary English Version (CEV) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/392-cev-contemporary-english-version) |
-| Easy-to-Read Version (ERV) | — | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version) |
+| Easy-to-Read Version (ERV) | — | [Bible Gateway](https://www.biblegateway.com/)<br>[eBible.org](https://ebible.org/find/show.php?id=engerv)<br>[Bible App](https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version) |
 | The Message (MSG) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/97-msg-the-message) |
 | Lexham English Bible (LEB) | — | [Lexham](https://lexhamenglishbible.com/)<br>[Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/90-leb-lexham-english-bible) |
 | Complete Jewish Bible (CJB) | — | [Bible App](https://www.bible.com/versions/1275-cjb-complete-jewish-bible) |
