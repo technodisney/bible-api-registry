@@ -995,12 +995,13 @@
     "publisher_or_rights_holder": "Free Bible Ministry",
     "access": [
       "Free Use Bible API",
-      "source/licence metadata"
+      "Free Bible Ministry source text and Creative Commons licence"
     ],
     "caveats": [
-      "Read exact licence metadata before redistribution"
+      "Copyrighted but licensed CC BY-SA 4.0: identify the Free Bible Version, identify adaptations, and license derivatives under the same terms."
     ],
     "sources": [
+      "https://www.freebibleversion.org/",
       "https://bible.helloao.org/",
       "https://www.bible.com/versions/1932-fbv-free-bible-version"
     ],
@@ -1014,6 +1015,11 @@
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/1932-fbv-free-bible-version"
+      },
+      {
+        "kind": "web",
+        "name": "Free Bible Version",
+        "url": "https://www.freebibleversion.org/"
       }
     ]
   },
@@ -1694,17 +1700,23 @@
       },
       {
         "kind": "web",
+        "name": "Rain Ministries",
+        "url": "https://firstnationsversion.com/"
+      },
+      {
+        "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/versions/First-Nations-Version-FNVNT/"
       }
     ],
     "caveats": [
-      "New Testament only.",
-      "Copyrighted; full-text, commercial, and AI/RAG use require direct publisher permission."
+      "The catalogued FNVNT consumer edition is New Testament only; Rain Ministries reports separate Psalms and Proverbs release in 2025 and continuing Old Testament work.",
+      "Copyrighted: up to 500 verses may be quoted only below both 25%-of-a-book and 25%-of-the-work limits with the required notice; permission is required above those limits. Full-text, commercial, and AI/RAG use require direct publisher permission."
     ],
     "sources": [
       "https://www.bible.com/versions/3633-fnvnt-first-nations-version",
       "https://www.ivpress.com/first-nations-version",
+      "https://firstnationsversion.com/about/",
       "https://www.biblegateway.com/versions/First-Nations-Version-FNVNT/"
     ]
   },

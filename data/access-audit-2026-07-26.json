@@ -423,7 +423,7 @@
     },
     {
       "translation": "Free Bible Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-05",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1932-fbv-free-bible-version"
@@ -432,10 +432,10 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "provider route verified; its broad provider claim does not supersede the edition's official CC BY-SA 4.0 terms"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Official Free Bible Version and Bible App pages confirm that FBV is copyrighted but licensed CC BY-SA 4.0: identify the version and adaptations, and release derivatives under the same licence. The current Free Use Bible API route is no-key, but its general provider claim is not an independent grant beyond the edition's official licence."
     },
     {
       "translation": "Berean Standard Bible",
@@ -704,13 +704,13 @@
     },
     {
       "translation": "First Nations Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-05",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/3633-fnvnt-first-nations-version"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading and Rain Ministries' current publisher information verified. The catalogued FNVNT edition is New Testament; Rain Ministries reports a separate 2025 Psalms and Proverbs release and continuing Old Testament work. Bible App publishes a 500-verse allowance subject to 25%-of-book and 25%-of-work limits and required notice; no public standalone API entitlement was confirmed."
     },
     {
       "translation": "Holman Christian Standard Bible",
