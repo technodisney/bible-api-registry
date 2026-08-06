@@ -273,7 +273,7 @@
     },
     {
       "translation": "Geneva Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-06",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2163-gnv-geneva-bible"
@@ -282,10 +282,15 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "provider route and exact catalogue entry verified: Geneva Bible 1599 (eng_gnv); its metadata links to eBible.org licence/provenance information"
+        },
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "official documentation lists 1599 Geneva Bible (GNV); requests require an access token and the API returns only translations for which that token is authorised"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "eBible.org and Bible App identify the historical Geneva text as public domain. Free Use Bible API exposes its exact eng_gnv catalogue item. Bible Gateway's GNV API route is access-token/authorisation-dependent."
     },
     {
       "translation": "Revised Standard Version",

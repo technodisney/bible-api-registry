@@ -585,14 +585,18 @@
     "access": [
       "Free Use Bible API",
       "Bible Gateway web",
+      "Bible Gateway API where authorised",
       "self-host historical source"
     ],
     "caveats": [
-      "Modern editions' notes, typesetting and spelling updates may be copyrighted"
+      "Modern editions' notes, typesetting and spelling updates may be copyrighted",
+      "Bible Gateway's official API documentation lists 1599 Geneva (GNV), but an access token exposes only translations for which the account is authorised."
     ],
     "sources": [
       "https://bible.helloao.org/",
-      "https://www.bible.com/versions/2163-gnv-geneva-bible"
+      "https://ebible.org/Scriptures/details.php?id=enggnv",
+      "https://www.bible.com/versions/2163-gnv-geneva-bible",
+      "https://www.biblegateway.com/api/documentation"
     ],
     "access_links": [
       {
@@ -604,6 +608,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
       },
       {
         "kind": "web",
