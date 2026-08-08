@@ -719,13 +719,13 @@
     },
     {
       "translation": "Holman Christian Standard Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-08",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading and the official CSB permissions page verified. HCSB is copyrighted by Holman Bible Publishers; its published notice permits up to 1,000 verses subject to no-complete-book and no-more-than-50%-of-work conditions, with permission required beyond that. No standalone public API was confirmed. The previously listed Bible Gateway version URL now reports the edition unavailable and is not retained as an access route."
     },
     {
       "translation": "Jubilee Bible",
