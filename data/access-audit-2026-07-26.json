@@ -163,7 +163,7 @@
     },
     {
       "translation": "King James Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-09",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1-kjv-king-james-version"
@@ -172,20 +172,20 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "provider route verified; no key or stated usage limit, but provider-wide reuse claims do not displace provenance or jurisdiction-specific rights caveats"
         },
         {
           "name": "DailyBible API",
           "url": "https://dailybible.ca/api-docs",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official documentation verified: no authentication; KJV is listed as a public-domain translation"
         },
         {
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official signup route verified; each app receives an API key and selected-edition access remains licence/app-specific"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Consumer reading and listed API routes verified. DailyBible documents a no-auth public-domain KJV route; API.Bible access is app-key/licence-specific. The current Bible App KJV page says Crown rights remain vested under British law and identifies BFBS additions, so do not describe every KJV edition as public domain worldwide."
     },
     {
       "translation": "American Standard Version",
@@ -729,13 +729,13 @@
     },
     {
       "translation": "Jubilee Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-09",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1077-jub-jubilee-bible"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading and publisher notice verified: unaltered non-profit/non-commercial Bible distribution is permitted; commercial reproduction requires express written permission. The cited Bible Gateway version URL now reports the edition unavailable and is not retained as an access route. No standalone public API was confirmed."
     },
     {
       "translation": "Literal Standard Version",
@@ -1065,7 +1065,7 @@
     },
     {
       "translation": "King James Version with Apocrypha, American Edition",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-09",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition"
@@ -1074,10 +1074,10 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_kja/GEN/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact endpoint verified: eng_kja metadata identifies King James Version + Apocrypha, includes 14 apocryphal books, and links eBible.org provenance; provider-wide reuse claims are not an independent grant over ABS typesetting"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading and exact Free Use Bible API endpoint verified. Bible App identifies the edition as KJV 1611 modernised by ABS in 1962 with typesetting © 2010 American Bible Society. No standalone rights-holder API or API.Bible entitlement was confirmed."
     },
     {
       "translation": "King James Version, American Edition",

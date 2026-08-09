@@ -1764,28 +1764,22 @@
     "publisher_or_rights_holder": "Ransom Press International, Inc.; Russell M. Stendal",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/1077-jub-jubilee-bible"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Jubilee-Bible-2000-JUB-Bible/"
       }
     ],
     "caveats": [
-      "Permissive for unaltered non-commercial Bible distribution; commercial use needs written permission.",
+      "The Bible App publisher notice permits unaltered, non-profit/non-commercial Bible distribution; commercial reproduction requires the publisher’s express written permission.",
+      "The cited Bible Gateway version URL currently reports the edition unavailable and is not an access route.",
       "No API route confirmed within the direct-source research budget."
     ],
     "sources": [
-      "https://www.bible.com/versions/1077-jub-jubilee-bible",
-      "https://www.biblegateway.com/versions/Jubilee-Bible-2000-JUB-Bible/"
+      "https://www.bible.com/versions/1077-jub-jubilee-bible"
     ]
   },
   {
@@ -2722,7 +2716,8 @@
     ],
     "caveats": [
       "KJV American edition with Apocrypha; distinguish edition/digital rights from underlying KJV text.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "Free Use Bible API’s exact eng_kja metadata identifies “King James Version + Apocrypha,” includes 14 apocryphal books, and points to eBible.org provenance; the provider’s general no-restrictions claim is not an independent grant over the ABS typesetting.",
+      "No standalone rights-holder API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
       "https://www.bible.com/versions/546-kjvaae-king-james-version-with-apocrypha-american-edition",
