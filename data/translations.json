@@ -164,7 +164,6 @@
     "publisher_or_rights_holder": "Biblical Studies Press",
     "access": [
       "Official NET API",
-      "Free Use Bible API",
       "Bible Gateway web"
     ],
     "caveats": [
@@ -180,11 +179,6 @@
         "kind": "api",
         "name": "NET API",
         "url": "https://labs.bible.org/api_web_service"
-      },
-      {
-        "kind": "api",
-        "name": "Free Use Bible API",
-        "url": "https://bible.helloao.org/"
       },
       {
         "kind": "web",
