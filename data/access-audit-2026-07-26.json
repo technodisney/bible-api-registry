@@ -299,13 +299,13 @@
     },
     {
       "translation": "New Revised Standard Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-11",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/3523-nrsvue-new-revised-standard-version-updated-edition-2021"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App and Bible Gateway consumer reading verified. Friendship Press confirms that NRSVue is the current revision, and that (except NRSV-CE) the original NRSV is no longer available for new licences or permission agreements. Bible Gateway API documentation lists NRSVUE, but its token is required and only authorised translations are returned; no public API entitlement was confirmed."
     },
     {
       "translation": "New American Bible Revised Edition",
