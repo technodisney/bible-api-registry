@@ -393,13 +393,19 @@
     },
     {
       "translation": "Lexham English Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-12",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/90-leb-lexham-english-bible"
       },
-      "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "official documentation lists LEB; requests require an access token and the API returns only translations for which that token is authorised"
+        }
+      ],
+      "record_status": "Bible App identifies Logos Bible Software as publisher and Baker Publishing Group copyright (2012). Bible Gateway lists LEB in its API documentation, but the route is access-token/authorisation-dependent; no public standalone API entitlement was confirmed. The former lexhamenglishbible.com source now redirects to an unrelated retailer search and is not retained."
     },
     {
       "translation": "Complete Jewish Bible",
@@ -539,7 +545,7 @@
     },
     {
       "translation": "Legacy Standard Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-12",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/3345-lsb-legacy-standard-bible"
@@ -548,10 +554,10 @@
         {
           "name": "Bible Gateway API",
           "url": "https://www.biblegateway.com/api/documentation",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official documentation lists LSB; requests require an access token and the API returns only translations for which that token is authorised"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Lockman’s current policy confirms quotation up to 1,000 verses subject to no-complete-book, retrieval-system, attribution, and other conditions; its AI permission is for dynamic queries, not bulk download, scraping, or standalone datasets. Bible Gateway lists LSB but its API route is access-token/authorisation-dependent. API.Bible and YouVersion Platform availability are credential/licence-specific and no public edition entitlement was confirmed."
     },
     {
       "translation": "Modern English Version",
@@ -1076,13 +1082,13 @@
     },
     {
       "translation": "King James Version, American Edition",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-12",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/547-kjvae-king-james-version-american-edition"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading verified. It identifies this edition as KJV 1611 with spelling, punctuation, and text formatting modernised by ABS in 1962, with typesetting © 2010 American Bible Society. API.Bible, YouVersion Platform, DBL, and Bible Gateway API remain credential/licence-specific; no public API entitlement or reusable API catalogue entry for KJVAE was confirmed."
     },
     {
       "translation": "Metrical Psalms and Scripture Selections 1562 (Sternhold and Hopkins)",

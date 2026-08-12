@@ -906,23 +906,25 @@
     "abbreviations": [
       "LEB"
     ],
-    "publisher_or_rights_holder": "Logos / Faithlife",
+    "publisher_or_rights_holder": "Lexham / Baker Publishing Group (Bible App identifies Logos Bible Software as publisher)",
     "access": [
       "Logos/Lexham channels",
-      "Bible Gateway web"
+      "Bible Gateway web",
+      "Bible Gateway API where authorised"
     ],
     "caveats": [
-      "Free electronic access does not imply unrestricted commercial republication"
+      "Copyrighted; free electronic access does not imply unrestricted commercial republication.",
+      "Bible Gateway API documentation lists LEB, but an access token is required and returns only translations authorised for that token."
     ],
     "sources": [
-      "https://lexhamenglishbible.com/",
-      "https://www.bible.com/versions/90-leb-lexham-english-bible"
+      "https://www.bible.com/versions/90-leb-lexham-english-bible",
+      "https://www.biblegateway.com/api/documentation"
     ],
     "access_links": [
       {
-        "kind": "web",
-        "name": "Lexham",
-        "url": "https://lexhamenglishbible.com/"
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
       },
       {
         "kind": "web",
