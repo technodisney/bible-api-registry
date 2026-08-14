@@ -1311,7 +1311,7 @@
     "abbreviations": [
       "MEV"
     ],
-    "publisher_or_rights_holder": "Military Bible Association (copyright holder); published by Passio / Charisma House",
+    "publisher_or_rights_holder": "United Bible Association (current Bible App copyright notice); Military Bible Association is named on Bible Gateway's 2014 notice; Passio handles permissions",
     "access": [
       "Bible Gateway web",
       "Bible Gateway API where authorised",
@@ -1335,8 +1335,9 @@
       }
     ],
     "caveats": [
-      "Copyrighted; publisher identity is presented differently by consumer services, while Military Bible Association is the copyright holder.",
-      "No standalone public API identified; API.Bible availability was not confirmed in public sources."
+      "Current consumer notices conflict on copyright attribution: Bible App identifies © 2024, 2017, 2014 United Bible Association, while Bible Gateway carries an older © 2014 Military Bible Association notice. Confirm the applicable notice with Passio before reuse.",
+      "The published no-permission allowance is up to 500 verses in print, below 50% of a Bible book and below 50% of the total work, with required acknowledgement; other uses require permission.",
+      "No standalone public API identified; Bible Gateway API requires an access token and exposes only translations for which the token is authorised. API.Bible availability was not confirmed in public sources."
     ],
     "sources": [
       "https://www.bible.com/versions/1171-mev-modern-english-version",
@@ -1417,7 +1418,7 @@
     "abbreviations": [
       "NOG"
     ],
-    "publisher_or_rights_holder": "Baker Publishing Group (copyright); published by Tree of Life Bible Society",
+    "publisher_or_rights_holder": "Baker Publishing Group (Names of God Bible text copyright); Tree of Life Bible Society publisher",
     "access": [
       "Bible Gateway web",
       "Bible Gateway API where authorised",
@@ -1437,11 +1438,12 @@
     ],
     "caveats": [
       "No current Bible App version page was verified in the official English catalogue.",
-      "The edition is derived from GOD'S WORD Translation with separate copyright layers; direct licence is needed for full-text, commercial, or AI/RAG use.",
-      "API.Bible availability was not confirmed in public sources."
+      "Bible Gateway's NOG copyright notice identifies the no-notes NOG text as © 2011 Baker Publishing Group; its quotation notice uses GOD'S WORD attribution, so retain the applicable notice and seek direct permission for full-text, commercial, or AI/RAG use.",
+      "Bible Gateway API requires an access token and exposes only translations for which the token is authorised. API.Bible availability was not confirmed in public sources."
     ],
     "sources": [
       "https://www.biblegateway.com/versions/Names-of-God-NOG-Bible/",
+      "https://bakerpublishinggroup.com/pages/permissions",
       "https://www.biblegateway.com/api/documentation"
     ]
   },

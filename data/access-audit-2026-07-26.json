@@ -561,7 +561,7 @@
     },
     {
       "translation": "Modern English Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-14",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1171-mev-modern-english-version"
@@ -570,10 +570,10 @@
         {
           "name": "Bible Gateway API",
           "url": "https://www.biblegateway.com/api/documentation",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official documentation lists MEV; requests require an access token and the API returns only translations for which that token is authorised"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App, Bible Gateway reader, and Bible Gateway API were rechecked. Current consumer copyright notices conflict: Bible App identifies © 2024, 2017, 2014 United Bible Association and Passio for permissions, while Bible Gateway retains an older © 2014 Military Bible Association notice. Both publish a 500-verse quotation allowance with 50%-of-book and 50%-of-work conditions; no standalone public API entitlement was confirmed."
     },
     {
       "translation": "The Voice",
@@ -607,7 +607,7 @@
     },
     {
       "translation": "Names of God Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-14",
       "bible_app": {
         "status": "not verified in current official English catalogue"
       },
@@ -615,10 +615,10 @@
         {
           "name": "Bible Gateway API",
           "url": "https://www.biblegateway.com/api/documentation",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official documentation lists NOG; requests require an access token and the API returns only translations for which that token is authorised"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible Gateway reader, its current NOG copyright notice, Baker's permissions page, and Bible Gateway API were rechecked. The no-notes NOG text is identified as © 2011 Baker Publishing Group; the displayed quotation notice permits up to 500 verses subject to half-a-book and 25%-of-product limits, and specifies GOD'S WORD attribution. Bible Gateway API access is token/authorisation-dependent; no public standalone API or API.Bible entitlement was confirmed."
     },
     {
       "translation": "Orthodox Jewish Bible",
@@ -1102,13 +1102,13 @@
     },
     {
       "translation": "Metrical Psalms and Scripture Selections 1698 (Brady & Tate)",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-14",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2593-mp1696-metrical-psalms-and-scripture-selections-1698-brady-tate"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App identifies this as the British and Foreign Bible Society's digitisation of the 1698 Brady and Tate metrical Psalms and Scripture selections, not a full Bible. The direct Bible Gateway version URL reports the edition unavailable; its API requires credentials and exposes only authorised translations. YouVersion Platform requires an App Key and accepted edition licence agreements. No standalone public API or reuse entitlement was confirmed."
     },
     {
       "translation": "New American Standard Bible 1995",
