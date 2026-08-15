@@ -31,7 +31,7 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | The Message (MSG) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/97-msg-the-message) |
 | Lexham English Bible (LEB) | — | [Lexham](https://lexhamenglishbible.com/)<br>[Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/90-leb-lexham-english-bible) |
 | Complete Jewish Bible (CJB) | — | [Bible App](https://www.bible.com/versions/1275-cjb-complete-jewish-bible) |
-| Tree of Life Version (TLV) | — | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/314-tlv-tree-of-life-version) |
+| Tree of Life Version (TLV) | — | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible.is](https://live.bible.is/bible/engtlv/MAT/1)<br>[Bible App](https://www.bible.com/versions/314-tlv-tree-of-life-version) |
 | Free Bible Version (FBV) | [Free Use Bible API](https://bible.helloao.org/) | [Bible App](https://www.bible.com/versions/1932-fbv-free-bible-version)<br>[Free Bible Version](https://www.freebibleversion.org/) |
 | Berean Standard Bible (BSB) | [Free Use Bible API](https://bible.helloao.org/) | [Berean Bible](https://berean.bible/)<br>[Bible App](https://www.bible.com/versions/3034-bsb-berean-standard-bible) |
 | Unlocked Literal Bible (ULB) | [Free Use Bible API](https://bible.helloao.org/) | [unfoldingWord](https://www.unfoldingword.org/) |

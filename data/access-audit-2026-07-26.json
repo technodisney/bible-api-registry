@@ -309,13 +309,13 @@
     },
     {
       "translation": "New American Bible Revised Edition",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-15",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/463-nabre-new-american-bible-revised-edition"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "USCCB Bible, Bible App, Bible Gateway consumer reading, and CCD permissions were rechecked. CCD owns NABRE copyright; quotations must be verbatim and acknowledged. Digital applications (free or paid) require a licence and royalty or permission fee. Bible Gateway's API documentation lists NABRE, but its access token/authorisation is required; no public API entitlement was confirmed."
     },
     {
       "translation": "Common English Bible",
@@ -377,7 +377,7 @@
     },
     {
       "translation": "The Message",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-15",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/97-msg-the-message"
@@ -389,7 +389,7 @@
           "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App and Bible Gateway consumer reading were rechecked. Bible App identifies The Message as © 1993, 2002, 2018 Eugene H. Peterson, used by permission of NavPress and represented by Tyndale House Publishers. API.Bible's current signup/terms confirm app-key and licence-specific content access, but no exact public MSG API entitlement was confirmed."
     },
     {
       "translation": "Lexham English Bible",
@@ -419,13 +419,13 @@
     },
     {
       "translation": "Tree of Life Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-15",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/314-tlv-tree-of-life-version"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Tree of Life Bible Society, Bible App, Bible Gateway reader, and the publisher's copyright/platform pages were rechecked. TLV is © 2014, 2016 Tree of Life Bible Society: up to 250 verses may be quoted with required notice only where no complete book or 25% of the work is used; larger uses and additional content need prior written permission. The publisher lists YouVersion, Bible Gateway, and Bible.is as readers; none establishes public API entitlement."
     },
     {
       "translation": "Free Bible Version",

@@ -692,10 +692,12 @@
       "direct licensing"
     ],
     "caveats": [
-      "Copyrighted US Catholic translation"
+      "CCD owns the copyright; NABRE quotations must be verbatim and carry the prescribed acknowledgment.",
+      "Digital applications, whether sold or free, require a licence and royalty or permission fee; no public API entitlement was confirmed."
     ],
     "sources": [
       "https://www.usccb.org/offices/new-american-bible",
+      "https://www.usccb.org/offices/new-american-bible/permissions",
       "https://www.bible.com/versions/463-nabre-new-american-bible-revised-edition"
     ],
     "access_links": [
@@ -870,14 +872,15 @@
     "abbreviations": [
       "MSG"
     ],
-    "publisher_or_rights_holder": "NavPress / The Navigators",
+    "publisher_or_rights_holder": "NavPress / The Navigators (represented by Tyndale House Publishers)",
     "access": [
       "API.Bible where authorised",
       "Bible Gateway web",
       "direct licence"
     ],
     "caveats": [
-      "Paraphrase; treat substantial/commercial use as permission-required"
+      "Copyright © 1993, 2002, 2018 Eugene H. Peterson; used by permission of NavPress and represented by Tyndale House Publishers.",
+      "API.Bible access requires an app key and edition entitlement remains licence-specific; no standalone public API entitlement was confirmed."
     ],
     "sources": [
       "https://www.biblegateway.com/versions/Message-MSG-Bible/",
@@ -974,10 +977,14 @@
       "direct publisher permission"
     ],
     "caveats": [
-      "Copyrighted; Hebrew names and Jewish framing"
+      "Copyright © 2014, 2016 Tree of Life Bible Society; retains Hebrew names and Jewish framing.",
+      "Up to 250 verses may be quoted without written permission only if no complete Bible book or 25% or more of the work is used, with the required notice; additional content and larger uses require advance written permission.",
+      "No public standalone API entitlement was confirmed."
     ],
     "sources": [
       "https://tlvbiblesociety.org/",
+      "https://help.tlvbiblesociety.org/en/articles/3767399-copyright-information",
+      "https://help.tlvbiblesociety.org/en/articles/3767390-tlv-translation-platforms",
       "https://www.bible.com/versions/314-tlv-tree-of-life-version"
     ],
     "access_links": [
@@ -985,6 +992,11 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/"
+      },
+      {
+        "kind": "web",
+        "name": "Bible.is",
+        "url": "https://live.bible.is/bible/engtlv/MAT/1"
       },
       {
         "kind": "web",
