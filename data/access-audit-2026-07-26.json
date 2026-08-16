@@ -461,7 +461,7 @@
     },
     {
       "translation": "Unlocked Literal Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-16",
       "bible_app": {
         "status": "not verified in current official English catalogue"
       },
@@ -469,14 +469,14 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "provider route and exact eng_ulb catalogue entry verified; no key is required, while the catalogue links to eBible.org edition licence/provenance metadata"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "eBible.org identifies the Unlocked Literal Bible as © 2017 Door43 World Missions Community and CC BY-SA 4.0. The exact Free Use Bible API eng_ulb catalogue item is available without a key; its provider-wide claim does not displace the edition’s attribution, change-notice, and share-alike conditions. No public API.Bible, YouVersion Platform, or DBL entitlement was confirmed."
     },
     {
       "translation": "Young's Literal Translation",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-16",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/821-ylt98-youngs-literal-translation-1898"
@@ -485,10 +485,15 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "provider route and exact eng_ylt catalogue entry verified; no key is required, and its metadata links to eBible.org edition provenance"
+        },
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "official documentation lists YLT; requests require an access token and the API returns only translations for which that token is authorised"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "eBible.org identifies the exact YLT edition as a Robert Young public-domain translation. The exact Free Use Bible API eng_ylt catalogue item is no-key; Bible Gateway lists YLT in its technical documentation, but that route is access-token/authorisation-dependent. Bible App and Bible Gateway are consumer-reading routes, not API entitlement."
     },
     {
       "translation": "New Century Version",

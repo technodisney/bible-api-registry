@@ -1081,22 +1081,30 @@
     "abbreviations": [
       "ULB"
     ],
-    "publisher_or_rights_holder": "unfoldingWord",
+    "publisher_or_rights_holder": "Door43 World Missions Community / unfoldingWord",
     "access": [
       "Free Use Bible API",
+      "eBible.org",
       "unfoldingWord resources"
     ],
     "caveats": [
-      "Open-licence/source-oriented text; retain attribution/licence notices"
+      "Copyrighted by Door43 World Missions Community; licensed CC BY-SA 4.0",
+      "Retain copyright/source information, identify changes, and license redistributed adaptations under CC BY-SA 4.0"
     ],
     "sources": [
-      "https://bible.helloao.org/"
+      "https://bible.helloao.org/",
+      "https://ebible.org/Scriptures/details.php?id=engULB"
     ],
     "access_links": [
       {
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/Scriptures/details.php?id=engULB"
       },
       {
         "kind": "web",
@@ -1113,14 +1121,17 @@
     "publisher_or_rights_holder": "Robert Young original text",
     "access": [
       "Free Use Bible API",
+      "eBible.org",
       "Bible Gateway web",
       "self-host historical source"
     ],
     "caveats": [
-      "Historical/public-domain text; unusual literal word order"
+      "Historical public-domain text; verify the exact edition and its provenance",
+      "Unusual literal word order"
     ],
     "sources": [
       "https://bible.helloao.org/",
+      "https://ebible.org/Scriptures/details.php?id=engylt",
       "https://www.bible.com/versions/821-ylt98-youngs-literal-translation-1898"
     ],
     "access_links": [
@@ -1128,6 +1139,11 @@
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/Scriptures/details.php?id=engylt"
       },
       {
         "kind": "web",
