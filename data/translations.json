@@ -1380,7 +1380,6 @@
     ],
     "publisher_or_rights_holder": "Ecclesia Bible Society; published by Thomas Nelson, Inc. (HarperCollins Christian Publishing)",
     "access": [
-      "Bible Gateway web",
       "Bible Gateway API where authorised",
       "direct HarperCollins Christian Publishing licence"
     ],
@@ -1389,20 +1388,15 @@
         "kind": "api",
         "name": "Bible Gateway API",
         "url": "https://www.biblegateway.com/api/documentation"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/The-Voice-VOICE-Bible/"
       }
     ],
     "caveats": [
       "No current Bible App version page was verified in the official English catalogue.",
+      "Bible Gateway's direct VOICE version-information URL currently reports ‘Version not found’; it is not retained as a consumer-reading access route.",
       "Copyrighted Thomas Nelson edition; direct rights-holder permission is required beyond its published quotation policy.",
       "API.Bible availability was not confirmed in public sources."
     ],
     "sources": [
-      "https://www.biblegateway.com/versions/The-Voice-VOICE-Bible/",
       "https://www.harpercollinschristian.com/sales-and-rights/permissions/",
       "https://www.biblegateway.com/api/documentation"
     ]

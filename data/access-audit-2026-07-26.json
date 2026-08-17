@@ -582,7 +582,7 @@
     },
     {
       "translation": "The Voice",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-17",
       "bible_app": {
         "status": "not verified in current official English catalogue"
       },
@@ -593,7 +593,7 @@
           "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible Gateway API documentation continues to list VOICE, but its direct version-information URL now reports ‘Version not found’; it is not retained as a consumer-reading access route. HarperCollins Christian Publishing identifies The Voice as a Thomas Nelson translation, © 2012 Ecclesia Bible Society, and its published quotation policy allows up to 500 verses only under stated conditions. Bible Gateway API requires an access token/authorisation; no public standalone API entitlement was confirmed."
     },
     {
       "translation": "Expanded Bible",
