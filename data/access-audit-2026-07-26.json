@@ -777,17 +777,17 @@
     },
     {
       "translation": "New Messianic Version Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-19",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2135-nmv-new-messianic-version-bible"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading and TovRose were rechecked. The cited Bible Gateway version URL reports the edition unavailable and is not retained as an access route. No translation-specific licence statement or public standalone API entitlement was confirmed; API.Bible, YouVersion Platform, DBL, and Bible Gateway API access remain account/key/licence-specific."
     },
     {
       "translation": "Plain English Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-19",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2530-pev-plain-english-version"
@@ -796,20 +796,26 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_pev/MAT/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact eng_pev endpoint and metadata verified; no key is required, and metadata links to the exact eBible.org licence/provenance record"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading, exact Free Use Bible API eng_pev endpoint, and eBible.org were rechecked. eBible.org identifies PEV as © 2026 Wycliffe Bible Translators Australia and CC BY-SA 4.0: retain attribution/source information, identify changes, and share adaptations alike. The cited Bible Gateway version URL reports the edition unavailable and is not retained as an access route. No separate credential-free API entitlement beyond the Free Use endpoint was confirmed."
     },
     {
       "translation": "Radiate New Testament",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-19",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2753-rad-radiate-new-testament"
       },
-      "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [
+        {
+          "name": "API.Bible / YouVersion Platform",
+          "url": "https://www.biblica.com/permissions/",
+          "status": "Biblica’s official permissions page names both platforms for royalty-free express licensing only for truly non-commercial, non-AI/ML use; platform account/key and accepted edition licence agreement remain required"
+        }
+      ],
+      "record_status": "Bible App consumer reading, Biblica permissions, API.Bible, YouVersion Platform, and Bible Gateway were rechecked. Bible App identifies Biblica as publisher and the edition as New Testament only. Biblica permits up to 500 verses subject to no-complete-book, under-25%-of-product, and acknowledgement conditions; written permission is required outside those terms. The cited Bible Gateway version URL reports the edition unavailable and is not retained as an access route. No credential-free public API entitlement was confirmed."
     },
     {
       "translation": "Revised Version 1885",

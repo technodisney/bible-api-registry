@@ -1909,8 +1909,7 @@
     "publisher_or_rights_holder": "TovRose",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
@@ -1922,21 +1921,16 @@
         "kind": "web",
         "name": "TovRose",
         "url": "https://tovrose.com/"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/New-Messianic-Version-NMV/"
       }
     ],
     "caveats": [
-      "No licence statement found within the direct-source research budget.",
+      "No translation-specific licence statement was found in the current direct-source check.",
+      "The cited Bible Gateway version URL now reports the edition unavailable and is not an access route.",
       "Direct rights-holder confirmation is needed for API, commercial, redistribution, and AI/RAG use."
     ],
     "sources": [
       "https://www.bible.com/versions/2135-nmv-new-messianic-version-bible",
-      "https://tovrose.com/",
-      "https://www.biblegateway.com/versions/New-Messianic-Version-NMV/"
+      "https://tovrose.com/"
     ]
   },
   {
@@ -1944,12 +1938,11 @@
     "abbreviations": [
       "PEV"
     ],
-    "publisher_or_rights_holder": "Wycliffe Bible Translators, Inc.",
+    "publisher_or_rights_holder": "Wycliffe Bible Translators Australia",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
       "Free Use Bible API",
-      "Bible Gateway web"
+      "eBible.org CC BY-SA 4.0 download"
     ],
     "access_links": [
       {
@@ -1958,30 +1951,24 @@
         "url": "https://www.bible.com/versions/2530-pev-plain-english-version"
       },
       {
-        "kind": "web",
-        "name": "Wycliffe",
-        "url": "https://www.wycliffe.org/"
-      },
-      {
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/api/eng_pev/MAT/1.json"
       },
       {
         "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Plain-English-Version-PEV/"
+        "name": "eBible.org licence/download",
+        "url": "https://ebible.org/details.php?id=engPEV"
       }
     ],
     "caveats": [
-      "Produced for Australian Indigenous-language speakers.",
-      "No translation-specific licence statement found within the direct-source research budget."
+      "Produced for Australian Aboriginal people who speak English as a second language.",
+      "The exact PEV record is © 2026 Wycliffe Bible Translators Australia and CC BY-SA 4.0: retain attribution/source information, identify changes, and share adaptations under the same licence.",
+      "The cited Bible Gateway version URL now reports the edition unavailable and is not an access route."
     ],
     "sources": [
       "https://www.bible.com/versions/2530-pev-plain-english-version",
-      "https://www.wycliffe.org/",
       "https://bible.helloao.org/api/eng_pev/books.json",
-      "https://www.biblegateway.com/versions/Plain-English-Version-PEV/",
       "https://ebible.org/details.php?id=engPEV"
     ]
   },
@@ -1994,7 +1981,7 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "API.Bible or YouVersion Platform where authorised"
     ],
     "access_links": [
       {
@@ -2008,19 +1995,28 @@
         "url": "https://www.biblica.com/"
       },
       {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Radiate-New-Testament-RAD/"
+        "kind": "api",
+        "name": "API.Bible",
+        "url": "https://api.bible/sign-up/starter"
+      },
+      {
+        "kind": "api",
+        "name": "YouVersion Platform",
+        "url": "https://developers.youversion.com/api-usage"
       }
     ],
     "caveats": [
       "New Testament only.",
-      "No rights policy found within the research budget; direct Biblica licence required for reuse."
+      "Biblica’s standard quotation allowance is 500 verses, with no complete book, less than 25% of the product, and required acknowledgement; written permission is required outside those conditions.",
+      "Biblica’s current express licensing names API.Bible and YouVersion Platform only for truly non-commercial, non-AI/ML uses; edition access remains platform account/key and licence-agreement dependent.",
+      "The cited Bible Gateway version URL now reports the edition unavailable and is not an access route."
     ],
     "sources": [
       "https://www.bible.com/versions/2753-rad-radiate-new-testament",
       "https://www.biblica.com/",
-      "https://www.biblegateway.com/versions/Radiate-New-Testament-RAD/"
+      "https://www.biblica.com/permissions/",
+      "https://api.bible/sign-up/starter",
+      "https://developers.youversion.com/api-usage"
     ]
   },
   {
