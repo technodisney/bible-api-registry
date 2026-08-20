@@ -1149,33 +1149,33 @@
     },
     {
       "translation": "New Revised Standard Version Catholic Interconfessional",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-20",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2015-nrsv-ci-new-revised-standard-version-catholic-interconfessional"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App confirms the 1989 National Council of the Churches of Christ copyright and all-rights-reserved status. Friendship Press's current policy permits up to 500 unchanged verses only under its conditions, excludes mobile apps and downloadable Bibles from gratis use, and says only NRSV-CE remains available for new NRSV licences or permission agreements. Bible Gateway API documentation lists NRSVCE/NRSVUE, not the exact NRSV-CI; API.Bible, YouVersion Platform, and DBL are credential/licence-specific and no exact NRSV-CI entitlement was confirmed."
     },
     {
       "translation": "Psalms of David in Metre 1650 (Scottish Psalter)",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-20",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1365-mp1650-psalms-of-david-in-metre-1650-scottish-psalter"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App identifies British & Foreign Bible Society as publisher and says it digitised the edition in 2014 and maintains the digital text. The consumer reader is not an API or reuse grant. No exact entry was found in the current Free Use Bible API catalogue; DailyBible documents a small public-domain catalogue but no exact MP1650 route. API.Bible, YouVersion Platform, Bible Gateway API, and DBL remain credential/licence-specific; no exact edition entitlement was confirmed."
     },
     {
       "translation": "Revised Standard Version Catholic Interconfessional",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-20",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/3548-rsvci-revised-standard-version"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App verifies the RSVCI consumer reader and identifies the National Council of the Churches of Christ. Friendship Press's current RSV policy permits up to 500 unchanged verses only under its conditions and requires special permission or a licence for mobile apps and downloadable Bibles. Bible Gateway API documentation lists RSV and RSVCE, not exact RSVCI; API.Bible, YouVersion Platform, and DBL remain credential/licence-specific and no exact RSVCI entitlement was confirmed."
     },
     {
       "translation": "Revised Standard Version Old Tradition 1952",

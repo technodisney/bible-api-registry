@@ -2905,11 +2905,13 @@
       }
     ],
     "caveats": [
-      "Catholic/interconfessional NRSV edition; copyrighted.",
+      "Catholic/interconfessional NRSV edition; Bible App identifies the 1989 National Council of the Churches of Christ copyright and all-rights-reserved status.",
+      "Friendship Press's current RSV/NRSV policy allows up to 500 unchanged verses only subject to its conditions; mobile apps and downloadable Bibles require special permission or a licence. It says only NRSV-CE remains available for new NRSV licences or permission agreements, so do not assume NRSV-CI licensing is available.",
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/2015-nrsv-ci-new-revised-standard-version-catholic-interconfessional"
+      "https://www.bible.com/versions/2015-nrsv-ci-new-revised-standard-version-catholic-interconfessional",
+      "https://www.friendshippress.org/pages/nrsvue-quick-faq"
     ]
   },
   {
@@ -2931,6 +2933,7 @@
     ],
     "caveats": [
       "Psalms only; metrical/singing text, not a full Bible.",
+      "Bible App says the British and Foreign Bible Society digitised this edition in 2014 and maintains the digital text; that reader listing is not a reuse grant.",
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
@@ -2955,11 +2958,12 @@
       }
     ],
     "caveats": [
-      "RSV Catholic/interconfessional edition; copyrighted.",
+      "RSV Catholic/interconfessional edition; copyrighted. Friendship Press's current RSV policy allows up to 500 unchanged verses only subject to its conditions; mobile apps and downloadable Bibles require special permission or a licence.",
       "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/3548-rsvci-revised-standard-version"
+      "https://www.bible.com/versions/3548-rsvci-revised-standard-version",
+      "https://www.friendshippress.org/pages/nrsvue-quick-faq"
     ]
   },
   {
