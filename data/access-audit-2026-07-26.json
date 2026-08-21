@@ -819,13 +819,13 @@
     },
     {
       "translation": "Revised Version 1885",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-21",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/477-rv1885-revised-version-1885"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading confirms that this is BFBS's digitised RV1885, including footnotes, paragraph markers, introductions and appendices. The cited Bible Gateway version URL now returns its official ‘Version not found’ page and was removed. No credential-free API entitlement was confirmed."
     },
     {
       "translation": "The Passion Translation",
@@ -1179,17 +1179,17 @@
     },
     {
       "translation": "Revised Standard Version Old Tradition 1952",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-21",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2017-rsv-c-revised-standard-version-old-tradition-1952"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading identifies the Division of Christian Education of the National Council of the Churches of Christ in the USA as rights holder/publisher. Friendship Press's current guidelines apply to RSV: up to 500 unchanged verses only under stated conditions, while mobile apps, downloadable Bibles, and software require special permission or a licence. Bible Gateway's API documentation lists RSV and RSVCE, not exact RSV-C; API.Bible, YouVersion Platform, and DBL remain credential/licence-specific, and no exact RSV-C entitlement was confirmed."
     },
     {
       "translation": "Revised Version with Apocrypha 1885, 1895",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-21",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895"
@@ -1198,10 +1198,10 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_rv5/GEN/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact eng_rv5 endpoint and catalogue metadata verified: no key is required; it identifies Revised Version with Apocrypha (1895), including 14 Apocryphal books, and links to eBible.org provenance/licence metadata"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App identifies the BFBS digitised RV1895, including paragraph markers, introductions and appendices. eBible.org identifies the exact eng-rv edition as public domain and says it may be copied and used freely. The Free Use Bible API exposes the exact eng_rv5 edition without a key; its provider-wide claim does not supersede the documented edition provenance. Bible App is a consumer reader, not API entitlement."
     },
     {
       "translation": "Scottish Metrical Paraphrases 1781",

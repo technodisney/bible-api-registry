@@ -2028,27 +2028,20 @@
     "publisher_or_rights_holder": "British & Foreign Bible Society digital edition",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/477-rv1885-revised-version-1885"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Revised-Version-1885-RV1885/"
       }
     ],
     "caveats": [
       "Underlying 1885 text is public domain by age; digitisation/typographical rights may be separate."
     ],
     "sources": [
-      "https://www.bible.com/versions/477-rv1885-revised-version-1885",
-      "https://www.biblegateway.com/versions/Revised-Version-1885-RV1885/"
+      "https://www.bible.com/versions/477-rv1885-revised-version-1885"
     ]
   },
   {
@@ -3000,7 +2993,8 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Free Use Bible API"
+      "Free Use Bible API",
+      "eBible.org public-domain download/reader"
     ],
     "access_links": [
       {
@@ -3012,15 +3006,21 @@
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/api/eng_rv5/GEN/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/find/details.php?id=eng-rv"
       }
     ],
     "caveats": [
-      "Historical edition with Apocrypha; distinguish digitisation rights from underlying historical text.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "Historical edition with Apocrypha; eBible.org identifies its exact eng-rv edition as public domain.",
+      "The Free Use Bible API is no-key, but consumer availability is not API/reuse permission."
     ],
     "sources": [
       "https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895",
-      "https://bible.helloao.org/api/eng_rv5/books.json"
+      "https://bible.helloao.org/api/eng_rv5/books.json",
+      "https://ebible.org/find/details.php?id=eng-rv"
     ]
   },
   {
