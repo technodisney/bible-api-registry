@@ -829,27 +829,27 @@
     },
     {
       "translation": "The Passion Translation",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-22",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1849-tpt-the-passion-translation"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App, publisher FAQ/permissions, and relevant provider routes were rechecked. Bible App labels TPT In Review, identifies Passion & Fire Ministries as owner and BroadStreet as exclusive publisher/licensee, and says the currently available New Testament is the 2020 edition. The publisher permits up to 500 verses from the 2020 New Testament with Psalms, Proverbs, and Song of Songs without written permission only under its no-complete-book, 20%-of-work, and attribution conditions; larger use requires written approval. The cited Bible Gateway version page now reports the edition unavailable and is not retained as a reader or API route. API.Bible, YouVersion Platform, DBL, and Bible Gateway API require account/key/authorisation and no exact TPT API entitlement was confirmed."
     },
     {
       "translation": "The Scriptures 2009",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-22",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/316-ts2009-the-scriptures-2009"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App, ISR publisher site, and relevant provider routes were rechecked. Bible App identifies The Scriptures 2009 as copyright 1993–2015 Institute for Scripture Research, all rights reserved, and expressly not public domain; ISR confirms it publishes The Scriptures 1998 and 2009. The cited Bible Gateway version page now reports the edition unavailable and is not retained as a reader or API route. API.Bible, YouVersion Platform, DBL, and Bible Gateway API require account/key/authorisation and no exact TS2009 API entitlement was confirmed."
     },
     {
       "translation": "Text-Critical English New Testament",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-22",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/3427-tcent-the-text-critical-english-new-testament"
@@ -858,10 +858,10 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_tce/MAT/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact eng_tce metadata and chapter route verified; no key is required, and the metadata links to the exact eBible.org licence/provenance record"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App, eBible.org, exact Free Use Bible API eng_tce metadata, and relevant provider routes were rechecked. Robert Adam Boyd licenses TCENT under CC BY 4.0: preserve copyright/source information, attribute it, link the licence, and indicate changes; changed derivatives may not use the TCENT or Byzantine Text Version trademarks. The exact 27-book Free Use API edition is no-key. The cited Bible Gateway version page now reports the edition unavailable and is not retained as a reader or API route. API.Bible, YouVersion Platform, DBL, and Bible Gateway API require account/key/authorisation and no exact TCENT entitlement was confirmed."
     },
     {
       "translation": "World Messianic Bible",

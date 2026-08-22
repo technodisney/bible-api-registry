@@ -2052,8 +2052,7 @@
     "publisher_or_rights_holder": "Passion & Fire Ministries, Inc.; BroadStreet Publishing Group licensee",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
@@ -2064,22 +2063,16 @@
       {
         "kind": "web",
         "name": "The Passion Translation",
-        "url": "https://www.thepassiontranslation.com/FAQs"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/The-Passion-Translation-TPT/"
+        "url": "https://www.thepassiontranslation.com/permissions/"
       }
     ],
     "caveats": [
       "All rights reserved; Bible App currently labels the edition “In Review”.",
-      "Direct licence required for any reuse beyond authorised quotation."
+      "The publisher permits up to 500 verses from the 2020 New Testament with Psalms, Proverbs, and Song of Songs without written permission only under its no-complete-book, 20%-of-work, and attribution conditions; larger use requires written approval."
     ],
     "sources": [
       "https://www.bible.com/versions/1849-tpt-the-passion-translation",
-      "https://www.thepassiontranslation.com/FAQs",
-      "https://www.biblegateway.com/versions/The-Passion-Translation-TPT/"
+      "https://www.thepassiontranslation.com/permissions/"
     ]
   },
   {
@@ -2090,8 +2083,7 @@
     "publisher_or_rights_holder": "Institute for Scripture Research",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
@@ -2103,11 +2095,6 @@
         "kind": "web",
         "name": "Institute for Scripture Research",
         "url": "https://instituteforscriptureresearch.org/"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/The-Scriptures-2009-TS2009/"
       }
     ],
     "caveats": [
@@ -2116,8 +2103,7 @@
     ],
     "sources": [
       "https://www.bible.com/versions/316-ts2009-the-scriptures-2009",
-      "https://instituteforscriptureresearch.org/",
-      "https://www.biblegateway.com/versions/The-Scriptures-2009-TS2009/"
+      "https://instituteforscriptureresearch.org/"
     ]
   },
   {
@@ -2129,8 +2115,7 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Free Use Bible API",
-      "Bible Gateway web"
+      "Free Use Bible API"
     ],
     "access_links": [
       {
@@ -2152,11 +2137,6 @@
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/api/eng_tce/MAT/1.json"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Text-Critical-English-New-Testament-TCENT/"
       }
     ],
     "caveats": [
@@ -2167,8 +2147,7 @@
       "https://www.bible.com/versions/3427-tcent-the-text-critical-english-new-testament",
       "https://ebible.org/engtcent/",
       "https://creativecommons.org/licenses/by/4.0/",
-      "https://bible.helloao.org/api/eng_tce/books.json",
-      "https://www.biblegateway.com/versions/Text-Critical-English-New-Testament-TCENT/"
+      "https://bible.helloao.org/api/eng_tce/books.json"
     ]
   },
   {
