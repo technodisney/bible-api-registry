@@ -92,7 +92,7 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | Revised Version with Apocrypha 1885, 1895 (RV1895) | [Free Use Bible API](https://bible.helloao.org/api/eng_rv5/GEN/1.json) | [Bible App](https://www.bible.com/versions/1922-rv1895-revised-version-with-apocrypha-1885-1895)<br>[eBible.org public domain](https://ebible.org/find/details.php?id=eng-rv) |
 | Scottish Metrical Paraphrases 1781 (MP1781) | — | [Bible App](https://www.bible.com/versions/3051-mp1781-scottish-metrical-paraphrases-1781) |
 | St Paul from the Trenches 1916 (GWC) | — | [Bible App](https://www.bible.com/versions/1047-gwc-st-paul-from-the-trenches-1916) |
-| The Books of the Bible NT (BOOKS) | — | [Bible App](https://www.bible.com/versions/31-books-the-books-of-the-bible-nt) |
+| The Books of the Bible NT (BOOKS) | [API.Bible](https://api.bible/)<br>[YouVersion Platform](https://developers.youversion.com/) | [Bible App](https://www.bible.com/versions/31-books-the-books-of-the-bible-nt) |
 | The third line (in English) translating the meaning of each word in the Orthodox Yiddish Brit Chadashah (OYBCENGL) | — | [Bible App](https://www.bible.com/versions/3915-oybcengl-the-third-line-in-english-translating-the-meaning-of-each-word-in-the-orthodox-yiddish-brit-chadashah-new-testament) |
 | Translation into English of Orthodox Yiddish Torah (OYTORHEG) | — | [Bible App](https://www.bible.com/versions/4070-oytorheg-translation-into-english-of-orthodox-yiddish-torah-oytorah) |
 | World English Bible British Edition (WEBBE) | [Free Use Bible API](https://bible.helloao.org/api/eng_webpb/GEN/1.json) | [Bible App](https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition)<br>[eBible.org](https://ebible.org/engwebbe/) |

@@ -3060,6 +3060,7 @@
     "publisher_or_rights_holder": "Biblica, Inc.",
     "access": [
       "Bible App consumer reading",
+      "API.Bible / YouVersion Platform for qualifying non-commercial use, subject to app key and edition licence",
       "direct rights-holder licence where required"
     ],
     "access_links": [
@@ -3067,14 +3068,28 @@
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/31-books-the-books-of-the-bible-nt"
+      },
+      {
+        "kind": "api",
+        "name": "API.Bible",
+        "url": "https://api.bible/"
+      },
+      {
+        "kind": "api",
+        "name": "YouVersion Platform",
+        "url": "https://developers.youversion.com/"
       }
     ],
     "caveats": [
       "New Testament only; copyrighted Biblica edition.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "Biblica's express licence is only for truly non-commercial, non-AI uses through API.Bible or YouVersion Platform; use requires the platform's app key and accepted edition licence, and no exact public entitlement for this edition is guaranteed.",
+      "Consumer availability is not API/reuse permission."
     ],
     "sources": [
-      "https://www.bible.com/versions/31-books-the-books-of-the-bible-nt"
+      "https://www.bible.com/versions/31-books-the-books-of-the-bible-nt",
+      "https://www.biblica.com/permissions/",
+      "https://api.bible/",
+      "https://developers.youversion.com/"
     ]
   },
   {

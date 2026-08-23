@@ -1225,13 +1225,24 @@
     },
     {
       "translation": "The Books of the Bible NT",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-23",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/31-books-the-books-of-the-bible-nt"
       },
-      "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [
+        {
+          "name": "API.Bible",
+          "url": "https://api.bible/",
+          "status": "Biblica's official permissions page identifies API.Bible as an express-licensing route for truly non-commercial, non-AI use; app key and edition access remain platform/licence-specific, and no exact public BOOKS entitlement was confirmed"
+        },
+        {
+          "name": "YouVersion Platform",
+          "url": "https://developers.youversion.com/",
+          "status": "Biblica's official permissions page identifies YouVersion Platform as an express-licensing route for truly non-commercial, non-AI use; an App Key and accepted edition licence are required, and no exact public BOOKS entitlement was confirmed"
+        }
+      ],
+      "record_status": "Bible App confirms that The Books of the Bible NT is © 1973, 1978, 1984, 2011 Biblica, Inc., all rights reserved worldwide, for personal internet use only. Biblica's current permissions page identifies API.Bible and YouVersion Platform as express-licensing routes only for truly non-commercial, non-AI uses. Those routes remain app-key/licence-specific; consumer reading does not establish API/reuse entitlement."
     },
     {
       "translation": "The third line (in English) translating the meaning of each word in the Orthodox Yiddish Brit Chadashah",
