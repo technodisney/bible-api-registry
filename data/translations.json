@@ -3150,8 +3150,6 @@
     "publisher_or_rights_holder": "eBible.org",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Free Use Bible API",
       "eBible.org downloads"
     ],
     "access_links": [
@@ -3161,24 +3159,18 @@
         "url": "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition"
       },
       {
-        "kind": "api",
-        "name": "Free Use Bible API",
-        "url": "https://bible.helloao.org/api/eng_webpb/GEN/1.json"
-      },
-      {
         "kind": "web",
         "name": "eBible.org",
-        "url": "https://ebible.org/engwebbe/"
+        "url": "https://ebible.org/Scriptures/details.php?id=engwebpb"
       }
     ],
     "caveats": [
-      "Public-domain WEB British edition; distinguish edition naming from WEB.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "Public-domain WEB British Edition (ENGWEBPB); distinguish it from the American WEB and WEBBE (the British edition with Deuterocanon).",
+      "No standalone public API verified in this bounded audit; consumer availability is not API/reuse permission."
     ],
     "sources": [
       "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition",
-      "https://bible.helloao.org/api/eng_webpb/books.json",
-      "https://ebible.org/engwebbe/"
+      "https://ebible.org/Scriptures/details.php?id=engwebpb"
     ]
   },
   {

@@ -95,7 +95,7 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | The Books of the Bible NT (BOOKS) | [API.Bible](https://api.bible/)<br>[YouVersion Platform](https://developers.youversion.com/) | [Bible App](https://www.bible.com/versions/31-books-the-books-of-the-bible-nt) |
 | The third line (in English) translating the meaning of each word in the Orthodox Yiddish Brit Chadashah (OYBCENGL) | — | [Bible App](https://www.bible.com/versions/3915-oybcengl-the-third-line-in-english-translating-the-meaning-of-each-word-in-the-orthodox-yiddish-brit-chadashah-new-testament) |
 | Translation into English of Orthodox Yiddish Torah (OYTORHEG) | — | [Bible App](https://www.bible.com/versions/4070-oytorheg-translation-into-english-of-orthodox-yiddish-torah-oytorah) |
-| World English Bible British Edition (WEBBE) | [Free Use Bible API](https://bible.helloao.org/api/eng_webpb/GEN/1.json) | [Bible App](https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition)<br>[eBible.org](https://ebible.org/engwebbe/) |
+| World English Bible British Edition (WEBBE) | — | [Bible App](https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition)<br>[eBible.org](https://ebible.org/Scriptures/details.php?id=engwebpb) |
 | World Messianic Bible British Edition (WMBBE) | [Free Use Bible API](https://bible.helloao.org/api/eng_wmu/GEN/1.json) | [Bible App](https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition) |
 
 ## How access works

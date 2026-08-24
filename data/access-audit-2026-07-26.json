@@ -1266,19 +1266,13 @@
     },
     {
       "translation": "World English Bible British Edition",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-24",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition"
       },
-      "api_routes_checked": [
-        {
-          "name": "Free Use Bible API",
-          "url": "https://bible.helloao.org/api/eng_webpb/GEN/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
-        }
-      ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [],
+      "record_status": "Bible App identifies this as a public-domain translation supplied by eBible.org. eBible.org identifies the exact 66-book British edition as ENGWEBPB/engwebpb and public domain. The former eBible reader URL and Free Use Bible API endpoint were not current for this edition; its exact Free Use endpoint returned 404, so it is not retained as an API route. API.Bible, Bible Gateway API, YouVersion Platform, and DBL are credential/licence-specific provider routes; no exact public entitlement for WEBPB was confirmed."
     },
     {
       "translation": "World Messianic Bible British Edition",
