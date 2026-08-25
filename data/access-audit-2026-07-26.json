@@ -865,7 +865,7 @@
     },
     {
       "translation": "World Messianic Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-25",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1209-wmb-world-messianic-bible"
@@ -874,14 +874,14 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_wmb/GEN/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact eng_wmb metadata and chapter route verified without a key; its metadata links to the exact eBible.org licence/provenance record"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App, eBible.org, and the exact Free Use Bible API eng_wmb route were rechecked. Bible App identifies WMB as an eBible.org public-domain translation; eBible.org links its public-domain notice and the API metadata identifies the exact 66-book edition. The cited Bible Gateway version page now reports the version unavailable and is removed as a reader/API route. API.Bible, YouVersion Platform, DBL, and Bible Gateway API access remain account/key/licence-specific; no exact additional WMB entitlement was confirmed."
     },
     {
       "translation": "Wycliffe's Bible with Modern Spelling",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-25",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling"
@@ -890,20 +890,20 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_wyc2017/GEN/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact eng_wyc2017 metadata and chapter route verified without a key; its metadata links to the rights-holder's eBible.org licence record"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App, eBible.org's exact edition record and reader, and the exact Free Use Bible API eng_wyc2017 route were rechecked. Terence P. (Terry) Noble's eBible.org record identifies the translation and its CC BY-NC-ND 4.0 terms: sharing with copyright/source information is allowed, but commercial use and changes are not. The no-key API metadata identifies the exact 66-book edition plus 14 apocryphal books; its provider-level availability does not override those licence terms. API.Bible, YouVersion Platform, DBL, and Bible Gateway API are credential/licence-dependent; no exact additional WBMS entitlement was confirmed."
     },
     {
       "translation": "Y'all Version Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-25",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4108-yall-yall-version-bible"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App and the Y'all Version Bible Society reader were rechecked. The publisher states that YALL is available for use in the Digital Bible Library, but it publishes no public standalone API or reuse licence on the checked pages. DBL confirms that access is account/licence-dependent and controlled content requires contributor approval; API.Bible, YouVersion Platform, and Bible Gateway API likewise require account/key/authorisation. No exact public YALL API entitlement was confirmed."
     },
     {
       "translation": "New Living Translation Catholic Edition",

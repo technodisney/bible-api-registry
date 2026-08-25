@@ -2159,8 +2159,7 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Free Use Bible API",
-      "Bible Gateway web"
+      "Free Use Bible API"
     ],
     "access_links": [
       {
@@ -2177,11 +2176,6 @@
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/api/eng_wmb/GEN/1.json"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/World-Messianic-Bible-WMB/"
       }
     ],
     "caveats": [
@@ -2190,8 +2184,7 @@
     "sources": [
       "https://www.bible.com/versions/1209-wmb-world-messianic-bible",
       "https://ebible.org/engwmb/",
-      "https://bible.helloao.org/api/eng_wmb/books.json",
-      "https://www.biblegateway.com/versions/World-Messianic-Bible-WMB/"
+      "https://bible.helloao.org/api/eng_wmb/books.json"
     ]
   },
   {
@@ -2216,7 +2209,7 @@
       {
         "kind": "web",
         "name": "eBible.org",
-        "url": "https://ebible.org/"
+        "url": "https://ebible.org/engwyc2017/"
       },
       {
         "kind": "api",
@@ -2230,11 +2223,11 @@
       }
     ],
     "caveats": [
-      "CC BY-NC-ND according to eBible.org distribution metadata; no commercial derivatives."
+      "CC BY-NC-ND 4.0 according to the rights-holder's eBible.org record; no commercial use or derivatives."
     ],
     "sources": [
       "https://www.bible.com/versions/2407-wbms-wycliffes-bible-with-modern-spelling",
-      "https://ebible.org/",
+      "https://ebible.org/engwyc2017/",
       "https://bible.helloao.org/api/eng_wyc2017/books.json",
       "https://ebible.org/details.php?id=engwyc2017"
     ]
@@ -2247,7 +2240,8 @@
     "publisher_or_rights_holder": "Y'all Version Bible Society",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required"
+      "direct rights-holder licence where required",
+      "Digital Bible Library — publisher states availability; account/licence-dependent"
     ],
     "access_links": [
       {
@@ -2262,11 +2256,13 @@
       }
     ],
     "caveats": [
-      "Licence/reuse terms require direct rights-holder confirmation."
+      "Licence/reuse terms require direct rights-holder confirmation.",
+      "The publisher states that YALL is available in the Digital Bible Library; DBL access remains account- and licence-dependent, with rights-holder approval required for controlled content."
     ],
     "sources": [
       "https://www.bible.com/versions/4108-yall-yall-version-bible",
-      "https://yallversion.com/"
+      "https://yallversion.com/",
+      "https://library.bible/"
     ]
   },
   {
