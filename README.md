@@ -6,7 +6,7 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 
 | Translation | API | Read online |
 |---|---|---|
-| New International Version (NIV, NIVUK) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/111-niv-new-international-version) |
+| New International Version (NIV, NIVUK) | [API.Bible](https://api.bible/sign-up/starter)<br>[YouVersion Platform](https://developers.youversion.com/) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/111-niv-new-international-version) |
 | New International Reader's Version (NIrV) | [API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/110-nirv-new-international-readers-version) |
 | New Living Translation (NLT) | [NLT API](https://api.nlt.to/)<br>[API.Bible](https://api.bible/sign-up/starter) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/116-nlt-new-living-translation) |
 | English Standard Version (ESV, ESVUK) | [ESV API](https://api.esv.org/) | [Bible Gateway](https://www.biblegateway.com/)<br>[Bible App](https://www.bible.com/versions/59-esv-english-standard-version-2025) |
@@ -96,7 +96,7 @@ Find where to get an English Bible. The JSON files contain the publisher, licens
 | The third line (in English) translating the meaning of each word in the Orthodox Yiddish Brit Chadashah (OYBCENGL) | — | [Bible App](https://www.bible.com/versions/3915-oybcengl-the-third-line-in-english-translating-the-meaning-of-each-word-in-the-orthodox-yiddish-brit-chadashah-new-testament) |
 | Translation into English of Orthodox Yiddish Torah (OYTORHEG) | — | [Bible App](https://www.bible.com/versions/4070-oytorheg-translation-into-english-of-orthodox-yiddish-torah-oytorah) |
 | World English Bible British Edition (WEBBE) | — | [Bible App](https://www.bible.com/versions/1204-webbe-world-english-bible-british-edition)<br>[eBible.org](https://ebible.org/Scriptures/details.php?id=engwebpb) |
-| World Messianic Bible British Edition (WMBBE) | [Free Use Bible API](https://bible.helloao.org/api/eng_wmu/GEN/1.json) | [Bible App](https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition) |
+| World Messianic Bible British Edition (WMBBE) | [Free Use Bible API](https://bible.helloao.org/api/eng_wmu/GEN/1.json) | [Bible App](https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition)<br>[eBible.org](https://ebible.org/Scriptures/details.php?id=engwmbb) |
 
 ## How access works
 

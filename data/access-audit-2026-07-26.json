@@ -4,7 +4,7 @@
   "records": [
     {
       "translation": "New International Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-26",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/111-niv-new-international-version"
@@ -14,13 +14,18 @@
           "name": "API.Bible",
           "url": "https://api.bible/sign-up/starter",
           "status": "route verified; edition entitlement remains licence/key-specific"
+        },
+        {
+          "name": "YouVersion Platform",
+          "url": "https://developers.youversion.com/",
+          "status": "official documentation expressly includes NIV; app registration and an App Key are required, with actual version access governed by the applicable licence agreement"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Biblica, Bible App, API.Bible, Bible Gateway API, and YouVersion Platform were rechecked. Biblica permits qualifying non-commercial, non-AI app or website access through API.Bible or YouVersion Platform; YouVersion expressly includes NIV but requires a registered app/App Key and licence-governed version access."
     },
     {
       "translation": "New International Reader's Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-26",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/110-nirv-new-international-readers-version"
@@ -32,7 +37,7 @@
           "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Biblica, HarperCollins, Bible App, API.Bible, Bible Gateway API, YouVersion Platform, and DBL routes were rechecked. Biblica’s qualifying non-commercial, non-AI app/website route is through API.Bible or YouVersion Platform, but no exact public NIrV entitlement was confirmed; API and DBL access remains app/key/licence-specific."
     },
     {
       "translation": "New Living Translation",
@@ -1276,7 +1281,7 @@
     },
     {
       "translation": "World Messianic Bible British Edition",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-08-26",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition"
@@ -1285,10 +1290,10 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_wmu/GEN/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact eng_wmu (ENGWMU/engwmbb) catalogue and chapter endpoint verified; no key required"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "eBible.org confirms the exact WMBBE/ENGWMU edition is public domain and permits broad reuse, but the World Messianic Bible name is trademarked and changed text must not use it. The exact Free Use Bible API eng_wmu endpoint works without a key. Bible App is a consumer reader; API.Bible, Bible Gateway API, YouVersion Platform, and DBL have no exact public entitlement confirmed."
     }
   ]
 }

@@ -9,6 +9,7 @@
     "access": [
       "Bible Gateway web",
       "API.Bible where authorised",
+      "YouVersion Platform where licensed",
       "direct Biblica/HarperCollins licence"
     ],
     "caveats": [
@@ -30,6 +31,11 @@
         "kind": "api",
         "name": "API.Bible",
         "url": "https://api.bible/sign-up/starter"
+      },
+      {
+        "kind": "api",
+        "name": "YouVersion Platform",
+        "url": "https://developers.youversion.com/"
       },
       {
         "kind": "web",
@@ -3177,7 +3183,7 @@
     "publisher_or_rights_holder": "eBible.org",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
+      "public-domain reuse subject to trademark condition",
       "Free Use Bible API"
     ],
     "access_links": [
@@ -3190,15 +3196,21 @@
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/api/eng_wmu/GEN/1.json"
+      },
+      {
+        "kind": "web",
+        "name": "eBible.org",
+        "url": "https://ebible.org/Scriptures/details.php?id=engwmbb"
       }
     ],
     "caveats": [
-      "Public-domain WMB British edition; name is trademarked for unchanged text.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "Public-domain WMBBE (ENGWMU/engwmbb); the World Messianic Bible name is trademarked, so altered text must not use that name.",
+      "Free Use Bible API exposes the exact edition without a key; retain eBible.org provenance and trademark condition."
     ],
     "sources": [
       "https://www.bible.com/versions/1207-wmbbe-world-messianic-bible-british-edition",
-      "https://bible.helloao.org/api/eng_wmu/books.json"
+      "https://bible.helloao.org/api/eng_wmu/books.json",
+      "https://ebible.org/Scriptures/details.php?id=engwmbb"
     ]
   }
 ]
