@@ -2351,19 +2351,13 @@
     "publisher_or_rights_holder": "Word Biblical Ministries",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Open.Bible downloads"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
         "kind": "web",
         "name": "Bible App",
         "url": "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition"
-      },
-      {
-        "kind": "web",
-        "name": "Open.Bible",
-        "url": "https://www.open.bible/bibles/69a307e695245b14e244c7a8"
       }
     ],
     "caveats": [
@@ -2372,8 +2366,7 @@
       "CC BY-SA confirmed by the bounded API-access audit."
     ],
     "sources": [
-      "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition",
-      "https://www.open.bible/bibles/69a307e695245b14e244c7a8"
+      "https://www.bible.com/versions/4669-afintlit-african-international-new-testament-literal-translation-british-english-edition"
     ]
   },
   {
