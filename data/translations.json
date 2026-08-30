@@ -2444,7 +2444,8 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "Bible Gateway web",
+      "Bible Gateway API where authorised"
     ],
     "access_links": [
       {
@@ -2456,15 +2457,22 @@
         "kind": "web",
         "name": "Bible Gateway",
         "url": "https://www.biblegateway.com/versions/Christian-Standard-Bible-Anglicised-CSBA-Bible/"
+      },
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
       }
     ],
     "caveats": [
       "Anglicised CSB edition; Bible App identifies it as © 2024 Holman Bible Publishers.",
-      "No standalone API verified in this bounded audit; consumer availability is not API/reuse permission."
+      "Bible Gateway API documentation lists CSBA, but an access token is required and exposes only translations authorised for that token.",
+      "No standalone public API was confirmed; consumer availability is not API/reuse permission."
     ],
     "sources": [
       "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised",
-      "https://www.biblegateway.com/versions/Christian-Standard-Bible-Anglicised-CSBA-Bible/"
+      "https://www.biblegateway.com/versions/Christian-Standard-Bible-Anglicised-CSBA-Bible/",
+      "https://www.biblegateway.com/api/documentation"
     ]
   },
   {

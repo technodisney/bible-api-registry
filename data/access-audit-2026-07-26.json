@@ -992,13 +992,19 @@
     },
     {
       "translation": "Christian Standard Bible Anglicised",
-      "checked_at": "2026-07-31",
+      "checked_at": "2026-08-30",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4124-csba-christian-standard-bible-anglicised"
       },
-      "api_routes_checked": [],
-      "record_status": "verified consumer access routes; Bible App identifies © 2024 Holman Bible Publishers. No standalone API entitlement was confirmed without a provider key/licence."
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "official documentation lists CSBA; requests require an access token and the API returns only translations for which that token is authorised"
+        }
+      ],
+      "record_status": "Bible App and Bible Gateway consumer reading were rechecked. Bible App identifies © 2024 Holman Bible Publishers. Bible Gateway API documentation lists CSBA, but access is token/authorisation-dependent; no standalone public API entitlement was confirmed."
     },
     {
       "translation": "Contemporary English Version (Anglicised) 2012",
