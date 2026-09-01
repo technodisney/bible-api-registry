@@ -496,25 +496,29 @@
     "abbreviations": [
       "DARBY"
     ],
-    "publisher_or_rights_holder": "John Nelson Darby original text",
+    "publisher_or_rights_holder": "John Nelson Darby original text; digital edition maintained by British & Foreign Bible Society",
     "access": [
       "Free Use Bible API",
       "DailyBible API",
-      "Bible Gateway web",
+      "Bible Gateway API where authorised",
       "self-host"
     ],
     "caveats": [
-      "Historical text; modern notes/typesetting may be copyrighted"
+      "Historical text; the Bible App identifies British & Foreign Bible Society as maintainer of its digitised text, including critical-text notes (last updated 2020).",
+      "Bible Gateway API access requires an access token and is limited to translations authorised for that token."
     ],
     "sources": [
       "https://dailybible.ca/api-docs",
+      "https://bible.helloao.org/api/eng_dby/GEN/1.json",
+      "https://ebible.org/Scriptures/details.php?id=engDBY",
+      "https://www.biblegateway.com/api/documentation",
       "https://www.bible.com/versions/478-darby-darbys-translation-1890"
     ],
     "access_links": [
       {
         "kind": "api",
         "name": "Free Use Bible API",
-        "url": "https://bible.helloao.org/"
+        "url": "https://bible.helloao.org/api/eng_dby/GEN/1.json"
       },
       {
         "kind": "api",
@@ -522,9 +526,9 @@
         "url": "https://dailybible.ca/api-docs"
       },
       {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/"
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
       },
       {
         "kind": "web",

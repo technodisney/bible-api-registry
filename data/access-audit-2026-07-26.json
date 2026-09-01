@@ -231,7 +231,7 @@
     },
     {
       "translation": "Darby Translation",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-09-01",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/478-darby-darbys-translation-1890"
@@ -240,15 +240,20 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "provider route and exact eng_dby catalogue item verified; no key is required and the catalogue metadata links to eBible.org provenance information"
         },
         {
           "name": "DailyBible API",
           "url": "https://dailybible.ca/api-docs",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official documentation lists Darby Translation (darby) as public domain; no authentication is required"
+        },
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "official documentation lists Darby Translation (DARBY); requests require an access token and the API returns only translations for which that token is authorised"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App identifies the original translation and British & Foreign Bible Society as maintainer of the digitised edition, including critical-text notes (last updated 2020). Free Use Bible API exposes exact eng_dby without a key, and DailyBible documents a no-auth public-domain Darby route. Bible Gateway's prior version-information URL now reports the edition unavailable; its API documentation lists DARBY but access remains token/authorisation-dependent."
     },
     {
       "translation": "Douay-Rheims",
@@ -1008,23 +1013,23 @@
     },
     {
       "translation": "Contemporary English Version (Anglicised) 2012",
-      "checked_at": "2026-08-01",
+      "checked_at": "2026-09-01",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/294-cevuk-contemporary-english-version-anglicised-2012"
       },
       "api_routes_checked": [],
-      "record_status": "Bible App consumer reading and attribution verified: British and Foreign Bible Society anglicised the ABS CEV for the UK/Commonwealth; the edition is © BFBS 1997, 2012. No standalone API entitlement was confirmed without a provider key/licence."
+      "record_status": "Bible App consumer reading and attribution verified: British and Foreign Bible Society anglicised the ABS CEV for the UK/Commonwealth; the edition is © BFBS 1997, 2012. API.Bible, YouVersion Platform, Bible Gateway API, and DBL routes were rechecked, but no exact CEVUK API entitlement was publicly confirmed; available provider access is app/key/licence-specific."
     },
     {
       "translation": "Contemporary English Version Interconfessional Edition",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-09-01",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/303-cevdci-contemporary-english-version-interconfessional-edition"
       },
       "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App consumer reading identifies American Bible Society as publisher and describes the 1995 CEV source text. API.Bible, YouVersion Platform, Bible Gateway API, and DBL routes were rechecked, but no exact CEVDCI API entitlement was publicly confirmed; available provider access is app/key/licence-specific."
     },
     {
       "translation": "English word-for-word translation of Orthodox Yiddish Tanakh",
