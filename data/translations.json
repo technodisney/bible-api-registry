@@ -545,23 +545,26 @@
     ],
     "publisher_or_rights_holder": "English College at Douay / Challoner revision",
     "access": [
-      "Free Use Bible API",
-      "DailyBible API",
+      "Free Use Bible API (Douay-Rheims 1899 American only)",
+      "DailyBible API (Douay-Rheims American only)",
       "Bible Gateway web",
       "self-host"
     ],
     "caveats": [
-      "Original text is historical/public domain; modern editions may be copyrighted"
+      "Original text is historical/public domain; modern editions may be copyrighted.",
+      "The public API routes checked expose the 1899 American Douay-Rheims edition (DRA), not the Bible App's DRC1752 edition; select and label the exact edition."
     ],
     "sources": [
       "https://dailybible.ca/api-docs",
+      "https://bible.helloao.org/api/eng_dra/GEN/1.json",
+      "https://ebible.org/Scriptures/details.php?id=engDRA",
       "https://www.bible.com/versions/55-drc1752-douay-rheims-challoner-revision-1752"
     ],
     "access_links": [
       {
         "kind": "api",
-        "name": "Free Use Bible API",
-        "url": "https://bible.helloao.org/"
+        "name": "Free Use Bible API (DRA 1899)",
+        "url": "https://bible.helloao.org/api/eng_dra/GEN/1.json"
       },
       {
         "kind": "api",
@@ -847,19 +850,26 @@
     "publisher_or_rights_holder": "Bible League International",
     "access": [
       "Bible Gateway web",
+      "Bible Gateway API where authorised",
       "eBible.org consumer reading"
     ],
     "caveats": [
       "Copyrighted; Bible League permits up to 1,000 verses subject to no-complete-book, under-50%-of-work, attribution, non-modification, and non-commercial conditions.",
       "Hosting the text on a server or any commercial use requires written permission from Bible League International.",
-      "API.Bible access was not confirmed in the public catalogue audit on 2026-08-03; do not assume it is available."
+      "Bible Gateway API documentation lists ERV, but an access token returns only translations authorised for that token; no credential-free or API.Bible entitlement was confirmed."
     ],
     "sources": [
       "https://www.bibleleague.org/license-agreement/",
       "https://ebible.org/find/show.php?id=engerv",
-      "https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version"
+      "https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version",
+      "https://www.biblegateway.com/api/documentation"
     ],
     "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
       {
         "kind": "web",
         "name": "Bible Gateway",
@@ -1648,9 +1658,15 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "Bible Gateway web",
+      "Bible Gateway API where authorised"
     ],
     "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
       {
         "kind": "web",
         "name": "Bible App",
@@ -1669,13 +1685,15 @@
     ],
     "caveats": [
       "Copyrighted MissionAssist edition; without written permission, quotations are limited to 100 verses and must not comprise a complete book or more than 25% of the work.",
-      "Any other use, including publication on an electronic platform, requires MissionAssist’s prior written permission."
+      "Any other use, including publication on an electronic platform, requires MissionAssist’s prior written permission.",
+      "Bible Gateway API documentation lists EASY, but an access token returns only translations authorised for that token; no credential-free or API.Bible entitlement was confirmed."
     ],
     "sources": [
       "https://www.easyenglish.bible/copyright/",
       "https://www.bible.com/versions/2079-easy-easyenglish-bible-2024",
       "https://www.easyenglish.bible/",
-      "https://www.biblegateway.com/versions/EasyEnglish-Bible-EASY/"
+      "https://www.biblegateway.com/versions/EasyEnglish-Bible-EASY/",
+      "https://www.biblegateway.com/api/documentation"
     ]
   },
   {

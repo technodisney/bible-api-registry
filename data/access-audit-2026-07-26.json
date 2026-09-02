@@ -257,7 +257,7 @@
     },
     {
       "translation": "Douay-Rheims",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-09-02",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/55-drc1752-douay-rheims-challoner-revision-1752"
@@ -265,16 +265,16 @@
       "api_routes_checked": [
         {
           "name": "Free Use Bible API",
-          "url": "https://bible.helloao.org/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "url": "https://bible.helloao.org/api/eng_dra/GEN/1.json",
+          "status": "exact eng_dra endpoint verified without a key; it identifies the public-domain Douay-Rheims 1899 American edition, not DRC1752"
         },
         {
           "name": "DailyBible API",
           "url": "https://dailybible.ca/api-docs",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official documentation lists Douay-Rheims American (dra) as public domain; no authentication is required; it is not the DRC1752 edition"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Bible App identifies the catalogued DRC1752 text as the out-of-copyright Challoner revision digitised and maintained by the British and Foreign Bible Society. Its current public API routes are edition-specific: Free Use Bible API and DailyBible expose the separate public-domain 1899 American Douay-Rheims/DRA edition. Bible Gateway API documentation lists DRA, but requests require an access token and return only authorised translations; no exact DRC1752 API entitlement was confirmed."
     },
     {
       "translation": "Geneva Bible",
@@ -377,13 +377,19 @@
     },
     {
       "translation": "Easy-to-Read Version",
-      "checked_at": "2026-08-03",
+      "checked_at": "2026-09-02",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/406-erv-holy-bible-easy-to-read-version"
       },
-      "api_routes_checked": [],
-      "record_status": "Bible App, Bible Gateway, and eBible.org consumer reading verified. Bible League’s published licence permits non-commercial distribution without modification but forbids server hosting without written permission; no public standalone API or API.Bible entitlement was confirmed."
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "official documentation lists Easy-to-Read Version (ERV); requests require an access token and return only translations authorised for that token"
+        }
+      ],
+      "record_status": "Bible League's licence, eBible.org record, Bible App, and Bible Gateway were rechecked. Bible League identifies ERV as copyrighted, allows non-commercial distribution only without modification, and forbids server hosting without written permission. Bible Gateway API documentation lists ERV but requires a token and authorisation; no credential-free standalone API or API.Bible entitlement was confirmed."
     },
     {
       "translation": "The Message",
@@ -705,13 +711,19 @@
     },
     {
       "translation": "EasyEnglish Bible 2024",
-      "checked_at": "2026-08-03",
+      "checked_at": "2026-09-02",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2079-easy-easyenglish-bible-2024"
       },
-      "api_routes_checked": [],
-      "record_status": "Bible App, EasyEnglish, and Bible Gateway consumer reading verified. MissionAssist’s June 2026 copyright policy permits up to 100 verses with stated conditions; any other use, including electronic-platform publication, requires prior written permission. No public standalone API or API.Bible entitlement was confirmed."
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "official documentation lists EasyEnglish Bible (EASY); requests require an access token and return only translations authorised for that token"
+        }
+      ],
+      "record_status": "MissionAssist's copyright page, EasyEnglish reader, Bible App, and Bible Gateway were rechecked. MissionAssist's June 2026 policy permits up to 100 verses only under stated conditions and requires advance written permission for other use, including electronic-platform publication. Bible Gateway API documentation lists EASY but requires a token and authorisation; no credential-free standalone API or API.Bible entitlement was confirmed."
     },
     {
       "translation": "Evangelical Heritage Version",
