@@ -727,13 +727,19 @@
     },
     {
       "translation": "Evangelical Heritage Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-09-03",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4224-ehv-evangelical-heritage-version-2021"
       },
-      "api_routes_checked": [],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "api_routes_checked": [
+        {
+          "name": "Bible Gateway API",
+          "url": "https://www.biblegateway.com/api/documentation",
+          "status": "official documentation lists Evangelical Heritage Version (EHV); requests require an access token and return only translations authorised for that token"
+        }
+      ],
+      "record_status": "Wartburg Project, Bible App, Bible Gateway reader, Bible Gateway API documentation, API.Bible catalogue, and YouVersion Platform were rechecked. Wartburg Project permits quotations up to 1,000 verses without written permission only with its no-complete-book, under-50%-of-work, and acknowledgement conditions. Bible Gateway API documentation lists EHV but requires a token and authorisation; API.Bible's current public catalogue returns no EHV result, and no exact YouVersion Platform entitlement was confirmed."
     },
     {
       "translation": "First Nations Version",

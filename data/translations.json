@@ -1705,9 +1705,15 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "Bible Gateway web",
+      "Bible Gateway API where authorised"
     ],
     "access_links": [
+      {
+        "kind": "api",
+        "name": "Bible Gateway API",
+        "url": "https://www.biblegateway.com/api/documentation"
+      },
       {
         "kind": "web",
         "name": "Bible App",
@@ -1725,13 +1731,15 @@
       }
     ],
     "caveats": [
-      "Copyrighted and trademarked; published quotation allowance is limited.",
-      "No API route confirmed within the direct-source research budget."
+      "Copyrighted and trademarked; up to 1,000 verses may be quoted without written permission only if no complete Bible book and less than 50% of the quoting work are used, with the required acknowledgement.",
+      "Bible Gateway API documentation lists EHV, but requests require an access token and return only translations authorised for that token; no credential-free standalone API or API.Bible entitlement was confirmed."
     ],
     "sources": [
       "https://www.bible.com/versions/4224-ehv-evangelical-heritage-version-2021",
       "https://wartburgproject.org/",
-      "https://www.biblegateway.com/versions/Evangelical-Heritage-Version-EHV-Bible/"
+      "https://wartburgproject.org/permissions",
+      "https://www.biblegateway.com/versions/Evangelical-Heritage-Version-EHV-Bible/",
+      "https://www.biblegateway.com/api/documentation"
     ]
   },
   {
