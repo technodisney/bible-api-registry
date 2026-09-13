@@ -743,13 +743,13 @@
     },
     {
       "translation": "First Nations Version",
-      "checked_at": "2026-08-05",
+      "checked_at": "2026-09-13",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/3633-fnvnt-first-nations-version"
       },
       "api_routes_checked": [],
-      "record_status": "Bible App consumer reading and Rain Ministries' current publisher information verified. The catalogued FNVNT edition is New Testament; Rain Ministries reports a separate 2025 Psalms and Proverbs release and continuing Old Testament work. Bible App publishes a 500-verse allowance subject to 25%-of-book and 25%-of-work limits and required notice; no public standalone API entitlement was confirmed."
+      "record_status": "Bible App, InterVarsity Press, Rain Ministries, Bible Gateway, Bible Gateway API, API.Bible, and YouVersion Platform were rechecked. The catalogued FNVNT edition is New Testament; Rain Ministries reports a separate 2025 Psalms and Proverbs release and continuing Old Testament work. Bible App publishes a 500-verse allowance subject to 25%-of-book and 25%-of-work limits and required notice. The prior Bible Gateway version URL now reports the edition unavailable and was removed as an access route. No public standalone API entitlement was confirmed; YouVersion Platform requires an App Key and accepted edition licence agreements."
     },
     {
       "translation": "Holman Christian Standard Bible",

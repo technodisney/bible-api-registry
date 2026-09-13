@@ -1750,8 +1750,7 @@
     "publisher_or_rights_holder": "Rain Ministries, Inc.; InterVarsity Press publisher",
     "access": [
       "Bible App consumer reading",
-      "direct rights-holder licence where required",
-      "Bible Gateway web"
+      "direct rights-holder licence where required"
     ],
     "access_links": [
       {
@@ -1768,22 +1767,17 @@
         "kind": "web",
         "name": "Rain Ministries",
         "url": "https://firstnationsversion.com/"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/First-Nations-Version-FNVNT/"
       }
     ],
     "caveats": [
       "The catalogued FNVNT consumer edition is New Testament only; Rain Ministries reports separate Psalms and Proverbs release in 2025 and continuing Old Testament work.",
-      "Copyrighted: up to 500 verses may be quoted only below both 25%-of-a-book and 25%-of-the-work limits with the required notice; permission is required above those limits. Full-text, commercial, and AI/RAG use require direct publisher permission."
+      "Copyrighted: up to 500 verses may be quoted only below both 25%-of-a-book and 25%-of-the-work limits with the required notice; permission is required above those limits. Full-text, commercial, and AI/RAG use require direct publisher permission.",
+      "The previously listed Bible Gateway version URL now reports the edition unavailable; it is not an access route. No public standalone API entitlement was confirmed."
     ],
     "sources": [
       "https://www.bible.com/versions/3633-fnvnt-first-nations-version",
       "https://www.ivpress.com/first-nations-version",
-      "https://firstnationsversion.com/about/",
-      "https://www.biblegateway.com/versions/First-Nations-Version-FNVNT/"
+      "https://firstnationsversion.com/about/"
     ]
   },
   {
