@@ -4,7 +4,7 @@
     "operator": "American Bible Society",
     "signup": "Account, app approval, and API key",
     "free_tier": "Starter: $0; open-access Bibles plus up to 3 selected copyrighted Bibles; non-commercial",
-    "premium_cost": "Pro: US$29/month; commercial use also has licensing fees based on monthly active users and selected translations",
+    "premium_cost": "Pro: US$29+/month; commercial use also has licensing fees based on monthly active users and selected translations",
     "premium_required_when": "Any monetised use or licensed copyrighted edition required for commercial use",
     "caveats": [
       "500 consecutive verses/request",
