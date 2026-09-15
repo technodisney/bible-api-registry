@@ -345,7 +345,7 @@
     },
     {
       "translation": "Good News Translation",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-09-15",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/68-gnt-good-news-translation"
@@ -357,7 +357,7 @@
           "status": "route verified; edition entitlement remains licence/key-specific"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "American Bible Society, Bible App, API.Bible, Bible Gateway API, YouVersion Platform, DBL, Free Use Bible API, and DailyBible were rechecked. ABS confirms GNT is copyrighted and allows up to 500 verses without written permission only with acknowledgement and its no-50%-of-a-book/no-25%-of-new-work conditions; it requires written permission for a complete Bible book, commentary/reference work, and mobile Bible-study apps. API.Bible features GNT but access is app/key/licence-specific; Bible Gateway API lists GNT but requires an access token and returns only authorised translations. YouVersion and DBL likewise require app/account credentials and accepted licences. No credential-free standalone GNT endpoint was confirmed."
     },
     {
       "translation": "Contemporary English Version",

@@ -781,11 +781,13 @@
       "direct ABS licensing"
     ],
     "caveats": [
-      "Copyrighted; standard quotation rules apply"
+      "Copyrighted; American Bible Society permits up to 500 verses without written permission only with the required acknowledgement and provided they are not 50% of a Bible book or 25% of the new work/product.",
+      "Written permission is required for a complete Bible book, a commentary/reference work, and mobile Bible-study applications; API.Bible access is app/key/licence-specific."
     ],
     "sources": [
       "https://api.bible/",
-      "https://www.bible.com/versions/68-gnt-good-news-translation"
+      "https://www.bible.com/versions/68-gnt-good-news-translation",
+      "https://www.americanbible.org/rights-and-permissions/"
     ],
     "access_links": [
       {
