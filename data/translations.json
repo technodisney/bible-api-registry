@@ -1789,10 +1789,16 @@
     ],
     "publisher_or_rights_holder": "Holman Bible Publishers / LifeWay Christian Resources",
     "access": [
+      "Bible Gateway web",
       "Bible App consumer reading",
       "direct rights-holder licence where required"
     ],
     "access_links": [
+      {
+        "kind": "web",
+        "name": "Bible Gateway",
+        "url": "https://www.biblegateway.com/versions/Holman-Christian-Standard-Bible-HCSB/"
+      },
       {
         "kind": "web",
         "name": "Bible App",
@@ -1801,11 +1807,11 @@
     ],
     "caveats": [
       "Superseded by CSB in 2017; treat as legacy edition.",
-      "Copyrighted; no standalone API confirmed.",
-      "The previously listed Bible Gateway version URL now reports the edition unavailable; it is not an access route."
+      "Copyrighted; no standalone API confirmed."
     ],
     "sources": [
       "https://www.bible.com/versions/72-hcsb-holman-christian-standard-bible",
+      "https://www.biblegateway.com/versions/Holman-Christian-Standard-Bible-HCSB/",
       "https://csbible.com/permissions/"
     ]
   },
