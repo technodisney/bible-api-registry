@@ -83,7 +83,7 @@
     },
     {
       "translation": "New English Translation",
-      "checked_at": "2026-08-10",
+      "checked_at": "2026-09-18",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/107-net-new-english-translation"
@@ -92,10 +92,10 @@
         {
           "name": "NET API",
           "url": "https://labs.bible.org/api_web_service",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official public passage endpoint verified; no key is documented, and the API documentation requires compliance with the NET Bible copyright terms"
         }
       ],
-      "record_status": "Official NET API, copyright page, Bible App reader, and Bible Gateway reader were rechecked. The former Free Use Bible API root now returns 404, and its current exact catalogue did not list NET; it is not retained as an API access route. NET API use remains governed by Biblical Studies Press copyright terms."
+      "record_status": "Official NET API and copyright terms were rechecked. The public passage API requires no key; the published terms permit qualifying non-commercial apps with NET attribution/link requirements, while commercial publication directs users to HarperCollins licensing. Consumer reader pages remain consumer access, not API entitlement."
     },
     {
       "translation": "New American Standard Bible",

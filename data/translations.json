@@ -173,7 +173,8 @@
       "Bible Gateway web"
     ],
     "caveats": [
-      "No key required for API, but text remains copyrighted"
+      "No key required for the official passage API, but text remains copyrighted and API use must comply with the NET Bible copyright terms.",
+      "The published terms permit qualifying non-commercial apps with NET attribution/link requirements; commercial publication requires licensing contact."
     ],
     "sources": [
       "https://labs.bible.org/api_web_service",
