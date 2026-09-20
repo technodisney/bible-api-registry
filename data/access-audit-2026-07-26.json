@@ -409,7 +409,7 @@
     },
     {
       "translation": "Lexham English Bible",
-      "checked_at": "2026-08-12",
+      "checked_at": "2026-09-20",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/90-leb-lexham-english-bible"
@@ -421,7 +421,7 @@
           "status": "official documentation lists LEB; requests require an access token and the API returns only translations for which that token is authorised"
         }
       ],
-      "record_status": "Bible App identifies Logos Bible Software as publisher and Baker Publishing Group copyright (2012). Bible Gateway lists LEB in its API documentation, but the route is access-token/authorisation-dependent; no public standalone API entitlement was confirmed. The former lexhamenglishbible.com source now redirects to an unrelated retailer search and is not retained."
+      "record_status": "Bible App identifies Logos Bible Software as publisher and Baker Publishing Group copyright (2012). Bible Gateway's current LEB notice permits giveaway distribution but not selling the LEB on its own; a larger commercial work may contain less than 25% LEB, attribution is always required, and commercial-product giveaway or sales containing more than 1,000 verses require annual reporting. Bible Gateway lists LEB in its API documentation, but the route is access-token/authorisation-dependent; no public standalone API entitlement was confirmed. The former lexhamenglishbible.com source now redirects to an unrelated retailer search and is not retained."
     },
     {
       "translation": "Complete Jewish Bible",

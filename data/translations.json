@@ -939,11 +939,12 @@
       "Bible Gateway API where authorised"
     ],
     "caveats": [
-      "Copyrighted; free electronic access does not imply unrestricted commercial republication.",
+      "Bible Gateway’s current LEB notice permits giveaway distribution but not sale of the LEB on its own; a larger commercial work may contain under 25% LEB. Attribution is always required, and commercial-product giveaway or sales containing more than 1,000 verses require annual reporting.",
       "Bible Gateway API documentation lists LEB, but an access token is required and returns only translations authorised for that token."
     ],
     "sources": [
       "https://www.bible.com/versions/90-leb-lexham-english-bible",
+      "https://www.biblegateway.com/versions/Lexham-English-Bible-LEB/",
       "https://www.biblegateway.com/api/documentation"
     ],
     "access_links": [
