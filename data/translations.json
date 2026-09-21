@@ -1852,8 +1852,7 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Free Use Bible API",
-      "Bible Gateway web"
+      "Free Use Bible API"
     ],
     "access_links": [
       {
@@ -1870,22 +1869,17 @@
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/api/eng_lsv/GEN/1.json"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Literal-Standard-Version-LSV-Bible/"
       }
     ],
     "caveats": [
       "CC BY-SA 4.0; attribution and share-alike apply.",
+      "The cited Bible Gateway version page currently reports the edition unavailable and is not an access route.",
       "API.Bible availability was not confirmed."
     ],
     "sources": [
       "https://www.bible.com/versions/2660-lsv-literal-standard-version",
       "https://lsvbible.com/",
       "https://bible.helloao.org/api/eng_lsv/books.json",
-      "https://www.biblegateway.com/versions/Literal-Standard-Version-LSV-Bible/",
       "https://ebible.org/details.php?id=englsv"
     ]
   },
@@ -1898,8 +1892,7 @@
     "access": [
       "Bible App consumer reading",
       "direct rights-holder licence where required",
-      "Free Use Bible API",
-      "Bible Gateway web"
+      "Free Use Bible API"
     ],
     "access_links": [
       {
@@ -1921,15 +1914,11 @@
         "kind": "api",
         "name": "Free Use Bible API",
         "url": "https://bible.helloao.org/api/eng_msb/GEN/1.json"
-      },
-      {
-        "kind": "web",
-        "name": "Bible Gateway",
-        "url": "https://www.biblegateway.com/versions/Majority-Standard-Bible-MSB-Bible/"
       }
     ],
     "caveats": [
       "Public domain according to the official licensing page.",
+      "The cited Bible Gateway version page currently reports the edition unavailable and is not an access route.",
       "API.Bible availability was not confirmed."
     ],
     "sources": [
@@ -1937,7 +1926,6 @@
       "https://majoritybible.com/",
       "https://berean.bible/licensing.htm",
       "https://bible.helloao.org/api/eng_msb/books.json",
-      "https://www.biblegateway.com/versions/Majority-Standard-Bible-MSB-Bible/",
       "https://ebible.org/details.php?id=engmsb"
     ]
   },

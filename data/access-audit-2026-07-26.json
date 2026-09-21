@@ -773,7 +773,7 @@
     },
     {
       "translation": "Literal Standard Version",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-09-21",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/2660-lsv-literal-standard-version"
@@ -782,14 +782,14 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_lsv/GEN/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact eng_lsv endpoint verified without a key; metadata identifies the 66-book Literal Standard Version and links to the eBible.org licence/provenance record"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "Covenant Press/LSV Bible, eBible.org, Bible App, Free Use Bible API, Bible Gateway, API.Bible, and YouVersion Platform were rechecked. LSV remains CC BY-SA 4.0 with attribution, change-notice, and share-alike conditions; the cited Bible Gateway version page reports the edition unavailable and was removed as an access route. API.Bible and YouVersion Platform require app credentials/licence agreements, and no exact LSV entitlement was confirmed."
     },
     {
       "translation": "Majority Standard Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-09-21",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/4754-msb-majority-standard-bible"
@@ -798,10 +798,10 @@
         {
           "name": "Free Use Bible API",
           "url": "https://bible.helloao.org/api/eng_msb/GEN/1.json",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "exact eng_msb endpoint verified without a key; metadata identifies the 66-book Majority Standard Bible and links to the eBible.org licence/provenance record"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "BSB Publishing/Berean licensing, Majority Bible, eBible.org, Bible App, Free Use Bible API, Bible Gateway, API.Bible, and YouVersion Platform were rechecked. The official licensing page says the Majority Bible texts were placed in the public domain on 30 April 2023; the cited Bible Gateway version page reports the edition unavailable and was removed as an access route. API.Bible and YouVersion Platform require app credentials/licence agreements, and no exact MSB entitlement was confirmed."
     },
     {
       "translation": "New Messianic Version Bible",
