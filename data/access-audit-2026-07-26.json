@@ -643,7 +643,7 @@
     },
     {
       "translation": "Orthodox Jewish Bible",
-      "checked_at": "2026-07-26",
+      "checked_at": "2026-09-25",
       "bible_app": {
         "status": "verified",
         "url": "https://www.bible.com/versions/130-tojb2011-the-orthodox-jewish-bible"
@@ -652,15 +652,15 @@
         {
           "name": "Bible Gateway API",
           "url": "https://www.biblegateway.com/api/documentation",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official documentation verified: requests require an access token and return only translations for which that token is authorised"
         },
         {
           "name": "YouVersion Platform",
           "url": "https://platform.youversion.com/",
-          "status": "route verified; edition entitlement remains licence/key-specific"
+          "status": "official platform route verified; a registered app/App Key and relevant accepted licence agreements are required, and no exact public OJB entitlement was confirmed"
         }
       ],
-      "record_status": "verified access routes; licensing remains governed by linked primary sources"
+      "record_status": "AFII's current publisher PDF, Bible App, Bible Gateway reader/API, and YouVersion Platform were rechecked. AFII's PDF now identifies the 2023 OJB copyright notice and permits up to 500 verses without written permission only if no complete Bible book is quoted and the required notice is used; other use requires contacting AFII. No credential-free standalone OJB API or exact public platform entitlement was confirmed. Consumer reader availability is not API entitlement."
     },
     {
       "translation": "The New Testament for Everyone",
